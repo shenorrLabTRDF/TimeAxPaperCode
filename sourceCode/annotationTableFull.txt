@@ -1,0 +1,200 @@
+	Patient_ID	Tumor_Number	Prim_Rec_Prog	Sex	ID_Previous_Study	Subtype_IHC	Subtype_LundTax_RNA	Consensus_Subtype_RNA	Subtype_Shifts	DNA_yield_ng	ESTIMATE_purity	FGFR3mut	PIK3CAmut	TERTmut	p53_IHC_Pattern	p53_IHC_Concordance	p53_IHC_Summary	Months_from_Primary	Progression_type	Stage	Grade_WHO1999	Grade_WHO2004	Concomittant_CIS	Variant_histology_divergent_differentiation	Substage_T1_m/e	Substage_T1_abc	Muscularis_Incl	IVT_Type	Comment_IHC_Classification	CCNB1_Score	CCND1_Score	CDH1_Score	EPCAM_Score	ERBB2_Score	FGFR3_Score	FOXA1_Score	GATA3_Score	KRT14_Score	KRT5_Score	p16_Score	RB1_Score	TUBB2B_Score	VIM_Score	ZEB2_Score
+PROG_001	1	1	primary	MALE	PMID:25770486 	Uro	UroC	Lum-P		3161.86	0.853498033	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			1.5	0.25	3	2	2	3	0.5	1.8	0	0.15	1	0.85	1.5	0	0
+PROG_002	1	2	rec	MALE		Uro	ScNE	Stroma-rich	Uro > ScNE (RNA)	3076.32	0.767889401	wt	wt	wt	WT	conc	WT	1.7		T1	G3	HG	No		N/A	N/A	Yes			1	0.45	3	3	0	0	3	0.15	0	0.1	1	0.8	1	0	0
+PROG_003	1	3	rec	MALE		Uro	UroA-Prog	Lum-P	ScNE > Uro (RNA)	17075.76	0.90398335	R248C	wt	wt	WT	conc	WT	9.8		T1	G3	HG	No		m	a	No			2.5	0	3	3	2	2	0	2.7	0	0	1	0.85	0.5	0	0
+PROG_004	1	4	rec	MALE		Uro	UroC	Lum-P		7106.84	0.924933118	wt	wt	C228T	WT	conc	WT	22.4		T1	G3	HG	No		e	c	Yes			3	0	3	3	2	1	0	2.7	0.15	0.1	1	0.9	1.5	0	0
+PROG_005	1	5	prog	MALE		Ba/Sq	Ba/Sq	Basal/Squamous	Uro > Ba/Sq (RNA+IHC)	1972.62	0.690650184	wt	wt	C228T	WT	conc	WT	26.3	MIBC	T2	G3	HG	No		N/A	N/A	Yes	No BCG		2.5	0.8	1	0	0	1	0	1.6	2.7	2.1	1.5	0.55	3	0	0
+PROG_006	2	1	primary	FEMALE		GU	GU	Lum-U		1597.7	0.913897242	R248C	wt	wt	OE	conc	ALT	0		T1	G3	HG	No		m	a	No			2.5	0	3	3	1.5	1	0.5	1.7	0	0	2	0	1	0	0
+PROG_007	2	3	rec	FEMALE		GU	GU	Lum-U		5434	0.824344982	wt	wt	C228T_C242T	OE	conc	ALT	6.7		T1	G3	HG	No		m	a	No			3	0	1.75	3	1	1.5	1.55	2.7	0	0	2.5	0	1.5	0	0
+PROG_008	2	4	rec	FEMALE		GU	UroC	Lum-U		9733.1	0.89415244	wt	wt	wt	OE	conc	ALT	15.3		T1	G3	HG	No		m	b	Yes			2.5	0	2.5	3	1	2	1.5	2.7	0	0	1	0	0	0	0
+PROG_009	2	5	prog	FEMALE		GU	UroC	Lum-P		8193.64	0.958452942	wt	wt	wt	OE	conc	ALT	19.3	MIBC	T2	G3	HG	No		m	a	Yes	BCG		3.5	0	3	3	1.5	2	3	2.7	0	0	2.5	0	0	0	0
+PROG_010	3	1	primary	MALE	PMID:25770486 	Uro	UroC	Lum-NS		639.86	0.656272021	S249C	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			2.5	0.55	3	3	1.5	1.5	0	2	0	0.1	1.75	0.85	0	0	0
+PROG_011	3	5	prog	MALE		Uro	UroC	Lum-NS		4601.22	0.810276087	wt	wt	C228T_C242T	WT	conc	WT	22.8	MIBC	T4	G3	HG	No		N/A	N/A	Yes	MMC no BCG		2.5	0	3	3	1	1	0	2.25	0	0	2	0.9	0	0	0
+PROG_012	4	1	primary	MALE	PMID:25770486 	GU	GU	Lum-U		10013.64	0.845906216	wt	wt	C228T	OE	conc	ALT	0		T1	G3	HG	No		e	b	No			3.5	0	3	3	1.5	0	1	2.55	0	0	2.5	0	0	0	0
+PROG_013	4	3	prog	MALE		Sc/NE	ScNE	Basal/Squamous	GU > ScNE (RNA+IHC)	2369.64	0.687236168	S249C	wt	C228T	OE	conc	ALT	26.6	M+	T1	G3	HG	No		e	c	Yes	No BCG		2.5	0.1	1.3	3	0	0.5	1	0.8	0	0	2.5	0	1	0	1
+PROG_014	5	3	prog	MALE		Uro	UroC	Lum-NS		3450.98	0.853965941	wt	E542K	C228T	OE	conc	ALT	10.6	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		2	0.75	3	1	2	1	2.5	1.8	0	0	1	0.85	0	0	0
+PROG_015	6	1	primary	FEMALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		16186.56	0.926692267	R248C	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	b	No			3	1.4	3	3	1	2.5	0.5	1.7	0	0.05	1.5	0.75	0	0	0
+PROG_016	6	2	rec	FEMALE		Uro	UroA-Prog	Lum-P		7195.76	0.885909298	R248C	wt	C228T	WT	conc	WT	0.7		T1	G3	HG	No		e	c	No			2.5	0.5	3	3	1	2	0.5	1.8	0	0	2	0.8	0	0	0
+PROG_017	6	3	rec	FEMALE		Uro	UroA-Prog	Lum-P		6728.28	0.928151438	R248C	wt	C228T	WT	conc	WT	2.3		T1	G3	HG	No		m	b	Yes			2.5	0.5	3	3	1.5	2.5	2	2.25	0	0.1	0	0.6	0	0.1	0
+PROG_018	6	4	prog	FEMALE		Uro	UroA-Prog	Lum-P		7480.98	0.941591569	R248C	wt	C228T	WT	conc	WT	6.7	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		2.5	0.95	2.5	3	1	3	0.5	1.7	0.15	0	1.5	0.8	0	0	0
+PROG_019	7	1	primary	MALE		Uro	UroA-Prog	Lum-P		12556.18	0.939334327	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			1.5	1.5	3	3	2	1.5	1	0.8	0.15	0.15	1	0.85	2	0	0
+PROG_020	7	3	prog	MALE		Uro	UroC	Lum-NS		3855.02	0.696378227	wt	wt	C228T	WT	conc	WT	13.9	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		3	1.6	3	3	1	3	0.5	0.7	0	0	0.5	0.85	1.5	0	0
+PROG_021	8	2	rec	MALE		Uro	UroA-Prog	Lum-NS		4221.88	0.663408943	wt	wt	C228T	WT	N/A	WT	12.1		T1	G3	HG	No	Squamous differentiation	N/A	N/A	Yes			1	1	3	2.5	1.5	0	1.5	2.25	0	0.2	1	0.85	0	0	0
+PROG_022	8	4	prog	MALE		Uro	UroA-Prog	Lum-P		8421.4	0.79732551	wt	wt	C228T	WT	conc	WT	42.7	MIBC	T3M1	G3	HG	No		N/A	N/A	Yes	BCG		1.5	0.6	2.1	1.35	1	1	0.5	0.7	0.1	0.6	1	0.75	0	0	0
+PROG_023	9	1	primary	MALE		Uro	UroA-Prog	Lum-P		7506.72	0.827485718	S249C	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		e	c	Yes			2	0.7	3	2.5	1.5	2	0	0.95	0.15	0.2	0.5	0.85	1.5	0	0.5
+PROG_024	9	2	rec	MALE		Uro	UroB	Lum-P		1419.86	0.692561054	S249C	wt	C228T	WT	N/A	WT	1.5		T1	G3	HG	No		e	c	Yes			2.5	0.6	2.4	1.3	1	0	0	0.15	0.75	0.45	1	0.8	0	0	0.5
+PROG_025	9	3	prog	MALE		Uro	UroC	Lum-NS		4934.54	0.749989258	wt	wt	C228T	WT	conc	WT	55	MIBC	T2	G3	HG	No	Squamous differentiation	N/A	N/A	Yes	No BCG		3	0	3	3	1	2	0	1.7	0	0	0.5	0.8	1	0	0
+PROG_026	10	1	primary	MALE		Uro	UroA-Prog	Lum-P		7120.62	0.819622014	wt	wt	C228T	WT	conc	WT	0		N/A	N/A	N/A	N/A		N/A	N/A	N/A			1	0.45	3	3	2	1.6	3	0.85	0	0.75	0	0.8	0	0	0
+PROG_027	10	3	rec	MALE		Uro	UroB	Stroma-rich		1185.34	0.787920882	wt	wt	C228T	WT	conc	WT	12.7		T1	G2	HG	No		e	c	Yes			1	0.05	3	1.35	2	1	1	0.4	0	0.55	0	0.55	0	0	0
+PROG_028	10	4	rec	MALE		Uro	UroA-Prog	Lum-P		2023.06	0.962986518	wt	wt	C228T	WT	conc	WT	18.6		Ta	G2	LG	No		N/A	N/A	Yes			1.5	1	3	3	2	1.5	2.5	1.5	0.25	1	0	0.75	0	0	0
+PROG_029	10	5	rec	MALE		Uro	UroA-Prog	Lum-P		4566.38	0.972614021	wt	wt	C228T	WT	conc	WT	23.5		Ta	G3	HG	No		N/A	N/A	Yes			1.5	0.6	3	3	1.5	1	3	1.9	0	0.3	1	0.85	0	0	0
+PROG_030	10	6	rec	MALE		Uro	UroB	Lum-P		1181.44	0.828887143	Y375C	wt	N/A	WT	conc	WT	27.2		Ta	G2	LG	No		N/A	N/A	No			2	0.7	3	3	2	3	2	1.1	0	0.75	0	0.9	0	0	0
+PROG_031	10	7	rec	MALE		Uro	UroA-Prog	Lum-P		1614.08	0.971032467	Y375C	wt	C228T	WT	conc	WT	33.6		Ta	G2	LG	No		N/A	N/A	Yes			1	0.6	3	3	1	2.5	3	1.8	0	1.2	0.5	0.85	0	0	0
+PROG_032	11	1	primary	MALE		GU	GU	Lum-U		4910.62	0.858866176	wt	wt	C228T	OE	conc	ALT	0		T1	G3	HG	No		e	b	Yes			2.5	0	2.55	3	1	0	0.5	2.15	0	0	1.5	0	0.5	0	0
+PROG_033	11	2	rec	MALE		GU	GU	Lum-U		5063.24	0.927354251	wt	wt	C228T	OE	conc	ALT	1.4		T1	G3	HG	No		e	c	Yes			3.5	0	3	3	2	0	0.5	2.7	0	0	2.5	0	0.5	0	0
+PROG_034	11	3	rec	MALE		GU	GU	Lum-U		2302.04	0.913817671	wt	wt	C228T	OE	conc	ALT	6.5		Ta	G2	HG	No		N/A	N/A	N/A			3.5	0	3	3	1	0	0.5	2.7	0	0	2.5	0	2.5	0	0
+PROG_035	12	1	primary	MALE		Uro	UroA-Prog	Lum-P		5473	0.959846922	R248C	wt	C228T	WT	conc	WT	0		Ta	G3	HG	No		N/A	N/A	Yes			2	0.2	3	3	2	2.25	2.5	0.75	0	0	1.5	0.4	0	0	0
+PROG_036	12	4	rec	MALE		Uro	UroC	Lum-NS		1709.24	0.749192306	wt	wt	C228T	WT	conc	WT	10.8		T1	G3	HG	No		m	a	Yes			2	0.5	3	3	1.5	2	1	2.25	0.2	0	0.5	0.85	0	0	0
+PROG_037	13	1	primary	MALE		Uro	UroC	Lum-U		3115.84	0.867929898	wt	wt	wt	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			2	0.85	3	2	1	0.5	2	2.25	0	0	0.05	0.75	0	0	0
+PROG_038	13	2	rec	MALE		GU	UroC	Lum-NS		652.34	0.776668218	wt	wt	wt	OE_WT	dis	DIS	5.1		T1	G3	HG	No		e	b	Yes			1	0.45	2.5	1.5	0	0	0.5	1.2	0	0.5	1	0.4	0	0	0
+PROG_039	13	4	prog	MALE		GU	UroB	Stroma-rich		297.44	0.614717095	wt	wt	wt	WT	conc	WT	22	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		1.5	0.85	3	2	0.5	0	0.5	0.2	0	0.45	1	0.3	0.5	0.25	0
+PROG_040	14	1	primary	MALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		12465.18	0.897940716	Y375C	H1047R	C228T	WT	conc	WT	0		T1	G3	HG	No		m	b	Yes			2	1.2	3	3	1.5	2.5	2.5	2.6	0	0.2	1	0.85	0	0	0
+PROG_041	14	3	prog	MALE		Ba/Sq	Ba/Sq	Basal/Squamous	Uro > Ba/Sq (RNA)	592.28	0.506862392	G372C	wt	C228T	OE	conc	ALT	42.5	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		2.5	0.8	2.5	0.5	0	2	1	0.6	1.95	1.8	0	0.85	0	0	0.5
+PROG_042	15	1	primary	FEMALE	PMID:25770486 	GU	UroB	Lum-P		6668.74	0.784781062	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		e	c	Yes			2	0.1	3	2.5	1.5	1.5	2	1.25	0	0.15	2	0.45	0	0	0.5
+PROG_043	16	1	primary	FEMALE		Uro	UroA-Prog	Lum-P		8808.54	0.944620051	wt	wt	C228T	OE	conc	ALT	0		Ta	G3	HG	No		N/A	N/A	No			2.5	0.6	3	3	1	3	2.5	2.7	0	0.05	0	0.55	0.5	0	0
+PROG_044	16	4	prog	FEMALE		Uro	GU	Basal/Squamous	Uro > GU (RNA)	3224.52	0.673774727	wt	wt	C228T	OE	conc	ALT	8.8	MIBC	T2	G3	HG	No		N/A	N/A	Yes	No BCG		2.5	0.3	1	2	0	0	1	0.6	0	0.5	1	0.8	0	0	1.5
+PROG_045	17	1	primary	MALE	PMID:25770486 	N/A	UroA-Prog	Lum-P		3840.2	0.898798876	wt	wt	C228T	N/A	N/A	N/A	0		T1	G3	N/A	N/A		N/A	N/A	Yes			N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PROG_046	17	3	prog	MALE		Ba/Sq	Ba/Sq	Basal/Squamous	Uro > Ba/Sq (RNA)	6419.66	0.620229616	wt	E542K	wt	OE_het	conc	ALT	16.7	MIBC	T2	G3	HG	No	Squamous differentiation	N/A	N/A	Yes	BCG		2	0.35	2.5	1.5	0	1	0.5	0.05	1.95	2.55	0	0.8	0.5	0	1.5
+PROG_047	18	1	primary	MALE		Uro	UroC	Lum-P		5707	0.821770882	wt	wt	C250T	WT	conc	WT	0		T1	G3	HG	No		e	c	Yes			2.5	1.05	3	3	1	1.6	2	0.1	0	0.05	1.5	0.8	0	0	0.5
+PROG_048	18	2	rec	MALE		Uro	UroC	Lum-NS		706.42	0.692942372	wt	wt	wt	WT	N/A	WT	2.6		Ta	G2	LG	No		N/A	N/A	Yes			3	1.4	1.5	1.5	1	2	3	0.2	0	0	2	0.8	0	1.35	0
+PROG_049	19	4	prog	MALE		Uro	UroC	Stroma-rich		967.46	0.516727022	wt	wt	C250T	OE	conc	ALT	137.3	MIBC	T2	G3	HG	No		N/A	N/A	Yes	No BCG		3	0	3	1.5	1	2	1	1.7	0	0	0	0.7	0	0	0
+PROG_050	20	1	primary	MALE		Uro	UroA-Prog	Lum-P		12179.96	0.937425455	S373C	wt	C228T	WT	conc	WT	0		Ta	G2	HG	No		N/A	N/A	Yes			2	2.7	3	2	1	2	2.5	1.8	0	0.2	0	0.85	0	0	0
+PROG_051	20	2	rec	MALE		Uro	UroA-Prog	Lum-P		7701.46	0.939675764	S373C	wt	C228T	WT	conc	WT	3.2		Ta	G2	HG	No		N/A	N/A	Yes			2	0.45	3	2	1	1.5	2.5	2.25	0	0.05	0	0.85	0	0	0
+PROG_052	20	3	rec	MALE		Uro	UroA-Prog	Lum-P		7892.04	0.921022141	S373C	wt	C228T	WT	conc	WT	7.1		Ta	G2	LG	No		N/A	N/A	No			2.5	2.7	3	2	1	2.5	3	1.8	0	0.2	0	0.9	0	0	0
+PROG_053	20	4	rec	MALE		Uro	UroA-Prog	Lum-P		3533.92	0.968733285	S373C	wt	C228T	WT	conc	WT	15.2		Ta	G2	HG	No		N/A	N/A	No			2	1.4	3	3	1	2.5	3	2.7	0	0.4	0	0.9	0	0	0
+PROG_054	20	5	rec	MALE		Uro	UroA-Prog	Lum-P		6925.62	0.864212579	S373C	wt	C228T	WT	conc	WT	21.2		Ta	G2	HG	No		N/A	N/A	Yes			2.5	0.7	3	2	0.5	2	2	1.8	0	0.15	0	0.9	0	0	0
+PROG_055	20	7	prog	MALE		Uro	UroC	Lum-NS		10432.76	0.866039807	S373C	wt	C228T	WT	conc	WT	51.7	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG + MMC		3	0.8	3	3	1	2	2	1.8	0	0.5	1	0.9	0	0	0
+PROG_056	21	1	primary	FEMALE		GU	GU	Lum-U		6436.3	0.797776386	wt	E545K	C228T	CA	conc	ALT	0		T1	G3	HG	No		e	c	Yes			4	0	3	3	1.5	0	2.5	2.55	0	0	1.5	0	0.5	0	0
+PROG_057	21	3	prog	FEMALE		GU	GU	Lum-U		2913.56	0.728555622	wt	wt	C228T	WT	conc	WT	33.6	MIBC	T3a	G3	HG	No		N/A	N/A	N/A	"MMC, no BCG"		3	0	0	3	1	0	2.5	1.8	0	0	1.5	0	0	0	1
+PROG_058	22	2	rec	MALE		Uro	UroA-Prog	Lum-P		2438.02	0.974869435	K652E	wt	C228T_C242T	WT	conc	WT	72.5		Ta	G2	HG	No		N/A	N/A	Yes			1	0.35	3	3	2	2	2	1.7	0	0	0	0.55	0	0	0
+PROG_059	22	3	prog	MALE		Uro	UroC	Lum-NS		5517.72	0.736087376	wt	wt	C228T	CA_WT	dis	DIS	78.5	MIBC	T2	G3	HG	No		N/A	N/A	Yes	No BCG		2	1.6	3	3	1	2	2.5	1.8	0	0	2	0.8	0	0	0
+PROG_060	23	3	rec	MALE		Uro	GU	Lum-U		2178.02	0.703869153	wt	wt	C228T	CA	conc	ALT	8.6		T1	G3	HG	No		m	b	Yes			3	0	2.5	3	2.5	0	0	1.2	0	0	0	0.8	1	0.25	0
+PROG_061	23	4	rec	MALE		Uro	GU	Lum-U		11828.44	0.733076907	wt	wt	C228T	WT	conc	WT	9.9		T2	G3	HG	No		N/A	N/A	Yes			2	0	3	3	1.5	1.5	3	2.7	0	0	1	0.9	0	0	0
+PROG_062	23	5	prog	MALE		Uro	GU	Stroma-rich		7103.98	0.685657222	wt	wt	C228T	WT	conc	WT	12.2	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		2.5	0	3	3	2	2	2.5	2.55	0	0	1	0.9	0	0	0
+PROG_063	24	1	primary	MALE		Ba/Sq	Ba/Sq	Basal/Squamous		744.38	0.853420175	wt	E545K	C228T	CA	conc	ALT	0		T1	G3	HG	No		N/A	N/A	N/A			2.5	0.05	3	2	0	1.5	0	0	1.65	1.8	0	0.6	0	0	0
+PROG_064	24	2	prog	MALE		Ba/Sq	Ba/Sq	Basal/Squamous		1348.88	0.765275811	wt	E545K	C228T	CA_WT	dis	DIS	22.3	MIBC	T2	G3	HG	No		N/A	N/A	N/A	No BCG		2	0.4	3	2	0.5	2	0.5	0	2.55	2.55	0	0.75	0	0.4	1.5
+PROG_065	25	1	primary	MALE	PMID:25770486 	GU	GU	Lum-P		1068.08	0.836840946	N/A	N/A	N/A	CA	conc	ALT	0		T1	G3	HG	No		N/A	N/A	Yes			2.5	0.1	3	2.65	1.5	0.5	2	1.8	0	0.5	3	0	1.5	0.1	0
+PROG_066	25	3	rec	MALE		GU	UroB	Lum-P	GU > Uro (RNA)	3434.86	0.900558388	wt	E542K	N/A	WT	conc	WT	83.5		Ta	G2	HG	No		N/A	N/A	Yes			2.5	0	3	3	1	2.5	1.5	1.6	0	0.5	2	0	0	0	0
+PROG_067	25	4	prog	MALE		Sc/NE	ScNE	NE-like	"GU > ScNE (IHC), Uro > ScNE (RNA)"	3818.88	0.923292964	wt	E542K	wt	OE_het	conc	ALT	86.1	MIBC	T2	G3	HG	No	Neuroendocrine differentiation	N/A	N/A	Yes	No BCG		5.5	0	1.4	3	0	0	0	0	0.45	0.25	3	0	2.5	0.3	0
+PROG_068	26	1	primary	MALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		10443.16	0.844179256	R248C	H1047L	C228T	WT	conc	WT	0		T1	G3	HG	No		e	b	Yes			1	1.4	3	1.5	0.5	1.8	2.5	2.7	0	0.3	0	0.9	0	0	0
+PROG_069	26	3	rec	MALE		Uro	UroA-Prog	Lum-P		1561.56	0.841134276	S249C	wt	C228T	WT	conc	WT	15.6		T1	G3	HG	No		e	c	Yes			0.5	0.7	3	2.5	0.5	1.5	2.5	2.7	0	0.3	0	0.7	1.5	0.2	0.5
+PROG_070	26	4	rec	MALE		Uro	UroA-Prog	Lum-P		797.42	0.821189814	wt	wt	C228T	WT	conc	WT	25		T1	G2	HG	No		e	b	Yes			1	1.5	3	2	0	2	2	1.8	0	0.45	0.5	0.8	0	0	0.5
+PROG_071	26	5	prog	MALE		Uro	UroB	Stroma-rich		10879.7	0.557456855	wt	wt	wt	WT	conc	WT	44	MIBC	T3NxM1	G3	HG	No		N/A	N/A	Yes	No BCG		1	0.45	3	3	0.5	1.5	2	1.7	0.15	0.6	0.5	0.65	0	0.1	0
+PROG_073	28	1	primary	MALE	PMID:25770486 	GU	UroC	Lum-NS		616.2	0.781992739	wt	wt	C228T_C242T_C250T	WT	N/A	WT	0		T1	G3	HG	No		m	b	Yes			0	0.7	3	2	1	0.6	2	1.6	0	0.1	0.5	0.2	0	0	1
+PROG_074	28	2	rec	MALE		GU	UroA-Prog	Lum-NS		3473.6	0.713159779	wt	wt	C250T	WT	conc	WT	2		T1	G2	HG	No	Glandular differentiation	e	c	Yes			0	0.25	3	1.5	1	1	2.5	1.6	0	0.1	1	0.45	0	0.05	0
+PROG_075	29	12	rec	FEMALE		Uro	UroA-Prog	Lum-P		945.1	0.827490127	S249C	E545K	C228T	WT	conc	WT	88.4		T1	G3	HG	No		m	b	Yes			0.5	0.7	3	3	0.5	1	1	0.75	0	1.05	0.5	0.75	0	0	0
+PROG_076	29	13	rec	FEMALE		Uro	UroA-Prog	Lum-P		962	0.900323772	S249C	E545K	C228T	WT	conc	WT	92.6		Ta	G2	HG	No		N/A	N/A	Yes			0	0.7	3	3	0	1	1	2.7	0	1.4	1	0.7	0	0	0.5
+PROG_077	29	17	prog	FEMALE		Uro	UroA-Prog	Lum-P		1330.42	0.861534018	S249C	E545K	C250T	WT	N/A	WT	147.8	MIBC (T2G2) 	Ta	G2	HG	No		N/A	N/A	Yes	No BCG		1	1.05	3	3	1	1.5	1	1.25	0	1.8	1	0.85	0	0.1	0.5
+PROG_078	30	1	primary	MALE		Uro	UroA-Prog	Lum-P		13709.8	0.875599154	S249C	wt	C228T	WT	conc	WT	0		Ta	G2	HG	No		N/A	N/A	Yes			1.5	0.7	3	2	0.5	1.5	1	1.25	0.45	0.05	0	0.8	0	0	0
+PROG_079	30	3	rec	MALE		Uro	UroB	Lum-P		1753.96	0.93960894	S249C	wt	wt	WT	conc	WT	10.4		Ta	G3	HG	No		N/A	N/A	Yes			2	0.75	3	3	1	2	3	2.55	0.45	1.5	0	0.9	0.5	0	0
+PROG_080	30	4	rec	MALE		Uro	UroB	Lum-P		5623.28	0.917299729	S249C	wt	wt	WT	conc	WT	20.6		Ta	G2	HG	No		N/A	N/A	No			2	1.15	3	3	2	2	2.5	1.8	0	0.25	0.5	0.65	0	0	0.5
+PROG_081	30	5	rec	MALE		Uro	UroB	Lum-P		1083.94	0.79684992	S249C	wt	wt	WT	conc	WT	33.5		Ta	G2	HG	No		N/A	N/A	Yes			1	0.5	3	3	1	2	2	1.8	0.3	1.6	1	0.55	0	0	0
+PROG_082	30	6	prog	MALE		Uro	UroB	Lum-P		9279.92	0.846398815	S249C	wt	C242T	WT	conc	WT	51.2	MIBC (T2G3)	T1	G3	HG	No		e	c	Yes	BCG		2.5	0.5	3	3	1	2	1.5	0.75	0.15	1.4	1	0.9	0.5	0	0
+PROG_083	31	1	primary	MALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		2148.38	0.90925437	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			2	0.15	2.5	0	2	1.5	0	0.55	0	0	0.5	0.65	0.5	0	0
+PROG_084	31	3	rec	MALE		Uro	UroC	Lum-NS		1493.96	0.741424859	wt	wt	C228T	WT	N/A	WT	52.8		T1	G3	HG	No		m	b	No			2	0.2	3	3	1	1	1	2.7	0	0	1	0.9	0.5	0	0
+PROG_085	31	4	rec	MALE		Uro	UroC	Lum-NS		1223.56	0.6224605	wt	wt	C228T	WT	N/A	WT	54.2		T1	G3	HG	Yes		e	c	Yes			1.5	0	3	3	2	0.5	1	2.25	0	0	0.5	0.8	0	0	0
+PROG_086	32	1	primary	MALE		Mes	GU	Lum-U		1730.04	0.746419066	wt	wt	C228T	OE	conc	ALT	0		T1	G3	HG	No	Glandular differentiation	m	a	No			4.5	0	1.5	0	0	0	0	0.7	0	0	2.5	0	1	2.7	3
+PROG_087	32	2	rec	MALE		N/A	Mes	Stroma-rich	GU > Mes (RNA)	737.36	0.428124326	wt	wt	wt	OE	N/A	ALT	1.4		T1	G3	HG	No	Glandular differentiation	e	c	Yes			1	N/A	0.6	0.9	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PROG_088	33	1	primary	MALE		Uro	UroA-Prog	Lum-P		7426.9	0.937306899	wt	wt	C228T	WT	conc	WT	0		Ta	G3	HG	No		N/A	N/A	Yes			2	1.9	2	2	0.5	1	3	2.7	0	0.2	0	0.7	0	0	0
+PROG_089	33	2	rec	MALE		Uro	UroA-Prog	Lum-P		2319.2	0.776402707	wt	wt	C228T	WT	conc	WT	3		Ta	G3	HG	No		N/A	N/A	Yes			3	1.6	2	0.5	1	2.5	3	2.7	0	0	0	0.9	0	0	0
+PROG_090	33	4	rec	MALE		Uro	UroA-Prog	Lum-P		2873.52	0.957328417	wt	wt	C228T	WT	conc	WT	10.3		Ta	G3	HG	No		N/A	N/A	Yes			1.5	0.5	3	2	1	0.95	2	2	0	0	0	0.8	0	0	0
+PROG_091	33	5	rec	MALE		Uro	UroA-Prog	Lum-P		12815.4	0.939964559	R248C	wt	C228T	WT	conc	WT	179.7		Ta	G3	HG	No		N/A	N/A	Yes			3	1.3	3	2.5	2	2.5	3	2.25	0	0.1	0	0.85	0	0	0
+PROG_092	34	1	primary	MALE		Uro	UroA-Prog	Lum-P		756.34	0.857038816	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			2	0.05	3	2.5	1	0.5	2.5	1.05	0	0	1	0.7	0	0	0
+PROG_093	34	4	rec	MALE		Uro	UroC	Lum-NS		752.7	0.772359409	wt	wt	C228T	WT	N/A	WT	16.9		T1	G3	HG	No		m	a	Yes			N/A	0.6	1.5	3	2	2	3	2.7	0	0.9	N/A	0.8	0	0	0
+PROG_094	35	2	rec	MALE		Uro	UroA-Prog	Lum-P		6294.08	0.90164394	S249C	wt	C228T	WT	conc	WT	4.5		Ta	G2	HG	No		N/A	N/A	Yes			1.5	0.4	3	3	1	3	3	2.25	0	0.2	1	0.9	0	0	0
+PROG_095	35	4	prog	MALE		GU	UroC	Stroma-rich		3256.76	0.643899654	wt	wt	C250T	WT	conc	WT	26.2	MIBC	T2	G3	HG	No		N/A	N/A	Yes	No BCG		0	0	3	1.5	1	1.5	1	1.75	0	0	1.5	0.15	0	0	0
+PROG_096	36	1	primary	MALE		Uro	UroA-Prog	Lum-P		4439.76	0.900112423	wt	wt	wt	WT	conc	WT	0		Ta	G3	HG	No		N/A	N/A	Yes			1	1.5	3	2.5	1.5	1	0.5	0.55	0	0.25	0	0.45	0	0	0
+PROG_097	36	2	rec	MALE		Uro	UroA-Prog	Lum-P		2710.76	0.924145623	wt	wt	wt	WT	conc	WT	9.2		Ta	G2	HG	No		N/A	N/A	Yes			1.5	2.7	3	2.15	1	0	2.5	2.7	0	0.1	0	0.9	0	0	0
+PROG_098	36	3	prog	MALE		Uro	UroA-Prog	Lum-P		6450.86	0.893557185	wt	wt	wt	WT	conc	WT	11.9	M+	T1	G2	HG	No		N/A	N/A	Yes	No BCG		2	1.95	3	3	1	0.5	2.5	2.7	0	0.1	0	0.8	0	0	0
+PROG_099	38	1	primary	MALE		Uro	UroA-Prog	Lum-P		6578.52	0.975116108	wt	wt	C228T	CA	conc	ALT	0		T1	G3	HG	No		m	a	Yes			2.5	1.1	3	3	2	0	2	2.7	0	0	0.5	0.65	0	0	0
+PROG_100	38	3	rec	MALE		Uro	UroA-Prog	Lum-P		11855.22	0.962612798	wt	wt	C228T	WT	conc	WT	14.1		Ta	G2	LG	No		N/A	N/A	Yes			2	1.6	3	2.5	1	0.1	3	2.7	0	0	0	0.9	0.5	0	0
+PROG_101	38	5	rec	MALE		Uro	UroC	Lum-P		1709.24	0.829672166	wt	wt	C228T	WT	conc	WT	28.4		Ta	G2	HG	No		N/A	N/A	Yes			2	1.85	3	2.5	0	0.5	2	2.55	0	0	0	0.8	0	0	0
+PROG_102	38	6	rec	MALE		Uro	UroA-Prog	Lum-P		9424.74	0.967952365	wt	wt	C228T	WT	conc	WT	34.8		T1	G3	HG	No		m	a	Yes			2.5	2.15	3	2.5	0	0.5	1.5	2.7	0	0	0	0.8	0	0	0
+PROG_103	38	7	prog	MALE		Uro	UroC	Lum-P		7418.32	0.882862359	wt	wt	C228T	WT	conc	WT	38.9	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		1	0.5	3	1.5	1	0	1	1.6	0	0	0	0.55	0	0	0
+PROG_104	39	1	primary	MALE	PMID:25770486 	N/A	UroC	Lum-P		1931.8	0.85742492	wt	E542K	C228T	N/A	N/A	N/A	0		T1	G2	HG	No	Glandular differentiation	e	c	Yes			N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PROG_105	39	2	rec	MALE		GU	GU	Lum-U		11305.06	0.81055655	S249C	E545K	C228T	WT	conc	WT	1.8		T1	G3	HG	No	Glandular differentiation	e	c	Yes			2	0.3	2	3	1	0.5	1	0.7	0	0	2	0	1	0	0
+PROG_106	39	3	prog	MALE		GU	GU	Stroma-rich		1129.96	0.736808439	wt	E545K	C228T_C242T_C250T	WT	conc	WT	13.5	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		3	0	3	3	1	1	0	0.05	0	0	0.75	0	0	0	0
+PROG_107	40	1	primary	MALE		Uro	UroA-Prog	Lum-P		13215.28	0.925140719	S249C	wt	C228T	WT	conc	WT	0		Ta	G2	HG	No		N/A	N/A	Yes			1	0.35	3	3	1	2	2	2.15	0.9	1.15	1	0.8	0	0.1	0
+PROG_108	40	2	rec	MALE		Uro	UroA-Prog	Lum-P		2967.38	0.948193246	S249C	wt	C228T	WT	conc	WT	10.9		Ta	G2	HG	No		N/A	N/A	No			1	0.4	3	3	0.5	2.5	3	2.7	0.4	0.2	1.5	0.85	0	0	0
+PROG_109	40	3	rec	MALE	PMID:28195647 (HYB_266)	Uro	UroA-Prog	Stroma-rich		1082.12	0.75617584	S249C	wt	C228T	WT	N/A	WT	15.9		T1	G3	HG	No		N/A	N/A	Yes			1	0.5	3	3	1	2	1	1.8	0	0.1	0	0.8	0	0	0
+PROG_110	40	4	prog	MALE		Uro	UroB	Stroma-rich		2669.16	0.62248964	S249C	wt	C228T	WT	conc	WT	18.2	MIBC	T4	G3	HG	No		N/A	N/A	N/A	No BCG		1	0.15	3	3	1	2	2	1.8	0.3	0.55	1	0.8	0	0	0
+PROG_111	41	1	primary	MALE		Uro	UroA-Prog	Lum-P		0	0.94518675	wt	wt	C228T	WT	conc	WT	0		N/A	N/A	N/A	N/A		N/A	N/A	N/A			0	1.15	3	2.5	1	2	2	2.7	0.15	0.4	0	0.75	0	0	0
+PROG_112	41	2	rec	MALE		Uro	Ba/Sq	Basal/Squamous	Uro > Ba/Sq (RNA)	0	0.737820677	wt	wt	C228A	OE	conc	ALT	99.8		T1	G3	N/A	N/A		N/A	N/A	N/A			2.5	0.1	3	3	1	1.75	1.5	1.35	1.35	0.4	2	0.85	0	0	0
+PROG_113	41	4	prog	MALE		Mes	Ba/Sq	Basal/Squamous	Uro > Mes (IHC)	0	0.683566489	wt	wt	wt	WT	conc	WT	105.6	MIBC	T3	G3	N/A	N/A		N/A	N/A	N/A	BCG		3.5	0	0	0	0	0	0	0	2.7	0.8	2.5	0.8	0	2.7	1
+PROG_114	42	8	rec	MALE		Uro	UroA-Prog	Lum-P		2378.22	0.943164906	wt	wt	C228T	WT	conc	WT	60.6		Ta	G2	HG	No		N/A	N/A	Yes			1	0.55	3	3	1	1.5	1.5	0.9	0	0	0.5	0.6	0	0	0
+PROG_115	42	10	rec	MALE		Uro	UroA-Prog	Lum-P		3896.36	0.946064178	wt	E545K	C228T	WT	conc	WT	67.5		Ta	G3	HG	No		N/A	N/A	Yes			2.5	0.4	3	3	1	1	1	2.7	0	0.2	1	0.85	0	0	0
+PROG_116	43	1	primary	MALE		Uro	UroB	Stroma-rich		940.16	0.622191731	wt	wt	C250T	WT	conc	WT	0		Ta	G3	HG	Yes		N/A	N/A	No			1.5	0	3	3	1	N/A	1	1.6	0.2	0.1	N/A	0.8	0	0	0
+PROG_117	43	2	rec	MALE		Uro	UroB	Basal/Squamous		4319.12	0.65287566	wt	H1047R	C250T	WT	N/A	WT	6.9		T1	G3	HG	No		e	c	Yes			1.5	0.55	3	3	1	0.5	2.5	0.5	0.2	0.95	0.5	0.65	0.5	0.45	1
+PROG_118	44	1	primary	MALE		Uro	UroB	Lum-P		8578.96	0.913301743	K652E	H1047R	C228T	OE_het	conc	ALT	0		T1	G3	HG	No		m	a	Yes			1	0.4	3	3	1	1.5	2	1.6	0	0.8	1	0.8	0	0	0
+PROG_119	44	2	rec	MALE		Uro	UroA-Prog	Lum-P		1117.74	0.79157967	K652E	H1047R	C228T	WT	N/A	WT	4		Ta	G3	HG	No		N/A	N/A	Yes			1	0.4	3	3	1	2.1	2	1.6	0	1.6	0	0.8	0	0	0
+PROG_120	44	3	rec	MALE		N/A	UroA-Prog	Lum-P		911.82	0.937770266	K652E	H1047R	C228T	N/A	N/A	N/A	11.9		Ta	G2	LG	No		N/A	N/A	No			N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PROG_121	44	4	rec	MALE		Uro	UroB	Lum-P		7094.62	0.868491804	K652E	H1047R	C228T	CA_WT	dis	DIS	25.7		Ta	G2	HG	No		N/A	N/A	Yes			2.5	0.45	3	3	0.5	1	1	0.9	0.45	1.1	0.5	0.8	0	0	0.5
+PROG_122	44	5	prog	MALE		Uro	UroA-Prog	Lum-P		10299.12	0.954435159	K652E	H1047R	C228T	WT	conc	WT	66.2	N+	Ta	G2	HG	No		N/A	N/A	Yes	BCG		2	0.25	3	3	1	1.5	2.5	1.3	0	1.2	1	0.85	0	0	0
+PROG_123	45	2	rec	MALE		GU	Mes	Basal/Squamous		4119.44	0.480994949	wt	wt	C228T_C250T	WT	N/A	WT	3.1		T1	G3	HG	Yes	Neuroendocrine differentiation	e	c	Yes			3	0.25	2.5	3	1	1	3	0.2	0	1.5	2	0.1	0	0.15	1
+PROG_124	45	4	rec	MALE		Sc/NE	ScNE	NE-like	Mes > ScNE (RNA)	3467.1	0.934858651	wt	wt	C228T	CY	conc	ALT	8.8		T1	G3	HG	No	Neuroendocrine differentiation	m	b	No			2.5	0	1.5	3	0	0	0	0	0	0	1.95	0.5	2	0	0
+PROG_125	45	5	prog	MALE	PMID:28195647 (HYB_35)	Sc/NE	ScNE	NE-like		1443.52	0.867584504	wt	wt	C228T	WT	conc	WT	12.3	RC (T1 after BCG)	T1	G3	HG	No	Neuroendocrine variant	e	c	Yes	BCG		2.5	0	0.5	3	0	0	0	0	0	0	3	0.1	2.5	0	0
+PROG_126	46	1	primary	MALE		N/A	UroC	Lum-NS		679.9	0.586158007	wt	wt	C228T	N/A	N/A	N/A	0		cis	G3	HG	No		N/A	N/A	N/A			N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+PROG_127	46	3	rec	MALE		GU	GU	Lum-U	Uro > GU (RNA)	2394.08	0.869756167	wt	wt	C228T	WT	conc	WT	56		T1	G3	HG	No		e	c	Yes			2.5	0	3	3	2	0	0.5	2.7	0	0	1	0.8	1.5	0.05	0
+PROG_128	47	1	primary	MALE		Uro	UroC	Lum-NS		7467.46	0.880492064	wt	wt	C228T	OE_het	conc	ALT	0		Ta	G3	HG	No		N/A	N/A	Yes			2.5	0.35	3	3	1.5	0.7	1	0.8	0	0	1	0.85	1	0	0
+PROG_129	47	3	rec	MALE		Uro	UroC	Lum-NS		1386.84	0.887669513	wt	wt	C228T	OE	N/A	ALT	10.4		Ta	G2	LG	No		N/A	N/A	No			1	0.1	3	2	1	1	2	1.8	0	0	2	0.9	0	0	0
+PROG_130	47	5	prog	MALE		Uro	UroC	Lum-NS		7582.9	0.684589934	wt	wt	C228T	OE_het	conc	ALT	49.2	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		1.5	0	2.35	3	1	2	1.5	1.7	0	0	1	0.9	2	0	0
+PROG_131	48	1	primary	MALE		Uro	UroA-Prog	Lum-P		3936.66	0.932729558	wt	wt	C228T	WT	conc	WT	0		Ta	G3	HG	No		N/A	N/A	N/A			3	2.4	3	1.5	0.5	1.7	3	1.8	1.95	0.2	0.5	0.8	0	0	0
+PROG_132	48	2	rec	MALE		Uro	UroA-Prog	Lum-P		1476.8	0.834238776	wt	wt	C228T	WT	conc	WT	29.4		T1	G2	HG	No		N/A	N/A	N/A			2	2.55	3	3	1.5	2	3	2.7	0.05	0.5	0	0.8	0	0	0
+PROG_133	48	3	rec	MALE		Mes	Mes	Stroma-rich	Uro > Mes (RNA)	1146.34	0.412028643	wt	wt	wt	WT	N/A	WT	30.7		Ta	G2	LG	No		N/A	N/A	N/A			1	N/A	0	0	0	N/A	N/A	N/A	0	N/A	N/A	N/A	N/A	N/A	2
+PROG_134	48	5	rec	MALE		Uro	UroA-Prog	Lum-P	Mes > Uro (RNA)	3119.48	0.893326976	wt	wt	C228T	WT	conc	WT	45.3		T1	G3	HG	No		N/A	N/A	N/A			1.5	1.6	3	2	1	0.5	0.5	1.4	0	0.2	0	0.75	0	0.15	0.5
+PROG_135	48	6	rec	MALE		Uro	Mes	Stroma-rich	Uro > Mes (RNA)	2229.5	0.460347873	wt	wt	C228T	WT	N/A	WT	47.1		Ta	G2	HG	Yes		N/A	N/A	N/A			2	1.8	3	2	1	1	3	2.7	0	0.6	0	0.8	0	0	0
+PROG_136	49	1	primary	MALE	PMID:25770486 	Uro	GU	Lum-U		5903.3	0.793689405	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		e	c	No			3	0	1.5	3	1	0.65	0	0.8	0	0	1	0.85	1	0	0
+PROG_137	49	3	rec	MALE		Uro	GU	Lum-U		1173.9	0.888374417	wt	wt	C228T	OE_WT	dis	DIS	5.3		T1	G3	HG	No		e	b	No			3	0	2.5	3	0.5	0.55	1.5	1	0	0	1.5	0.9	2	0	0
+PROG_138	49	5	prog	MALE		GU	GU	Stroma-rich		7473.7	0.659745434	wt	wt	C228T	OE	conc	ALT	11.5	M+	T1M1	G3	HG	No		e	b	Yes	BCG		5	0	3	3	0	0	0	0	0	0	2	0.9	0	0.05	1
+PROG_139	50	1	primary	MALE		Uro	UroA-Prog	Lum-P		2530.06	0.911126211	S249C	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			1	0.55	3	3	1	2	2	2.7	0	0	0.5	0.7	0	0	0
+PROG_140	50	2	rec	MALE		Uro	UroC	Stroma-rich		1277.12	0.548543695	S249C	wt	C228T	WT	conc	WT	1.1		T1	G3	HG	No		e	b	Yes			2	1.2	1.5	1.5	0	3	2	2.7	0.3	0	1	0.65	0	1.35	1
+PROG_141	50	3	prog	MALE	PMID:28195647 (HYB_315)	Uro	UroC	Lum-NS		798.2	0.744675816	S249C	wt	C228T	WT	conc	WT	12.6	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		1.5	1.2	3	3	1	2	1.5	2.7	0	0	1	0.85	0	0	0
+PROG_142	51	1	primary	FEMALE		Uro	UroA-Prog	Lum-P		4268.94	0.935539407	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	b	Yes			2	1.6	3	2.5	1.5	3	2.5	1.6	0.15	0.1	1	0.8	0	0	0
+PROG_143	51	2	rec	FEMALE		Uro	UroA-Prog	Lum-P		679.64	0.833533378	Y375C	wt	C228T	WT	conc	WT	2.1		Ta	G2	HG	No		N/A	N/A	N/A			2.5	0.25	3	3	1.5	1.15	2	1.7	0	0.25	1	0.9	0	0	0
+PROG_144	51	7	prog	FEMALE		Uro	UroC	Lum-U		4947.8	0.884399108	Y375C	wt	C228T	WT	conc	WT	63	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		4	0.6	3	3	1.5	3	2	0.15	0.1	0	1.5	0.9	0	0	0
+PROG_145	52	4	prog	MALE	PMID:28195647 (HYB_260)	Uro	Mes	Stroma-rich		897	0.443560064	wt	wt	C228T	WT	N/A	WT	22.8	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		3	0	3	3	N/A	0	1	1.8	0	0	1	0.8	0	0.1	0
+PROG_146	53	1	primary	MALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		6047.08	0.902515906	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		e	c	Yes			2	1.8	2.5	2.7	1	0	1	1.35	0	0.1	0	0.9	0.5	0	0
+PROG_147	53	2	rec	MALE		Uro	UroA-Prog	Lum-P		14712.36	0.86899666	wt	wt	C228T	WT	conc	WT	1.8		T1	G3	HG	Yes		e	c	Yes			2	2.55	3	3	1	1	0.5	1.8	0	0	0	0.85	0	0	0
+PROG_148	53	4	prog	MALE		Uro	UroA-Prog	Lum-P		6626.88	0.85944177	G382R	wt	C228T_C242T_C250T	WT	conc	WT	7.6	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		1.5	1.8	3	3	1	1	0.5	2.15	0	0	0	0.9	0	0.1	0
+PROG_149	55	1	primary	MALE		Uro	UroC	Lum-P		2372.5	0.873004966	wt	wt	wt	OE	conc	ALT	0		T1	G3	HG	No		m	a	Yes			2.5	0.15	3	3	0	0	1	2.7	0	0	0.5	0.8	0	0.1	0
+PROG_150	55	3	rec	MALE		Uro	UroC	Lum-P		5482.88	0.857816714	wt	E545K_H1047L	wt	OE	conc	ALT	9.5		T1	G3	HG	No		m	a	No			2	0.15	3	3	0	1	0.5	2.25	0	0	0.5	0.75	0	0	0
+PROG_151	55	6	prog	MALE		GU	ScNE	Stroma-rich	"Sc/NE > GU (IHC), Uro > ScNE (RNA)"	7016.88	0.752396653	wt	wt	wt	WT	conc	WT	N/A	M+	Met	N/A	N/A	N/A		N/A	N/A	N/A	BCG		1	0	2.5	3	0	1	0	0	0	0	0	0	0	2.25	0
+PROG_152	56	1	primary	MALE		Uro	ScNE	NE-like		12251.72	0.957990618	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	a	Yes			2.5	0	1.5	0	0	0	0	0	0.3	1.1	0.5	0.85	1.5	1.95	0
+PROG_153	56	2	rec	MALE		Ba/Sq	ScNE	Basal/Squamous	Uro > Ba/Sq (IHC)	5117.58	0.882142159	wt	wt	wt	WT	N/A	WT	9.9		T1	G3	HG	No		e	c	Yes			3	0.15	0.5	0	0	0	0	0.05	0.75	1.8	2	0.9	2.5	2.7	0
+PROG_154	56	3	rec	MALE	PMID:28195647 (HYB_125)	Mes	Mes	Stroma-rich	Ba/Sq > Mes (IHC)	1099.8	0.726723727	wt	wt	wt	WT	conc	WT	13.9		T1	G3	HG	No		m	a	Yes			2.5	0	0	0	0	0	0	0	0	0.1	0	0.9	0.5	2.7	0
+PROG_155	57	1	primary	MALE		Uro	UroA-Prog	Lum-P		579.8	0.973472809	wt	wt	wt	WT	conc	WT	0		Ta	G2	LG	No		N/A	N/A	No			2.5	0.3	3	3	2	1.7	0.5	2.15	0	0	1.5	0.7	0	0	0
+PROG_156	57	2	rec	MALE		Uro	UroA-Prog	Lum-P		2718.3	0.875163912	wt	wt	C228T	WT	conc	WT	13.3		Ta	G2	LG	No		N/A	N/A	Yes			2	0.2	3	3	1	1.5	2	2.25	0	0.15	2	0.85	0	0	0
+PROG_157	57	3	rec	MALE		Uro	UroA-Prog	Lum-P		3697.46	0.965737279	wt	wt	C228T	WT	conc	WT	25.1		Ta	G2	LG	No		N/A	N/A	Yes			3	0.2	3	3	2	1	2	2.7	0	0	2	0.8	0	0	0
+PROG_158	57	4	prog	MALE	PMID:28195647 (HYB_200)	Sc/NE	ScNE	NE-like	Uro > ScNE (RNA + IHC)	913.38	0.908510876	wt	wt	C228T	OE_het	conc	ALT	60.5	MIBC	T2	G3	HG	No	Neuroendocrine variant	N/A	N/A	N/A	N/A		7.5	0	1.5	3	0	0	0	0.2	0.3	0.2	2	0	1.5	0.15	0
+PROG_159	58	1	primary	FEMALE	PMID:25770486 	GU	GU	Lum-U		1864.98	0.813063921	wt	E545K	C228T	OE	N/A	ALT	0		T1	G3	HG	No		e	b	Yes			2	0	3	3	1	1	1	1.8	0	0.1	2	0	0	0	0
+PROG_160	60	1	primary	MALE		Uro	UroC	Lum-NS		5762.9	0.737568781	Y375C	wt	wt	WT	conc	WT	0		T1	G3	HG	No		m	b	Yes			1.5	2	3	3	1	2.1	1.5	1.35	0	0.1	0.5	0.9	0	0	0
+PROG_161	60	2	rec	MALE		Uro	UroC	Lum-NS		602.42	0.63966913	wt	wt	C228T	WT	N/A	WT	10.1		T1	G3	HG	No		m	b	No			1	0.8	3	3	1	0	1	0.8	0	0	0	0.8	0	0.1	0
+PROG_162	60	4	rec	MALE		Uro	UroC	Lum-NS		3867.24	0.600623368	wt	wt	C228T	WT	conc	WT	89.8		T1	G3	HG	No		e	c	Yes			0.5	1.05	2.5	2.15	0.5	0.5	1	0.9	0	0	0.5	0.85	0	0	0.5
+PROG_163	61	1	primary	MALE	PMID:22553347 (UC_0512_1)	Uro	UroA-Prog	Lum-P		5397.86	0.810915653	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	b	Yes			2.5	2.25	2.55	3	1.5	0	1	0.7	0	0	0.5	0.8	1	0	0.5
+PROG_164	61	2	rec	MALE		Uro	UroA-Prog	Lum-P		5981.56	0.88027006	wt	wt	C228T	N/A	N/A	N/A	2.6		Ta	G3	HG	No		N/A	N/A	Yes			2.5	2	3	3	1	0	2	1.8	0	0.2	1	0.8	0.5	0	0
+PROG_165	62	2	rec	MALE		Uro	Ba/Sq	Basal/Squamous		1040	0.514054288	wt	wt	wt	OE	N/A	ALT	20		T1	G3	HG	No		e	c	Yes			2	0.9	3	1.55	1	0	0.5	1.8	0	1.2	1	0.6	0	0.65	1
+PROG_166	63	1	primary	MALE	"PMID:25770486, PMID:22553347 (UC_0077_1)"	GU	GU	Lum-U		4076.28	0.909983572	wt	wt	C228T	OE	conc	ALT	0		T1	G3	HG	Yes		N/A	N/A	Yes			2.5	0	2.55	3	1.5	0	0.5	2.55	0	0	2.5	0	2	0	0
+PROG_167	63	2	rec	MALE		GU	GU	Lum-U		5516.42	0.972126998	wt	wt	C228T	OE_WT	dis	DIS	3		T1	G3	HG	Yes		e	c	Yes			2.5	0	3	3	1.5	0	1	2.55	0	0	2	0	1	0	0
+PROG_168	63	3	prog	MALE		GU	Mes	Basal/Squamous	GU >  Mes (RNA)	4113.46	0.607336972	wt	wt	C228T	OE	conc	ALT	9.2	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG		2.5	0	3	3	1.5	0	0	0.75	0	0	2	0	2	0.1	0
+PROG_169	64	1	primary	FEMALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		4606.42	0.878309618	wt	wt	C228T	WT	conc	WT	0		T1	G3	HG	No		m	b	Yes			1.5	0.8	3	3	2	0.5	1.5	1.8	0	0	0.5	0.85	0	0	0
+PROG_170	64	5	prog	FEMALE	PMID:28195647 (HYB_84)	Uro	GU	Stroma-rich	Uro > GU (RNA)	1527.24	0.662222733	wt	wt	wt	WT	N/A	WT	65.7	MIBC	T2	G3	HG	No		N/A	N/A	Yes	BCG x3		2	0.2	2.55	2	3	0	1	1.8	0	0	0	0.9	0	0.55	0.5
+PROG_171	65	2	rec	MALE		Uro	UroA-Prog	Lum-P		4434.82	0.801720249	S249C	wt	C228T	WT	conc	WT	7.5		Ta	G2	HG	No		N/A	N/A	Yes			2	1.2	1.05	1.05	1	1	1	2.7	0	0.1	0	0.5	1	1.35	0.5
+PROG_172	65	4	rec	MALE		Uro	UroA-Prog	Lum-P		6071.52	0.87396692	S249C	wt	C228T	WT	conc	WT	27.3		Ta	G2	HG	No		N/A	N/A	Yes			2.5	1.2	3	3	1	1.5	2.5	1.8	0	0.2	0	0.9	0	0	0.5
+PROG_173	65	5	rec	MALE		Uro	UroA-Prog	Lum-P		5756.4	0.906519598	wt	wt	C228T	WT	conc	WT	35.4		Ta	G2	HG	No		N/A	N/A	Yes			1	0.9	3	3	1	1.5	1.5	2.1	0	0.15	0	0.85	0	0	0
+PROG_174	65	6	rec	MALE		Uro	UroA-Prog	Lum-P		1624.22	0.854140643	S249C	wt	C228T	WT	conc	WT	44.5		Ta	G3	HG	Yes		N/A	N/A	Yes			1.5	0.3	3	3	1	2	1	1.6	0	0.2	0	0.75	0	0	0
+PROG_175	65	8	prog	MALE		Uro	UroB	Stroma-rich		1469.78	0.684354387	wt	wt	C228T	WT	N/A	WT	103.8	MIBC	T3N3M1	G3	HG	No		N/A	N/A	Yes	BCG + MMC + BCG		2.5	0.2	3	1.5	0.5	1	1	1.2	0	0.7	0.5	0.85	0	0	1
+PROG_176	66	1	primary	MALE		N/A	UroA-Prog	Lum-P		5005.52	0.952564273	wt	wt	wt	WT	N/A	WT	0		Ta	G3	HG	No		N/A	N/A	No			N/A	N/A	3	3	N/A	N/A	N/A	N/A	0	N/A	N/A	N/A	N/A	N/A	0
+PROG_177	67	1	primary	FEMALE	PMID:25770486 	Uro	UroA-Prog	Lum-P		3484.78	0.860404259	Y375C	wt	N/A	WT	conc	WT	0		T1	G3	HG	No		N/A	N/A	Yes			2	0.1	2.5	3	1	2	0.5	0.8	0	0.05	0	0.75	0	0	0
+PROG_178	67	2	rec	FEMALE		Uro	UroA-Prog	Lum-P		3757.78	0.777368064	wt	wt	N/A	WT	conc	WT	1.6		T1	G2	HG	No		m	b	No			1.5	0	3	3	1	2	1	0.4	0	0.1	0	0.3	0	0	0
+PROG_179	67	3	rec	FEMALE		Uro	UroA-Prog	Lum-P		5179.72	0.925836282	Y375C	wt	C228T	WT	conc	WT	5.7		T1	G3	HG	No		m	b	No			2	0.15	3	3	1	2	0	2.1	0	0	0	0.45	0	0	0
+PROG_180	67	4	rec	FEMALE		Uro	UroA-Prog	Lum-P		5762.38	0.851657422	Y375C	wt	C228T	WT	conc	WT	7.4		T1	G3	HG	No		m	b	Yes			2	0.2	2	3	1	2	0.5	2.7	0	0.1	0	0.55	0	0	0
+PROG_181	68	1	primary	MALE	PMID:25770486 	GU	UroA-Prog	Lum-P		2926.56	0.919248965	wt	wt	wt	WT	conc	WT	0		T1	G2	HG	No		N/A	N/A	No			1	0.2	3	3	1	0	1	1.5	0	0.3	0.5	0.3	0	0.1	0
+PROG_182	68	3	rec	MALE		Uro	UroA-Prog	Lum-P		9628.58	0.924626608	wt	E542K	wt	WT	conc	WT	97.1		T1	G3	HG	No		e	c	Yes			2.5	0.7	3	3	1	0.8	3	2.25	1.05	0.8	1	0.65	1	0	1
+PROG_183	69	5	rec	MALE		GU	GU	Lum-U		941.72	0.919565673	wt	wt	wt	OE	conc	ALT	15.8		T1	G3	HG	No		m	b	Yes			2	0	1.5	3	1	1	2	2.7	0	0	2	0	0	0	0
+PROG_184	69	6	rec 	MALE		GU	GU	Lum-U		2002.52	0.915134732	wt	wt	C228T	OE	conc	ALT	19.6		Ta	G3	HG	No		N/A	N/A	Yes			2	0	3	3	1	0	2	1.85	0	0	1.5	0	0	0	0
+PROG_185	69	7	rec	MALE		GU	GU	Lum-U		1883.44	0.92560181	wt	wt	C228T	OE	conc	ALT	27.2		Ta	G3	HG	No		N/A	N/A	No			2	0	3	3	1.5	1	2.5	2.7	0	0	2.5	0	0	0	0
+PROG_186	69	8	rec	MALE	PMID:22553347 (UC_0218_2)	GU	GU	Lum-U		4624.36	0.964625388	wt	wt	C228T	OE	N/A	ALT	31.4		T1	G3	HG	No		N/A	N/A	Yes			2	0	3	3	1	0	0	1.8	0	0	1	0	0	0	0
+PROG_187	69	9	rec	MALE	PMID:28195647 (HYB_46)	GU	GU	Lum-U		2353	0.924818568	wt	wt	C228T	OE	conc	ALT	34.3		Ta	G3	HG	No		N/A	N/A	No			2.5	0	3	2.5	1	0	2.5	1.8	0	0	1	0	0	0.1	0
+PROG_188	70	1	primary	MALE	PMID:25770486 	Mes	Mes	Stroma-rich		1391	0.590060413	wt	wt	wt	WT	conc	WT	0		T1	G3	HG	Yes		e	c	Yes			4	0.4	0.75	1.75	N/A	N/A	0	N/A	1.35	1.7	N/A	N/A	0	2.7	2
+PROG_189	71	2	rec	MALE		GU	UroC	Lum-P		0	0.911227324	S249C	wt	C228T	WT	conc	WT	5.4		T1	G3	N/A	N/A		N/A	N/A	N/A			2	0	3	3	2	0.05	3	2.7	0	0	1.5	0	1	0	0
+PROG_190	71	4	rec	MALE		GU	UroB	Stroma-rich		0	0.58362181	wt	wt	C228T	WT	N/A	WT	14.7		Ta	G3	N/A	N/A		N/A	N/A	N/A			1.5	0	3	3	2	1	3	2.7	0.3	0	1	0	0	0	0
+PROG_191	71	5	rec	MALE		GU	UroC	Lum-P		0	0.925792742	wt	wt	wt	WT	conc	WT	20.8		T1	G3	N/A	N/A		N/A	N/A	N/A			4.5	0.05	3	3	1	0.5	3	2.7	0	0	2	0	0.5	0.05	0
+PROG_192	71	6	rec	MALE		GU	UroC	Lum-P		0	0.85174945	wt	wt	C228T	WT	conc	WT	23.9		T1	G3	N/A	N/A		N/A	N/A	N/A			3.5	0	2.4	3	1	1	3	2.7	0	0	0.95	0	0	0	0
+PROG_193	71	7	prog	MALE	"PMID:22553347 (UC_0552_1), PMID:28195647 (HYB_82)"	GU	GU	Lum-NS		0	0.741595172	wt	wt	C228T	WT	conc	WT	27.2	N+	T1	G3	N/A	N/A		N/A	N/A	N/A	No BCG		3	0	3	3	1.5	0.5	1	2.25	0	0	1.5	0	0	0.05	0
+PROG_194	72	1	primary	MALE		Uro	UroA-Prog	Lum-P		7300.8	0.897870758	Y375C_G382R	wt	wt	WT	conc	WT	0		Ta	G1	N/A	N/A		N/A	N/A	Yes		IHC-Classified despite markers missing	0.5	0.15	2.5	3	1	N/A	0.5	0.3	0	N/A	0	N/A	0	0	0
+PROG_195	72	2	rec	MALE		Uro	UroB	Lum-P		846.82	0.842101815	Y375C_G382R	wt	C228T_C250T	WT	conc	WT	3.2		Ta	G1	N/A	N/A		N/A	N/A	N/A			1	0.6	3	3	1	2	3	1.8	0	1.8	1	0.85	0	0	0
+PROG_196	72	3	rec	MALE		Uro	UroA-Prog	Lum-P		3872.18	0.923681086	Y375C_G382R	wt	C228T_C242T_C250T	WT	conc	WT	10		Ta	G1	N/A	N/A		N/A	N/A	Yes			1	1.2	3	3	0.5	3	3	1.8	0	1.4	1	0.75	0	0	0
+PROG_197	72	4	prog	MALE		Uro	UroB	Lum-P		4854.46	0.832120101	Y375C_G382R	wt	C250T	WT	conc	WT	37.9	MIBC	T2	G2	N/A	N/A		N/A	N/A	Yes	No BCG		2	1.2	3	3	1	1.5	2	1.8	0	1.6	1	0.9	0	0	0
+PROG_198	73	4	rec	MALE		Mes	Mes	Stroma-rich		1419.08	0.489333664	G372S	wt	C228T_C250T	WT	N/A	WT	18.7		T1	N/A	N/A	Yes		N/A	N/A	Yes			1	0	N/A	N/A	0	0	0	0	N/A	N/A	1.5	N/A	0	N/A	2
+PROG_199	73	5	prog	MALE		Uro	Mes	Stroma-rich		3224	0.477997889	wt	E545K	wt	WT	N/A	WT	35.9	MIBC	T2	G3	N/A	N/A		N/A	N/A	Yes	BCG x2		1.5	0.2	3	3	1	0	1	1.4	0	0.1	0.5	0.7	1	0	0
+PROG_200	74	4	prog	MALE		Uro	GU	Stroma-rich		6465.94	0.683098639	wt	wt	C228T	WT	conc	WT	8.1	MIBC	T3	G3	HG	No		N/A	N/A	N/A	BCG		3	0.2	3	3	1.5	1.5	2	1.2	0	0	1	0.75	0	0	0

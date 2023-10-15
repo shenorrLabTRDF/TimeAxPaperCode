@@ -1,0 +1,2076 @@
+Samples	nGene	nUMI	percent.mito	cluster	cell_type	cell_index
+Primary_human_AAACCTGAGCAGGTCA	1802	4921	0.025422005	5	Muscle cells	Nontumor
+Primary_human_AAACCTGGTCTCCCTA	6417	46415	0.044221279	0	Basal tumor cells	Tumor
+Primary_human_AAACCTGTCAAGATCC	554	1073	0.001863933	2	Endothelial cells	Nontumor
+Primary_human_AAACCTGTCAGGTTCA	2178	6107	0.041107108	3	Macrophages	Nontumor
+Primary_human_AAACCTGTCCAGTATG	1766	5085	0.042281219	2	Endothelial cells	Nontumor
+Primary_human_AAACGGGAGCTAGTGG	2585	8940	0.042179458	4	Fibroblasts	Nontumor
+Primary_human_AAACGGGCAAACGTGG	2732	6811	0.015140379	5	Muscle cells	Nontumor
+Primary_human_AAACGGGCAATGAAAC	3663	16469	0.009901592	0	Basal tumor cells	Tumor
+Primary_human_AAACGGGCAGCAGTTT	6917	50617	0.037981187	0	Basal tumor cells	Tumor
+Primary_human_AAACGGGGTCCTCCAT	3868	15050	0.016214779	4	Fibroblasts	Nontumor
+Primary_human_AAAGATGGTATGGTTC	5234	30315	0.026853165	0	Basal tumor cells	Tumor
+Primary_human_AAAGATGGTTGAGTTC	512	1240	0.060532688	1	Tcell	Nontumor
+Primary_human_AAAGATGGTTGGAGGT	903	3354	0.039654144	8	Unknown1	Nontumor
+Primary_human_AAAGATGTCATATCGG	1691	4476	0.023681859	2	Endothelial cells	Nontumor
+Primary_human_AAAGATGTCATCGATG	787	1741	0.021252154	1	Tcell	Nontumor
+Primary_human_AAAGCAAAGCCCAACC	3075	9921	0.033474491	2	Endothelial cells	Nontumor
+Primary_human_AAAGCAAAGGAATTAC	1196	3106	0.032850242	2	Endothelial cells	Nontumor
+Primary_human_AAAGCAATCGACCAGC	2042	5562	0.032739701	7	Fibroblasts	Nontumor
+Primary_human_AAAGCAATCTGATTCT	878	2399	0.034597749	1	Tcell	Nontumor
+Primary_human_AAAGTAGAGCTCCTTC	6047	40471	0.035339182	0	Basal tumor cells	Tumor
+Primary_human_AAAGTAGAGTCTCGGC	4121	16813	0.020165368	4	Fibroblasts	Nontumor
+Primary_human_AAAGTAGCAAATACAG	7141	66632	0.04781917	0	Basal tumor cells	Tumor
+Primary_human_AAAGTAGCACTTCTGC	2217	6745	0.024914726	3	Macrophages	Nontumor
+Primary_human_AAAGTAGCAGGTCGTC	630	1412	0.02407932	1	Tcell	Nontumor
+Primary_human_AAAGTAGTCAGGTAAA	4395	17501	0.055263459	0	Basal tumor cells	Tumor
+Primary_human_AAATGCCCAGAGTGTG	2433	7984	0.033446073	3	Macrophages	Nontumor
+Primary_human_AAATGCCGTACGCTGC	2257	8229	0.025641026	3	Macrophages	Nontumor
+Primary_human_AAATGCCGTAGGGACT	2311	8535	0.043707523	2	Endothelial cells	Nontumor
+Primary_human_AAATGCCGTTCCAACA	2387	7705	0.000129803	0	Basal tumor cells	Tumor
+Primary_human_AAATGCCTCAACGCTA	2631	10765	0.002229862	0	Basal tumor cells	Tumor
+Primary_human_AAATGCCTCGCCTGAG	2185	6575	0.035741445	5	Muscle cells	Nontumor
+Primary_human_AACACGTGTCGGCACT	2257	7363	0.025400706	7	Fibroblasts	Nontumor
+Primary_human_AACACGTGTGTTAAGA	4408	26356	0.020566138	3	Macrophages	Nontumor
+Primary_human_AACACGTTCCATGAGT	2316	6511	0.00030722	0	Basal tumor cells	Tumor
+Primary_human_AACCATGCAAGCGATG	1744	5858	0.017070673	3	Macrophages	Nontumor
+Primary_human_AACCATGCACACCGAC	2327	7585	0.041545766	6	Urothelial cells	Nontumor
+Primary_human_AACCATGGTATAAACG	1772	4783	0.018820577	5	Muscle cells	Nontumor
+Primary_human_AACCATGTCTGCGACG	1121	3163	0.071451154	2	Endothelial cells	Nontumor
+Primary_human_AACCGCGAGCGTGTCC	891	2097	0.032951289	1	Tcell	Nontumor
+Primary_human_AACCGCGTCCTAGTGA	3853	14399	0.092512849	0	Basal tumor cells	Tumor
+Primary_human_AACCGCGTCGAATGCT	701	2017	0.020337302	1	Tcell	Nontumor
+Primary_human_AACCGCGTCGTAGATC	1159	2648	0.034743202	2	Endothelial cells	Nontumor
+Primary_human_AACCGCGTCTACTATC	4737	26750	0.03469548	0	Basal tumor cells	Tumor
+Primary_human_AACGTTGAGAGGACGG	3609	13364	0.021254303	4	Fibroblasts	Nontumor
+Primary_human_AACGTTGCACTGCCAG	1785	5511	0.035934664	3	Macrophages	Nontumor
+Primary_human_AACTCAGAGGTGTTAA	2528	7512	0.024766977	5	Muscle cells	Nontumor
+Primary_human_AACTCAGGTACAGTTC	1046	3411	0.027272727	8	Unknown1	Nontumor
+Primary_human_AACTCAGGTTAGGGTG	5584	29365	0.04147795	0	Basal tumor cells	Tumor
+Primary_human_AACTCAGTCCGCATCT	3424	12300	0.013334417	4	Fibroblasts	Nontumor
+Primary_human_AACTCCCCACCCTATC	3971	16492	0.024989386	0	Basal tumor cells	Tumor
+Primary_human_AACTCCCTCGCACTCT	5136	22798	0.064054754	0	Basal tumor cells	Tumor
+Primary_human_AACTCTTAGCCAGAAC	1804	5422	0.037815901	2	Endothelial cells	Nontumor
+Primary_human_AACTCTTAGCGTTGCC	2711	12177	0.025792673	3	Macrophages	Nontumor
+Primary_human_AACTCTTAGGAGTACC	3142	12294	0.052802864	2	Endothelial cells	Nontumor
+Primary_human_AACTCTTCAATGTAAG	5126	21474	0.032463903	0	Basal tumor cells	Tumor
+Primary_human_AACTCTTCACCAGGTC	4716	21468	0.044586284	0	Basal tumor cells	Tumor
+Primary_human_AACTCTTGTTCATGGT	2292	10129	0.050157978	3	Macrophages	Nontumor
+Primary_human_AACTCTTTCGAACGGA	6350	44941	0.030930817	0	Basal tumor cells	Tumor
+Primary_human_AACTCTTTCGGTCCGA	1812	5414	0.036578607	3	Macrophages	Nontumor
+Primary_human_AACTGGTCACGAAAGC	4504	23571	0.021892236	0	Basal tumor cells	Tumor
+Primary_human_AACTGGTCATGCTAGT	6690	52603	0.037951097	0	Basal tumor cells	Tumor
+Primary_human_AACTGGTTCTTAACCT	515	1135	0.017621145	9	Unknown2	Nontumor
+Primary_human_AACTTTCAGTGGCACA	1578	4272	0.020365169	5	Muscle cells	Nontumor
+Primary_human_AACTTTCCAACTTGAC	1086	2688	0.068850019	2	Endothelial cells	Nontumor
+Primary_human_AACTTTCCATTGGTAC	2241	6864	0.035839161	5	Muscle cells	Nontumor
+Primary_human_AACTTTCGTACTCTCC	3548	13061	0.015470629	4	Fibroblasts	Nontumor
+Primary_human_AAGACCTGTAATCGTC	4680	23111	0.051843517	0	Basal tumor cells	Tumor
+Primary_human_AAGCCGCAGTTAGCGG	1077	2853	0.025946704	1	Tcell	Nontumor
+Primary_human_AAGCCGCCAATCACAC	3635	14138	0.023346304	4	Fibroblasts	Nontumor
+Primary_human_AAGCCGCGTAACGACG	2353	6432	0.035003111	7	Fibroblasts	Nontumor
+Primary_human_AAGCCGCGTTACGCGC	6416	51344	0.024309478	0	Basal tumor cells	Tumor
+Primary_human_AAGCCGCGTTCTCATT	2217	7837	0.022086046	2	Endothelial cells	Nontumor
+Primary_human_AAGCCGCTCAAGATCC	1783	6695	0.015989241	3	Macrophages	Nontumor
+Primary_human_AAGGAGCAGAAGGGTA	4465	22455	0.022627054	3	Macrophages	Nontumor
+Primary_human_AAGGAGCGTTCACGGC	5337	29854	0.031359936	0	Basal tumor cells	Tumor
+Primary_human_AAGGAGCTCTTACCGC	1483	4333	0.020544783	1	Tcell	Nontumor
+Primary_human_AAGGCAGAGACGACGT	1338	3243	0.034535924	1	Tcell	Nontumor
+Primary_human_AAGGCAGAGCTAAGAT	2573	8228	0.032822757	5	Muscle cells	Nontumor
+Primary_human_AAGGCAGAGGAATTAC	3104	10081	0.075739527	6	Urothelial cells	Nontumor
+Primary_human_AAGGCAGCACACTGCG	5868	41285	0.035921037	0	Basal tumor cells	Tumor
+Primary_human_AAGGCAGGTTATGTGC	2705	9716	0.03623263	2	Endothelial cells	Nontumor
+Primary_human_AAGGTTCGTGAAATCA	4879	22505	0.027380212	0	Basal tumor cells	Tumor
+Primary_human_AAGTCTGAGAACAATC	1967	5293	0.031746032	6	Urothelial cells	Nontumor
+Primary_human_AAGTCTGAGTAGATGT	885	2037	0.081983309	1	Tcell	Nontumor
+Primary_human_AAGTCTGCAGGTCTCG	2700	11278	0.030149863	2	Endothelial cells	Nontumor
+Primary_human_AAGTCTGGTTAAGACA	3560	14601	0.020278139	4	Fibroblasts	Nontumor
+Primary_human_AAGTCTGTCTTCGGTC	1519	3814	0.017829051	5	Muscle cells	Nontumor
+Primary_human_AAGTCTGTCTTGAGGT	2402	7771	0.025482625	3	Macrophages	Nontumor
+Primary_human_AATCCAGAGAATAGGG	1911	5078	0.015757337	5	Muscle cells	Nontumor
+Primary_human_AATCCAGAGAGCCCAA	5969	35188	0.031238453	0	Basal tumor cells	Tumor
+Primary_human_AATCCAGAGATCCGAG	6609	51312	0.036079058	0	Basal tumor cells	Tumor
+Primary_human_AATCCAGAGTATCGAA	911	2846	0.040773286	1	Tcell	Nontumor
+Primary_human_AATCCAGCAACGATCT	2178	6496	0.024337646	2	Endothelial cells	Nontumor
+Primary_human_AATCCAGTCGCTGATA	3017	10524	0.017488832	4	Fibroblasts	Nontumor
+Primary_human_AATCCAGTCTGCGACG	975	2723	0.027930908	1	Tcell	Nontumor
+Primary_human_AATCGGTCATGTTCCC	1083	2391	0.030962343	2	Endothelial cells	Nontumor
+Primary_human_AATCGGTGTACCGTAT	1938	5236	0.025797822	2	Endothelial cells	Nontumor
+Primary_human_AATCGGTGTAGCCTAT	1315	3205	0.019344774	1	Tcell	Nontumor
+Primary_human_AATCGGTGTCTCATCC	2439	8678	0.02685879	3	Macrophages	Nontumor
+Primary_human_ACACCAAAGAGTAATC	3183	13055	0.021684162	3	Macrophages	Nontumor
+Primary_human_ACACCAAAGGTTACCT	2424	7462	0.017421603	2	Endothelial cells	Nontumor
+Primary_human_ACACCAACAGTAAGAT	6730	56593	0.030484572	0	Basal tumor cells	Tumor
+Primary_human_ACACCAATCTGTTTGT	1426	3852	0.074006751	2	Endothelial cells	Nontumor
+Primary_human_ACACCCTCAGACACTT	2370	8061	0.031637717	3	Macrophages	Nontumor
+Primary_human_ACACCCTCAGATTGCT	1393	4286	0.081913652	3	Macrophages	Nontumor
+Primary_human_ACACCCTGTTACGACT	2004	6152	0.024548854	3	Macrophages	Nontumor
+Primary_human_ACACCCTTCTCTTATG	2509	8559	0.034946237	2	Endothelial cells	Nontumor
+Primary_human_ACACCGGAGAGCCTAG	2195	11747	0.033285094	3	Macrophages	Nontumor
+Primary_human_ACACCGGAGAGGTAGA	1147	2700	0.024814815	1	Tcell	Nontumor
+Primary_human_ACACCGGCAACTGCTA	4731	27293	0.031258016	0	Basal tumor cells	Tumor
+Primary_human_ACACCGGCAGCTGTAT	1872	5121	0.045703125	6	Urothelial cells	Nontumor
+Primary_human_ACACCGGCAGTAAGAT	3321	15482	0.025584701	3	Macrophages	Nontumor
+Primary_human_ACACCGGGTAGAGGAA	2495	10228	0.015550122	3	Macrophages	Nontumor
+Primary_human_ACACCGGGTTATTCTC	3880	14406	0.024161633	4	Fibroblasts	Nontumor
+Primary_human_ACACTGAAGCATCATC	1779	4419	0.050248981	2	Endothelial cells	Nontumor
+Primary_human_ACACTGACAGTTCCCT	3936	15229	0.04847609	6	Urothelial cells	Nontumor
+Primary_human_ACACTGAGTGAGGGTT	3232	13206	0.007044387	3	Macrophages	Nontumor
+Primary_human_ACACTGATCAGTTCGA	737	1782	0.019090399	9	Unknown2	Nontumor
+Primary_human_ACAGCCGAGAAACCTA	2683	7987	0.018785222	4	Fibroblasts	Nontumor
+Primary_human_ACAGCCGAGCGTAGTG	4307	21287	0.045151287	0	Basal tumor cells	Tumor
+Primary_human_ACAGCCGCAAACTGCT	5787	34381	0.032372531	0	Basal tumor cells	Tumor
+Primary_human_ACAGCCGCAGCTGCTG	1712	8028	0.026407573	3	Macrophages	Nontumor
+Primary_human_ACAGCCGTCCAGATCA	915	2780	0.033825117	1	Tcell	Nontumor
+Primary_human_ACAGCCGTCCTTTCTC	2424	8165	0.022660461	3	Macrophages	Nontumor
+Primary_human_ACAGCTAAGATAGTCA	3705	13613	0.019034321	4	Fibroblasts	Nontumor
+Primary_human_ACAGCTAAGCCACGCT	922	2637	0.018581722	1	Tcell	Nontumor
+Primary_human_ACAGCTACATAGTAAG	2600	7233	0.037472345	7	Fibroblasts	Nontumor
+Primary_human_ACAGCTAGTATAGTAG	3410	14761	0.055017278	2	Endothelial cells	Nontumor
+Primary_human_ACAGCTAGTTAAAGTG	2078	5600	0.038578318	7	Fibroblasts	Nontumor
+Primary_human_ACAGCTATCGCTAGCG	2739	8046	0.032695177	4	Fibroblasts	Nontumor
+Primary_human_ACATACGAGTCGCCGT	1335	3233	0.036509901	1	Tcell	Nontumor
+Primary_human_ACATACGGTGTTTGTG	6240	42681	0.039035591	0	Basal tumor cells	Tumor
+Primary_human_ACATCAGAGAGACGAA	765	1976	0.038461538	1	Tcell	Nontumor
+Primary_human_ACATCAGAGAGCCCAA	2511	6679	0.035211268	7	Fibroblasts	Nontumor
+Primary_human_ACATCAGGTACAGTTC	775	1613	0.02173913	1	Tcell	Nontumor
+Primary_human_ACATCAGGTACTTGAC	5468	26723	0.043644258	0	Basal tumor cells	Tumor
+Primary_human_ACATCAGGTTATTCTC	535	743	0.00269179	2	Endothelial cells	Nontumor
+Primary_human_ACATCAGTCCGGGTGT	547	979	0.050051073	1	Tcell	Nontumor
+Primary_human_ACATGGTAGATCCGAG	6206	34983	0.030936383	0	Basal tumor cells	Tumor
+Primary_human_ACATGGTCACTCGACG	1226	3349	0.011652226	1	Tcell	Nontumor
+Primary_human_ACATGGTGTCATATGC	2539	8546	0.021886704	3	Macrophages	Nontumor
+Primary_human_ACATGGTTCATGGTCA	980	3009	0.030907278	1	Tcell	Nontumor
+Primary_human_ACATGGTTCGCGGATC	2058	8063	0.000620117	0	Basal tumor cells	Tumor
+Primary_human_ACCAGTAAGGGAACGG	1449	4893	0.019423431	3	Macrophages	Nontumor
+Primary_human_ACCAGTACAGGCTGAA	828	2712	0.06086315	1	Tcell	Nontumor
+Primary_human_ACCAGTAGTGTGAAAT	6279	36626	0.043965046	0	Basal tumor cells	Tumor
+Primary_human_ACCAGTATCTGGCGTG	2371	7557	0.020913302	3	Macrophages	Nontumor
+Primary_human_ACCCACTAGCCATCGC	5414	31584	0.029134207	6	Urothelial cells	Nontumor
+Primary_human_ACCCACTAGGTGTGGT	791	1741	0.02183908	1	Tcell	Nontumor
+Primary_human_ACCCACTCACATTAGC	7443	80238	0.02366827	0	Basal tumor cells	Tumor
+Primary_human_ACCCACTCACGGTGTC	2945	9737	0.041105745	5	Muscle cells	Nontumor
+Primary_human_ACCCACTCAGCCTTGG	849	1977	0.021750126	1	Tcell	Nontumor
+Primary_human_ACCCACTGTACCATCA	2161	6828	0.026362039	2	Endothelial cells	Nontumor
+Primary_human_ACCCACTGTCCGAATT	1091	3406	0.02495596	1	Tcell	Nontumor
+Primary_human_ACCCACTTCACAGGCC	826	2240	0.038839286	8	Unknown1	Nontumor
+Primary_human_ACCCACTTCATAGCAC	621	1208	0.001655629	4	Fibroblasts	Nontumor
+Primary_human_ACCCACTTCCGGGTGT	2448	8641	0.028015744	0	Basal tumor cells	Tumor
+Primary_human_ACCCACTTCGTCCAGG	2343	7346	0.034853642	5	Muscle cells	Nontumor
+Primary_human_ACCGTAACACGAGGTA	4639	21143	0.01731315	4	Fibroblasts	Nontumor
+Primary_human_ACCGTAAGTGGCCCTA	5451	30823	0.009962357	0	Basal tumor cells	Tumor
+Primary_human_ACCGTAATCGAATCCA	5980	33747	0.031924354	0	Basal tumor cells	Tumor
+Primary_human_ACCGTAATCGATCCCT	4192	17501	0.017951063	4	Fibroblasts	Nontumor
+Primary_human_ACCTTTAAGAGCTGCA	1215	3139	0.030911409	5	Muscle cells	Nontumor
+Primary_human_ACCTTTAAGTCGATAA	2975	9944	0.028669148	6	Urothelial cells	Nontumor
+Primary_human_ACCTTTACATCCTTGC	2881	10670	0.010033758	3	Macrophages	Nontumor
+Primary_human_ACCTTTAGTCGCTTTC	2301	5869	0.034947153	7	Fibroblasts	Nontumor
+Primary_human_ACGAGCCCAGTTTACG	5523	37384	0.023809524	0	Basal tumor cells	Tumor
+Primary_human_ACGAGCCGTCTGGTCG	2004	5818	0.028198074	7	Fibroblasts	Nontumor
+Primary_human_ACGAGGAAGAATGTTG	3947	19050	0.026405586	4	Fibroblasts	Nontumor
+Primary_human_ACGAGGACAATAGAGT	6331	42855	0.029991131	0	Basal tumor cells	Tumor
+Primary_human_ACGAGGACAATGACCT	3177	10261	0.017354002	4	Fibroblasts	Nontumor
+Primary_human_ACGAGGACATACGCTA	5738	35490	0.061270503	0	Basal tumor cells	Tumor
+Primary_human_ACGAGGACATACTCTT	697	1726	0.02838934	1	Tcell	Nontumor
+Primary_human_ACGAGGAGTGCAGACA	3980	22994	0.024704245	3	Macrophages	Nontumor
+Primary_human_ACGAGGAGTTAAAGAC	3469	14213	0.031315975	4	Fibroblasts	Nontumor
+Primary_human_ACGAGGATCATGTAGC	4589	22588	0.054475397	6	Urothelial cells	Nontumor
+Primary_human_ACGAGGATCCATGAAC	2015	5234	0.025797822	2	Endothelial cells	Nontumor
+Primary_human_ACGATACCACAGACAG	3180	9272	0.031871219	5	Muscle cells	Nontumor
+Primary_human_ACGATACCATCGGACC	2807	9048	0.019456113	4	Fibroblasts	Nontumor
+Primary_human_ACGATACGTACCAGTT	4496	19656	0.05383402	0	Basal tumor cells	Tumor
+Primary_human_ACGATACGTCTAAACC	796	1792	0.023995536	1	Tcell	Nontumor
+Primary_human_ACGATACGTTCAACCA	5702	31781	0.034647701	0	Basal tumor cells	Tumor
+Primary_human_ACGATACTCCCAAGTA	819	1650	0.006064281	1	Tcell	Nontumor
+Primary_human_ACGATGTAGAAACGCC	3469	14978	0.018164819	4	Fibroblasts	Nontumor
+Primary_human_ACGATGTAGACTTGAA	2993	9805	0.020297838	2	Endothelial cells	Nontumor
+Primary_human_ACGATGTTCACTTATC	5759	33539	0.027974948	0	Basal tumor cells	Tumor
+Primary_human_ACGATGTTCCCAAGAT	4851	23536	0.045303867	0	Basal tumor cells	Tumor
+Primary_human_ACGCAGCAGTGTCTCA	4072	14642	0.077043918	0	Basal tumor cells	Tumor
+Primary_human_ACGCAGCTCTGACCTC	3293	11984	0.095734914	6	Urothelial cells	Nontumor
+Primary_human_ACGCCAGAGAGGTAGA	1736	5732	0.030710173	5	Muscle cells	Nontumor
+Primary_human_ACGCCAGAGAGTACCG	3519	16618	0.028409775	3	Macrophages	Nontumor
+Primary_human_ACGCCAGAGCAGATCG	2492	10762	0.025650558	3	Macrophages	Nontumor
+Primary_human_ACGCCAGAGCTGATAA	1174	3096	0.087912088	3	Macrophages	Nontumor
+Primary_human_ACGCCAGAGTAGCGGT	2660	8956	0.035191599	0	Basal tumor cells	Tumor
+Primary_human_ACGCCAGCAGATAATG	1110	2663	0.078482914	5	Muscle cells	Nontumor
+Primary_human_ACGCCAGGTAGTAGTA	3558	11279	0.046571454	4	Fibroblasts	Nontumor
+Primary_human_ACGCCAGTCAAGATCC	1536	3524	0.034629577	2	Endothelial cells	Nontumor
+Primary_human_ACGCCAGTCCTTGCCA	2606	10131	0.030401737	2	Endothelial cells	Nontumor
+Primary_human_ACGCCGAAGCCGCCTA	2916	11124	0.040996134	3	Macrophages	Nontumor
+Primary_human_ACGCCGACATCACGAT	2363	7475	0.032249431	6	Urothelial cells	Nontumor
+Primary_human_ACGCCGAGTACCTACA	1263	3673	0.072440087	3	Macrophages	Nontumor
+Primary_human_ACGCCGAGTCTTGCGG	3969	19868	0.017770842	3	Macrophages	Nontumor
+Primary_human_ACGGAGAAGTATCTCG	3343	10842	0.029061722	4	Fibroblasts	Nontumor
+Primary_human_ACGGCCAAGCAAATCA	696	1918	0.031803962	9	Unknown2	Nontumor
+Primary_human_ACGGCCAAGGCTATCT	785	2137	0.031879981	3	Macrophages	Nontumor
+Primary_human_ACGGCCACATTCCTCG	1691	4400	0.04864742	7	Fibroblasts	Nontumor
+Primary_human_ACGGCCAGTTCAACCA	3383	13374	0.019670905	7	Fibroblasts	Nontumor
+Primary_human_ACGGCCAGTTCTGAAC	1779	5184	0.045349286	2	Endothelial cells	Nontumor
+Primary_human_ACGGCCATCGGCGCTA	2799	10680	0.024068178	3	Macrophages	Nontumor
+Primary_human_ACGGGCTAGAGCTGCA	2285	10380	0.037957611	3	Macrophages	Nontumor
+Primary_human_ACGGGCTAGCTGGAAC	7413	55170	0.040264194	0	Basal tumor cells	Tumor
+Primary_human_ACGGGCTAGTTATCGC	1682	4769	0.037114699	5	Muscle cells	Nontumor
+Primary_human_ACGGGCTTCCGCGGTA	1471	4005	0.05044955	2	Endothelial cells	Nontumor
+Primary_human_ACGGGCTTCGTATCAG	1893	6122	0.042817454	5	Muscle cells	Nontumor
+Primary_human_ACGGGCTTCTATCCTA	682	1525	0.020983607	9	Unknown2	Nontumor
+Primary_human_ACGGGTCAGGTGATTA	740	1443	0.091476091	2	Endothelial cells	Nontumor
+Primary_human_ACGGGTCGTATCGCAT	1226	3078	0.019168291	1	Tcell	Nontumor
+Primary_human_ACGGGTCGTATGAATG	2399	8764	0.031842045	2	Endothelial cells	Nontumor
+Primary_human_ACGGGTCGTCATATGC	5909	47181	0.030289542	0	Basal tumor cells	Tumor
+Primary_human_ACGTCAAAGGGATCTG	2235	8536	0.034216077	3	Macrophages	Nontumor
+Primary_human_ACGTCAACAGTCGTGC	4806	24369	0.027086924	0	Basal tumor cells	Tumor
+Primary_human_ACGTCAAGTACCTACA	5250	31959	0.032044061	0	Basal tumor cells	Tumor
+Primary_human_ACGTCAAGTAGCGCAA	1464	3815	0.062139486	7	Fibroblasts	Nontumor
+Primary_human_ACTATCTTCATCGATG	826	2272	0.021126761	1	Tcell	Nontumor
+Primary_human_ACTATCTTCCCACTTG	3919	17582	0.057341146	6	Urothelial cells	Nontumor
+Primary_human_ACTATCTTCCCGACTT	1003	2306	0.020381613	1	Tcell	Nontumor
+Primary_human_ACTATCTTCGAATGGG	980	2393	0.006686168	1	Tcell	Nontumor
+Primary_human_ACTGAACAGTATCTCG	1485	3782	0.03968254	5	Muscle cells	Nontumor
+Primary_human_ACTGAACCACTTGGAT	2164	7139	0.022412103	7	Fibroblasts	Nontumor
+Primary_human_ACTGAACCAGCTGCTG	1875	5776	0.041912019	5	Muscle cells	Nontumor
+Primary_human_ACTGAACGTAGCTCCG	2581	8116	0.032906088	2	Endothelial cells	Nontumor
+Primary_human_ACTGAACGTAGCTGCC	3358	11687	0.024221157	4	Fibroblasts	Nontumor
+Primary_human_ACTGAACTCCTGCAGG	3966	14908	0.072928547	0	Basal tumor cells	Tumor
+Primary_human_ACTGAGTAGGTGATAT	849	2104	0.01473384	1	Tcell	Nontumor
+Primary_human_ACTGAGTCAGTCTTCC	2161	6784	0.002358491	0	Basal tumor cells	Tumor
+Primary_human_ACTGAGTCATGCATGT	7152	76413	0.035179102	0	Basal tumor cells	Tumor
+Primary_human_ACTGAGTTCAGGCCCA	841	2417	0.020273066	1	Tcell	Nontumor
+Primary_human_ACTGAGTTCGCTTAGA	1867	4853	0.028235779	5	Muscle cells	Nontumor
+Primary_human_ACTGAGTTCGTCACGG	2573	10499	0.032006096	3	Macrophages	Nontumor
+Primary_human_ACTGATGAGGTGATAT	2564	8152	0.029704186	4	Fibroblasts	Nontumor
+Primary_human_ACTGCTCAGCCAGAAC	4435	24846	0.019843825	3	Macrophages	Nontumor
+Primary_human_ACTGCTCAGTGTTTGC	3723	16395	0.023732536	4	Fibroblasts	Nontumor
+Primary_human_ACTGCTCCACGGTAGA	3057	9350	0.024278075	7	Fibroblasts	Nontumor
+Primary_human_ACTGCTCCATCACCCT	3551	13524	0.016343736	4	Fibroblasts	Nontumor
+Primary_human_ACTGCTCTCGCCAAAT	917	2491	0.042168675	1	Tcell	Nontumor
+Primary_human_ACTGTCCAGAGTCTGG	5316	31797	0.043723066	0	Basal tumor cells	Tumor
+Primary_human_ACTGTCCAGGTGTTAA	4360	18090	0.026980704	4	Fibroblasts	Nontumor
+Primary_human_ACTGTCCCACTTAACG	743	1406	0.000711238	2	Endothelial cells	Nontumor
+Primary_human_ACTGTCCCAGATAATG	1482	4739	0.019421575	1	Tcell	Nontumor
+Primary_human_ACTGTCCCAGCTATTG	3098	11343	0.029977076	2	Endothelial cells	Nontumor
+Primary_human_ACTGTCCGTAAACACA	4444	21421	0.021384881	4	Fibroblasts	Nontumor
+Primary_human_ACTGTCCGTAGGCTGA	530	954	0.00524109	5	Muscle cells	Nontumor
+Primary_human_ACTGTCCGTCTAGCGC	624	1322	0.024205749	1	Tcell	Nontumor
+Primary_human_ACTGTCCGTTTGGCGC	1891	5470	0.036197441	2	Endothelial cells	Nontumor
+Primary_human_ACTTACTCAATGCCAT	4817	24294	0.026143522	0	Basal tumor cells	Tumor
+Primary_human_ACTTACTCACCGGAAA	2966	17587	0.037081272	3	Macrophages	Nontumor
+Primary_human_ACTTACTCAGGTCTCG	1748	4246	0.021913289	5	Muscle cells	Nontumor
+Primary_human_ACTTACTCATGATCCA	3824	14700	0.017832834	4	Fibroblasts	Nontumor
+Primary_human_ACTTACTGTAGGCTGA	2681	12598	0.028426235	3	Macrophages	Nontumor
+Primary_human_ACTTACTGTCCAACTA	3168	10820	0.024126456	2	Endothelial cells	Nontumor
+Primary_human_ACTTACTGTCCGACGT	2678	8753	0.049702925	2	Endothelial cells	Nontumor
+Primary_human_ACTTACTTCAGCTTAG	6150	33857	0.036634365	0	Basal tumor cells	Tumor
+Primary_human_ACTTACTTCTTGACGA	2262	6726	0	0	Basal tumor cells	Tumor
+Primary_human_ACTTGTTAGTTGCAGG	5023	24829	0.048094739	0	Basal tumor cells	Tumor
+Primary_human_ACTTGTTAGTTTGCGT	666	1391	0.033069734	1	Tcell	Nontumor
+Primary_human_ACTTGTTCATGCCACG	2638	8643	0.025688498	2	Endothelial cells	Nontumor
+Primary_human_ACTTGTTGTGCGAAAC	5090	26484	0.077768545	0	Basal tumor cells	Tumor
+Primary_human_ACTTTCAAGCAAATCA	5634	29908	0.04139776	0	Basal tumor cells	Tumor
+Primary_human_ACTTTCACACGGTGTC	1071	2579	0.090732842	2	Endothelial cells	Nontumor
+Primary_human_ACTTTCAGTCTCCATC	2450	7581	0.023881779	2	Endothelial cells	Nontumor
+Primary_human_AGAATAGCACAGCGTC	2640	10051	0.040007962	7	Fibroblasts	Nontumor
+Primary_human_AGAATAGCACATTAGC	2101	5214	0.000191828	0	Basal tumor cells	Tumor
+Primary_human_AGAATAGCAGTCGTGC	1797	4851	0.085773196	2	Endothelial cells	Nontumor
+Primary_human_AGAATAGTCAGCACAT	2115	6235	0.022140221	5	Muscle cells	Nontumor
+Primary_human_AGACGTTCACGCCAGT	3906	15920	0.024374921	0	Basal tumor cells	Tumor
+Primary_human_AGACGTTTCGCTTAGA	3418	12323	0.011118325	2	Endothelial cells	Nontumor
+Primary_human_AGAGCGAAGTGGGCTA	961	2323	0.071490095	2	Endothelial cells	Nontumor
+Primary_human_AGAGCGACAGACGTAG	1856	4449	0.018431108	5	Muscle cells	Nontumor
+Primary_human_AGAGCGACAGCTGTAT	945	3473	0.050691244	8	Unknown1	Nontumor
+Primary_human_AGAGCGACATATGGTC	821	2456	0.031758958	1	Tcell	Nontumor
+Primary_human_AGAGCGAGTCAGAATA	1284	3836	0.035760898	8	Unknown1	Nontumor
+Primary_human_AGAGCGATCAACACAC	2394	7178	0.018810088	4	Fibroblasts	Nontumor
+Primary_human_AGAGCGATCAGGATCT	1423	5027	0.030049751	3	Macrophages	Nontumor
+Primary_human_AGAGCTTCATTACGAC	739	1500	0.018679119	1	Tcell	Nontumor
+Primary_human_AGAGCTTGTGATGCCC	3384	12863	0.026978697	0	Basal tumor cells	Tumor
+Primary_human_AGAGCTTTCACCCTCA	4068	19332	0.021416378	3	Macrophages	Nontumor
+Primary_human_AGAGTGGAGTTGAGAT	598	1087	0.020257827	1	Tcell	Nontumor
+Primary_human_AGAGTGGCAGCTGTGC	5607	37332	0.040051437	0	Basal tumor cells	Tumor
+Primary_human_AGAGTGGGTCAGAAGC	568	961	0.001040583	4	Fibroblasts	Nontumor
+Primary_human_AGAGTGGGTCTAAAGA	942	2825	0.02159292	1	Tcell	Nontumor
+Primary_human_AGATCTGTCTATCCTA	995	2580	0.012024825	1	Tcell	Nontumor
+Primary_human_AGATTGCAGCACCGTC	5470	32234	0.044958114	0	Basal tumor cells	Tumor
+Primary_human_AGATTGCGTAAGTAGT	1529	4292	0.04218131	2	Endothelial cells	Nontumor
+Primary_human_AGATTGCTCCTGTAGA	3910	17084	0.021722583	4	Fibroblasts	Nontumor
+Primary_human_AGATTGCTCTGCGGCA	3466	14143	0.031124001	2	Endothelial cells	Nontumor
+Primary_human_AGCATACAGCTAACTC	955	2680	0.011198208	1	Tcell	Nontumor
+Primary_human_AGCATACAGGTGGGTT	2663	8322	0.023314505	7	Fibroblasts	Nontumor
+Primary_human_AGCATACCACGAAATA	2108	6218	0.04037317	2	Endothelial cells	Nontumor
+Primary_human_AGCATACGTACGCTGC	5458	32748	0.023178403	0	Basal tumor cells	Tumor
+Primary_human_AGCATACGTGGACGAT	4617	21805	0.032659052	0	Basal tumor cells	Tumor
+Primary_human_AGCATACGTTCCACTC	1940	5478	0.035975164	7	Fibroblasts	Nontumor
+Primary_human_AGCATACTCACCCTCA	1317	2763	0.026058632	1	Tcell	Nontumor
+Primary_human_AGCCTAACAATCCAAC	4866	26247	0.035625833	6	Urothelial cells	Nontumor
+Primary_human_AGCCTAACACCCATTC	2491	8878	0.037066246	2	Endothelial cells	Nontumor
+Primary_human_AGCGGTCCATTTGCTT	4675	29384	0.037654909	3	Macrophages	Nontumor
+Primary_human_AGCGGTCGTGTTGAGG	2939	10439	0.024623934	4	Fibroblasts	Nontumor
+Primary_human_AGCGGTCTCAGTGCAT	3660	14201	0.011129112	4	Fibroblasts	Nontumor
+Primary_human_AGCGGTCTCTGAGTGT	4324	21964	0.025728597	4	Fibroblasts	Nontumor
+Primary_human_AGCGGTCTCTTGACGA	749	1883	0.003723404	3	Macrophages	Nontumor
+Primary_human_AGCGTATAGCTATGCT	2888	8817	0.021100397	2	Endothelial cells	Nontumor
+Primary_human_AGCGTATCAAACGTGG	809	2218	0.030207394	1	Tcell	Nontumor
+Primary_human_AGCGTATTCTCTAGGA	5764	30471	0.037162273	6	Urothelial cells	Nontumor
+Primary_human_AGCGTCGAGAACAATC	2119	6945	0.020737327	3	Macrophages	Nontumor
+Primary_human_AGCGTCGAGAAGGTTT	6555	55076	0.021665698	0	Basal tumor cells	Tumor
+Primary_human_AGCGTCGAGAGTAATC	5999	46117	0.032095071	0	Basal tumor cells	Tumor
+Primary_human_AGCGTCGAGCGGCTTC	4157	17203	0.032439974	0	Basal tumor cells	Tumor
+Primary_human_AGCGTCGAGGTGTTAA	2759	9481	0.035774588	2	Endothelial cells	Nontumor
+Primary_human_AGCGTCGCAATACGCT	3070	12804	0.074982426	0	Basal tumor cells	Tumor
+Primary_human_AGCGTCGCAGATGAGC	637	1801	0.028872848	1	Tcell	Nontumor
+Primary_human_AGCTCCTAGTGTTTGC	2792	9313	0.025233545	5	Muscle cells	Nontumor
+Primary_human_AGCTCCTCACGAGGTA	2200	5535	0.075018077	2	Endothelial cells	Nontumor
+Primary_human_AGCTCCTCAGAGTGTG	846	1454	0.046831956	7	Fibroblasts	Nontumor
+Primary_human_AGCTCCTGTCCATGAT	835	2635	0.041761579	8	Unknown1	Nontumor
+Primary_human_AGCTCCTGTCTGCCAG	2339	6757	0.012588863	2	Endothelial cells	Nontumor
+Primary_human_AGCTCCTTCACATGCA	6568	41169	0.093212516	0	Basal tumor cells	Tumor
+Primary_human_AGCTCCTTCAGGTTCA	4626	17187	0.047189573	0	Basal tumor cells	Tumor
+Primary_human_AGCTCTCAGAGTCTGG	3294	11437	0.035770509	4	Fibroblasts	Nontumor
+Primary_human_AGCTCTCAGGATATAC	774	1846	0.031453362	1	Tcell	Nontumor
+Primary_human_AGCTCTCAGTGGACGT	4139	18973	0.018131984	0	Basal tumor cells	Tumor
+Primary_human_AGCTCTCAGTGGTCCC	2059	7262	0.025206612	2	Endothelial cells	Nontumor
+Primary_human_AGCTCTCTCTCGAGTA	3280	13357	0.044770532	2	Endothelial cells	Nontumor
+Primary_human_AGCTCTCTCTTGTCAT	2432	8139	0.016959567	3	Macrophages	Nontumor
+Primary_human_AGCTTGACACGGATAG	1036	2079	0.097162097	2	Endothelial cells	Nontumor
+Primary_human_AGCTTGAGTCTCTTAT	3306	11643	0.021561722	4	Fibroblasts	Nontumor
+Primary_human_AGCTTGATCGTGTAGT	511	1039	0.073217726	2	Endothelial cells	Nontumor
+Primary_human_AGCTTGATCTAAGCCA	2581	7576	0.031299525	7	Fibroblasts	Nontumor
+Primary_human_AGGCCACCATGACATC	4000	15290	0.073933525	0	Basal tumor cells	Tumor
+Primary_human_AGGCCACGTAAGGGCT	1348	3495	0.02832618	5	Muscle cells	Nontumor
+Primary_human_AGGCCACGTAGGGACT	2142	7174	0.024679308	3	Macrophages	Nontumor
+Primary_human_AGGCCACTCACCCTCA	510	1291	0.017815647	9	Unknown2	Nontumor
+Primary_human_AGGCCACTCGCATGGC	4349	22730	0.03159655	7	Fibroblasts	Nontumor
+Primary_human_AGGCCGTAGAATGTTG	1951	4995	0.022030843	5	Muscle cells	Nontumor
+Primary_human_AGGCCGTAGGATGGTC	2484	7746	0.01524154	2	Endothelial cells	Nontumor
+Primary_human_AGGCCGTTCTCTGCTG	916	1940	0.029896907	5	Muscle cells	Nontumor
+Primary_human_AGGGATGAGACTGTAA	1794	5167	0.042771434	5	Muscle cells	Nontumor
+Primary_human_AGGGATGAGAGTTGGC	2461	7534	0.033452808	2	Endothelial cells	Nontumor
+Primary_human_AGGGATGAGCAGGCTA	1250	3299	0.083964838	2	Endothelial cells	Nontumor
+Primary_human_AGGGATGAGGTGCAAC	2045	6178	0.029297507	2	Endothelial cells	Nontumor
+Primary_human_AGGGTGAGTTTAGCTG	2521	7640	0.046228392	5	Muscle cells	Nontumor
+Primary_human_AGGGTGATCTCGCATC	4713	25740	0.044297649	6	Urothelial cells	Nontumor
+Primary_human_AGGTCATAGATATACG	2309	6020	0.017613825	5	Muscle cells	Nontumor
+Primary_human_AGGTCATCAGGTCTCG	710	1966	0.02543235	1	Tcell	Nontumor
+Primary_human_AGGTCATGTCTTGCGG	1311	4344	0.02970297	1	Tcell	Nontumor
+Primary_human_AGGTCATTCCTTTCTC	1159	3235	0.026283241	1	Tcell	Nontumor
+Primary_human_AGGTCCGAGAGTACAT	5451	29072	0.042687122	0	Basal tumor cells	Tumor
+Primary_human_AGGTCCGAGCTACCTA	2220	6852	0.055774566	3	Macrophages	Nontumor
+Primary_human_AGGTCCGCAGCTGCAC	2661	9900	0.014649424	4	Fibroblasts	Nontumor
+Primary_human_AGGTCCGGTCGCATAT	2982	11159	0.049300825	2	Endothelial cells	Nontumor
+Primary_human_AGGTCCGTCATAAAGG	842	2454	0.022819886	1	Tcell	Nontumor
+Primary_human_AGTAGTCCATTCTCAT	2611	8462	0.060638298	2	Endothelial cells	Nontumor
+Primary_human_AGTAGTCTCGTGGGAA	1900	5650	0.012389381	3	Macrophages	Nontumor
+Primary_human_AGTCTTTCAGTTTACG	3902	16175	0.075762261	6	Urothelial cells	Nontumor
+Primary_human_AGTCTTTCATTGTGCA	3156	16796	0.013932718	3	Macrophages	Nontumor
+Primary_human_AGTCTTTGTGTGAAAT	2656	8418	0.000594036	0	Basal tumor cells	Tumor
+Primary_human_AGTGAGGAGCCACGCT	3849	15976	0.032799199	0	Basal tumor cells	Tumor
+Primary_human_AGTGAGGAGCCCAATT	4568	21347	0.04759451	0	Basal tumor cells	Tumor
+Primary_human_AGTGAGGCAGACAGGT	678	1446	0.040138408	2	Endothelial cells	Nontumor
+Primary_human_AGTGAGGCATTGGCGC	1012	2660	0.048514479	1	Tcell	Nontumor
+Primary_human_AGTGAGGGTACCGAGA	677	1697	0.017678256	9	Unknown2	Nontumor
+Primary_human_AGTGAGGGTATGGTTC	1797	4593	0.016114983	2	Endothelial cells	Nontumor
+Primary_human_AGTGAGGGTCGTCTTC	4105	17375	0.021647763	4	Fibroblasts	Nontumor
+Primary_human_AGTGAGGGTTTGCATG	2245	7284	0.036930258	3	Macrophages	Nontumor
+Primary_human_AGTGAGGTCACATGCA	1417	3309	0.007257333	1	Tcell	Nontumor
+Primary_human_AGTGAGGTCTCTAGGA	819	2156	0.025058005	1	Tcell	Nontumor
+Primary_human_AGTGGGACATGACATC	1555	3950	0.022278481	5	Muscle cells	Nontumor
+Primary_human_AGTGGGACATTCCTCG	1069	2494	0.008821171	1	Tcell	Nontumor
+Primary_human_AGTGGGAGTAGGAGTC	4549	21369	0.070793145	6	Urothelial cells	Nontumor
+Primary_human_AGTGTCAAGCAAATCA	4956	27953	0.046236982	6	Urothelial cells	Nontumor
+Primary_human_AGTGTCACAGACACTT	5707	28846	0.041046975	0	Basal tumor cells	Tumor
+Primary_human_AGTGTCAGTTGGACCC	3456	18443	0.026412843	3	Macrophages	Nontumor
+Primary_human_AGTGTCATCTGCCAGG	5643	39069	0.026445138	0	Basal tumor cells	Tumor
+Primary_human_AGTTGGTGTCAGCTAT	4374	18558	0.033839853	0	Basal tumor cells	Tumor
+Primary_human_AGTTGGTTCGGCGGTT	3250	11513	0.008512117	0	Basal tumor cells	Tumor
+Primary_human_ATAACGCAGGCGACAT	2059	5834	0.024348422	2	Endothelial cells	Nontumor
+Primary_human_ATAACGCCAGCGATCC	1249	3886	0.021621622	9	Unknown2	Nontumor
+Primary_human_ATAACGCCATTAACCG	5379	22088	0.03446558	0	Basal tumor cells	Tumor
+Primary_human_ATAAGAGAGGATGCGT	3155	10889	0.021858927	5	Muscle cells	Nontumor
+Primary_human_ATAGACCAGCTATGCT	3295	11605	0.063189655	6	Urothelial cells	Nontumor
+Primary_human_ATAGACCAGCTCAACT	3478	17047	0.016835807	3	Macrophages	Nontumor
+Primary_human_ATAGACCAGGGCACTA	6168	38260	0.037121272	0	Basal tumor cells	Tumor
+Primary_human_ATAGACCAGTATGACA	1010	2637	0.017823284	1	Tcell	Nontumor
+Primary_human_ATAGACCAGTGTCCAT	632	1433	0.009776536	9	Unknown2	Nontumor
+Primary_human_ATAGACCCATAAAGGT	3277	14139	0.035153487	3	Macrophages	Nontumor
+Primary_human_ATAGACCCATACAGCT	1530	3638	0.026670333	5	Muscle cells	Nontumor
+Primary_human_ATAGACCGTAGCCTCG	1507	3907	0.029969262	5	Muscle cells	Nontumor
+Primary_human_ATAGACCTCACCACCT	1258	2409	0.017857143	2	Endothelial cells	Nontumor
+Primary_human_ATAGACCTCCGGCACA	1473	5315	0.030479774	5	Muscle cells	Nontumor
+Primary_human_ATAGACCTCTGCTGCT	5020	24098	0.03793633	0	Basal tumor cells	Tumor
+Primary_human_ATCACGAAGAACAATC	1888	6214	0.026552945	3	Macrophages	Nontumor
+Primary_human_ATCACGAAGCCGATTT	3784	16151	0.015236915	4	Fibroblasts	Nontumor
+Primary_human_ATCACGAAGGAGCGTT	1373	5286	0.019682059	1	Tcell	Nontumor
+Primary_human_ATCACGACAAGTCTGT	769	1680	0.07568534	3	Macrophages	Nontumor
+Primary_human_ATCACGACAGATGGGT	2576	12996	0.034018318	3	Macrophages	Nontumor
+Primary_human_ATCACGATCGGTGTCG	740	1761	0.023850085	1	Tcell	Nontumor
+Primary_human_ATCATCTAGAGGTACC	539	850	0.069493522	1	Tcell	Nontumor
+Primary_human_ATCATCTAGCCACGTC	4507	19545	0.021234138	0	Basal tumor cells	Tumor
+Primary_human_ATCATCTAGCTGAAAT	843	2060	0.023312288	9	Unknown2	Nontumor
+Primary_human_ATCATCTAGCTGGAAC	1452	3953	0.020242915	3	Macrophages	Nontumor
+Primary_human_ATCATCTAGGGCACTA	2991	8746	0.028019213	2	Endothelial cells	Nontumor
+Primary_human_ATCATCTGTCTACCTC	1119	3207	0.016219588	1	Tcell	Nontumor
+Primary_human_ATCATCTGTCTCCCTA	5142	24342	0.02937672	0	Basal tumor cells	Tumor
+Primary_human_ATCATCTTCCGAAGAG	3590	10082	0.071322289	0	Basal tumor cells	Tumor
+Primary_human_ATCATGGCAAGGTGTG	835	2075	0.011566265	9	Unknown2	Nontumor
+Primary_human_ATCATGGCAGGCTGAA	2768	10029	0.01605985	7	Fibroblasts	Nontumor
+Primary_human_ATCATGGCAGTCAGAG	926	3008	0.052859043	3	Macrophages	Nontumor
+Primary_human_ATCATGGGTAGCGTCC	1596	4277	0.053567251	5	Muscle cells	Nontumor
+Primary_human_ATCATGGGTGAGCGAT	5102	35869	0.033270121	0	Basal tumor cells	Tumor
+Primary_human_ATCATGGTCACCTCGT	3777	15401	0.017538162	6	Urothelial cells	Nontumor
+Primary_human_ATCATGGTCAGCACAT	1621	4022	0.0343369	5	Muscle cells	Nontumor
+Primary_human_ATCCACCTCCGCAAGC	909	2089	0.025370991	1	Tcell	Nontumor
+Primary_human_ATCCGAAAGTGCGATG	3131	10769	0.018855657	4	Fibroblasts	Nontumor
+Primary_human_ATCCGAAGTAGAGCTG	2956	10792	0.032622799	2	Endothelial cells	Nontumor
+Primary_human_ATCCGAATCATCGGAT	1095	2769	0.020223908	1	Tcell	Nontumor
+Primary_human_ATCGAGTAGAGTCTGG	3614	16338	0.022284805	3	Macrophages	Nontumor
+Primary_human_ATCGAGTCATAAGACA	1338	3075	0.037073171	2	Endothelial cells	Nontumor
+Primary_human_ATCGAGTCATTCGACA	1630	3949	0.012154976	5	Muscle cells	Nontumor
+Primary_human_ATCGAGTGTCTCCACT	557	965	0.001036269	6	Urothelial cells	Nontumor
+Primary_human_ATCGAGTTCTCATTCA	1149	3307	0.016954284	9	Unknown2	Nontumor
+Primary_human_ATCTACTAGATAGGAG	1865	6154	0.059005202	2	Endothelial cells	Nontumor
+Primary_human_ATCTACTAGGTGATAT	4208	16531	0.062624796	0	Basal tumor cells	Tumor
+Primary_human_ATCTACTAGTGTTTGC	788	1699	0.010594467	1	Tcell	Nontumor
+Primary_human_ATCTACTGTTAAGTAG	912	1607	0.019302615	2	Endothelial cells	Nontumor
+Primary_human_ATCTACTTCAGGTTCA	2019	7313	0.059097127	2	Endothelial cells	Nontumor
+Primary_human_ATCTACTTCTAACTTC	1052	3250	0.031692308	1	Tcell	Nontumor
+Primary_human_ATCTGCCCAACACGCC	4463	18233	0.013824126	4	Fibroblasts	Nontumor
+Primary_human_ATCTGCCGTGTGACCC	4566	23667	0.024216043	4	Fibroblasts	Nontumor
+Primary_human_ATCTGCCTCATCGCTC	2875	11140	0.039511494	0	Basal tumor cells	Tumor
+Primary_human_ATCTGCCTCTTAACCT	1234	3075	0.036109304	1	Tcell	Nontumor
+Primary_human_ATGAGGGAGAGCTTCT	2755	9060	0.054647825	2	Endothelial cells	Nontumor
+Primary_human_ATGAGGGAGTGGTAGC	2213	6294	0.027173049	7	Fibroblasts	Nontumor
+Primary_human_ATGAGGGCAGCCAGAA	1173	3250	0.065846154	2	Endothelial cells	Nontumor
+Primary_human_ATGAGGGCAGCTTCGG	4424	22254	0.012182513	6	Urothelial cells	Nontumor
+Primary_human_ATGAGGGGTAAGGGCT	3243	19233	0.000416017	0	Basal tumor cells	Tumor
+Primary_human_ATGAGGGTCAAACCAC	3782	15718	0.028255059	2	Endothelial cells	Nontumor
+Primary_human_ATGCGATAGGATGGAA	3708	15887	0.024299654	3	Macrophages	Nontumor
+Primary_human_ATGCGATCAAGGCTCC	763	2064	0.035852713	1	Tcell	Nontumor
+Primary_human_ATGCGATTCGACCAGC	761	2290	0.038881608	1	Tcell	Nontumor
+Primary_human_ATGCGATTCGTTTATC	2380	8318	0.023088023	5	Muscle cells	Nontumor
+Primary_human_ATGCGATTCTACTATC	1552	4250	0.047540598	3	Macrophages	Nontumor
+Primary_human_ATGGGAGAGAGAGCTC	3396	16874	0.011205312	3	Macrophages	Nontumor
+Primary_human_ATGGGAGCAGACAAGC	716	1342	0.000745156	6	Urothelial cells	Nontumor
+Primary_human_ATGGGAGGTGCATCTA	2370	7814	0.038397543	2	Endothelial cells	Nontumor
+Primary_human_ATGGGAGTCTGCCAGG	979	2528	0.030063291	1	Tcell	Nontumor
+Primary_human_ATGTGTGAGCCGGTAA	1472	3252	0.026169951	7	Fibroblasts	Nontumor
+Primary_human_ATGTGTGGTGGCAAAC	973	3075	0.029268293	1	Tcell	Nontumor
+Primary_human_ATGTGTGGTTCAGTAC	2741	7741	0.034638749	4	Fibroblasts	Nontumor
+Primary_human_ATTACTCAGAGCTTCT	2999	11927	0.02490566	3	Macrophages	Nontumor
+Primary_human_ATTACTCCACTTAACG	6042	29810	0.04066159	0	Basal tumor cells	Tumor
+Primary_human_ATTACTCGTGTTCGAT	4438	21181	0.023797158	0	Basal tumor cells	Tumor
+Primary_human_ATTACTCTCGTAGGTT	893	2309	0.030749242	9	Unknown2	Nontumor
+Primary_human_ATTATCCAGTACTTGC	1345	3617	0.022130014	2	Endothelial cells	Nontumor
+Primary_human_ATTATCCCAAGTTAAG	1137	2638	0.012130402	1	Tcell	Nontumor
+Primary_human_ATTATCCGTCATCCCT	2028	5484	0.012039402	5	Muscle cells	Nontumor
+Primary_human_ATTATCCTCCGGCACA	1618	4286	0.038730751	2	Endothelial cells	Nontumor
+Primary_human_ATTATCCTCCTTGACC	737	1929	0.032659409	3	Macrophages	Nontumor
+Primary_human_ATTCTACAGGTTCCTA	1644	4266	0.02883939	3	Macrophages	Nontumor
+Primary_human_ATTCTACCACTGAAGG	677	1385	0	2	Endothelial cells	Nontumor
+Primary_human_ATTCTACCAGATCGGA	1427	3458	0.033834586	1	Tcell	Nontumor
+Primary_human_ATTCTACCAGTTAACC	3774	15224	0.02109067	2	Endothelial cells	Nontumor
+Primary_human_ATTCTACGTCAATGTC	2064	6163	0.019311912	5	Muscle cells	Nontumor
+Primary_human_ATTCTACTCATCACCC	1937	6770	0.043574594	3	Macrophages	Nontumor
+Primary_human_ATTCTACTCCTAGAAC	2715	12458	0.02385159	3	Macrophages	Nontumor
+Primary_human_ATTCTACTCTGGTGTA	4284	17753	0.026081568	3	Macrophages	Nontumor
+Primary_human_ATTGGACAGAGCTTCT	2559	9722	0.024593538	3	Macrophages	Nontumor
+Primary_human_ATTGGACCACTATCTT	5209	25745	0.041843117	0	Basal tumor cells	Tumor
+Primary_human_ATTGGACGTACCTACA	750	2280	0.034649123	8	Unknown1	Nontumor
+Primary_human_ATTGGACGTTCCATGA	1429	3943	0.096905124	2	Endothelial cells	Nontumor
+Primary_human_ATTGGTGAGAGACGAA	2339	11657	0.021964822	3	Macrophages	Nontumor
+Primary_human_ATTGGTGAGAGCAATT	2198	8141	0.01977887	3	Macrophages	Nontumor
+Primary_human_ATTGGTGAGAGCTTCT	6038	40814	0.030628997	0	Basal tumor cells	Tumor
+Primary_human_ATTGGTGAGCTACCGC	1275	3678	0.031266993	3	Macrophages	Nontumor
+Primary_human_ATTGGTGAGCTCCTTC	2691	9081	0.030513329	2	Endothelial cells	Nontumor
+Primary_human_ATTGGTGTCGAATGCT	3568	14503	0.025934612	4	Fibroblasts	Nontumor
+Primary_human_ATTGGTGTCGGCTTGG	6564	49104	0.050679323	6	Urothelial cells	Nontumor
+Primary_human_ATTTCTGAGTTCGCGC	2253	8905	0.023584906	3	Macrophages	Nontumor
+Primary_human_CAACCAAAGCCGCCTA	1209	2674	0.006734007	1	Tcell	Nontumor
+Primary_human_CAACCAAAGTTGAGAT	1746	4964	0.057827927	2	Endothelial cells	Nontumor
+Primary_human_CAACCAACAAGCGCTC	2244	7918	0.025903462	3	Macrophages	Nontumor
+Primary_human_CAACCAAGTGCACCAC	2815	9042	0.026659292	4	Fibroblasts	Nontumor
+Primary_human_CAACCTCAGTCTTGCA	1301	3183	0.049952875	2	Endothelial cells	Nontumor
+Primary_human_CAACCTCCAATGCCAT	6989	56725	0.016062204	0	Basal tumor cells	Tumor
+Primary_human_CAACCTCTCCGGGTGT	4849	20646	0.040451507	0	Basal tumor cells	Tumor
+Primary_human_CAACTAGCAGCCTGTG	3988	18238	0.045511871	0	Basal tumor cells	Tumor
+Primary_human_CAACTAGGTAGCTCCG	5399	28010	0.054276022	0	Basal tumor cells	Tumor
+Primary_human_CAACTAGGTCGGCTCA	2259	6232	0.046227929	7	Fibroblasts	Nontumor
+Primary_human_CAACTAGTCCTATTCA	4609	25062	0.036349852	0	Basal tumor cells	Tumor
+Primary_human_CAAGAAAAGACTACAA	2079	6765	0.048048492	2	Endothelial cells	Nontumor
+Primary_human_CAAGAAACAATGGATA	1078	2628	0.049847793	2	Endothelial cells	Nontumor
+Primary_human_CAAGAAACATGCATGT	3761	17659	0.030586236	3	Macrophages	Nontumor
+Primary_human_CAAGAAATCAAAGACA	2676	8185	0.022968845	4	Fibroblasts	Nontumor
+Primary_human_CAAGATCGTTAAAGAC	1569	4039	0.020054469	5	Muscle cells	Nontumor
+Primary_human_CAAGATCGTTTAGGAA	940	2753	0.061409884	8	Unknown1	Nontumor
+Primary_human_CAAGATCTCGGTGTCG	1901	5510	0.027969488	5	Muscle cells	Nontumor
+Primary_human_CAAGGCCCAATGAAAC	5514	31336	0.040377925	0	Basal tumor cells	Tumor
+Primary_human_CAAGGCCCACTGTTAG	2116	6983	0.044848832	5	Muscle cells	Nontumor
+Primary_human_CAAGGCCGTTACGACT	538	1008	0.032770606	1	Tcell	Nontumor
+Primary_human_CAAGGCCGTTGCGTTA	1808	4679	0.059666382	2	Endothelial cells	Nontumor
+Primary_human_CAAGGCCTCAAGAAGT	3865	15708	0.065580033	6	Urothelial cells	Nontumor
+Primary_human_CAAGGCCTCATCTGCC	1756	4322	0.013425926	2	Endothelial cells	Nontumor
+Primary_human_CAAGGCCTCGGAGGTA	1010	2656	0.026741996	1	Tcell	Nontumor
+Primary_human_CAAGTTGAGGAGTAGA	5063	26901	0.038773234	0	Basal tumor cells	Tumor
+Primary_human_CAAGTTGGTACAGTGG	4916	23953	0.035615866	0	Basal tumor cells	Tumor
+Primary_human_CAAGTTGGTTGATTGC	2512	9246	0.018177884	7	Fibroblasts	Nontumor
+Primary_human_CAAGTTGGTTTCCACC	2918	11425	0.031512605	3	Macrophages	Nontumor
+Primary_human_CAAGTTGGTTTGACTG	7463	70077	0.027900671	0	Basal tumor cells	Tumor
+Primary_human_CAAGTTGTCCAAATGC	2183	6717	0.021441334	4	Fibroblasts	Nontumor
+Primary_human_CAAGTTGTCGGAAACG	729	1762	0.046538025	1	Tcell	Nontumor
+Primary_human_CAAGTTGTCGTCCGTT	6493	37373	0.037251124	0	Basal tumor cells	Tumor
+Primary_human_CACAAACAGACATAAC	2175	6135	0.019895629	5	Muscle cells	Nontumor
+Primary_human_CACAAACAGTGAAGAG	3989	17658	0.028260746	4	Fibroblasts	Nontumor
+Primary_human_CACAAACCAGGAATCG	5331	25691	0.041614762	0	Basal tumor cells	Tumor
+Primary_human_CACAAACCATTTCAGG	4261	21147	0.023745329	4	Fibroblasts	Nontumor
+Primary_human_CACAAACGTTAAAGTG	7402	63035	0.043410656	0	Basal tumor cells	Tumor
+Primary_human_CACACAAAGGATGTAT	1780	5195	0.047747401	2	Endothelial cells	Nontumor
+Primary_human_CACACAACACATGACT	535	1297	0.047802621	1	Tcell	Nontumor
+Primary_human_CACACAACACCCAGTG	1682	6663	0.060042029	3	Macrophages	Nontumor
+Primary_human_CACACAACACCGTTGG	1146	2448	0.040849673	2	Endothelial cells	Nontumor
+Primary_human_CACACAAGTAAGCACG	3098	14543	0.032941338	2	Endothelial cells	Nontumor
+Primary_human_CACACAAGTCATCCCT	5393	33080	0.030776673	0	Basal tumor cells	Tumor
+Primary_human_CACACAATCAAAGACA	1781	4099	0.053941909	2	Endothelial cells	Nontumor
+Primary_human_CACACAATCCTTCAAT	3579	14361	0.048958841	0	Basal tumor cells	Tumor
+Primary_human_CACACCTAGACTGGGT	3903	15082	0.044305896	6	Urothelial cells	Nontumor
+Primary_human_CACACCTAGTCGTTTG	1737	5047	0.049167328	3	Macrophages	Nontumor
+Primary_human_CACACCTCAGCTTAAC	2618	9361	0.019019126	5	Muscle cells	Nontumor
+Primary_human_CACACCTCAGGACGTA	5208	26564	0.021393597	4	Fibroblasts	Nontumor
+Primary_human_CACACCTCATCCAACA	1299	3128	0.032608696	5	Muscle cells	Nontumor
+Primary_human_CACACCTGTCGAAAGC	3111	13208	0.02438101	2	Endothelial cells	Nontumor
+Primary_human_CACACCTGTTTGTGTG	5388	29465	0.028376498	0	Basal tumor cells	Tumor
+Primary_human_CACACTCAGTTACCCA	597	1341	0.023117077	1	Tcell	Nontumor
+Primary_human_CACACTCCAACACGCC	2205	8500	0.030470588	3	Macrophages	Nontumor
+Primary_human_CACACTCCACGAAATA	6711	34496	0.020827887	0	Basal tumor cells	Tumor
+Primary_human_CACACTCGTGTGACCC	1105	2674	0.016828721	1	Tcell	Nontumor
+Primary_human_CACACTCTCGCATGAT	994	2150	0.026046512	5	Muscle cells	Nontumor
+Primary_human_CACACTCTCGGAATCT	7305	59941	0.027264233	0	Basal tumor cells	Tumor
+Primary_human_CACACTCTCTTGACGA	4148	19181	0.016787446	4	Fibroblasts	Nontumor
+Primary_human_CACAGGCGTTTGACAC	4946	28035	0.033781615	0	Basal tumor cells	Tumor
+Primary_human_CACAGGCTCACCCTCA	4814	18106	0.086831639	0	Basal tumor cells	Tumor
+Primary_human_CACAGGCTCGCACTCT	3169	11089	0.01948755	4	Fibroblasts	Nontumor
+Primary_human_CACAGTACAGTCACTA	2710	10644	0.000375834	0	Basal tumor cells	Tumor
+Primary_human_CACAGTAGTGCTAGCC	3000	10389	0.027922203	6	Urothelial cells	Nontumor
+Primary_human_CACAGTATCTAACGGT	732	1955	0.017400205	1	Tcell	Nontumor
+Primary_human_CACATAGAGATCGGGT	1769	5214	0.052944562	2	Endothelial cells	Nontumor
+Primary_human_CACATAGCACGGATAG	3218	13106	0.024648962	4	Fibroblasts	Nontumor
+Primary_human_CACATAGGTACCGTAT	4778	23151	0.02903184	0	Basal tumor cells	Tumor
+Primary_human_CACATAGGTGAAGGCT	7781	82091	0.017628928	0	Basal tumor cells	Tumor
+Primary_human_CACATAGGTTCATGGT	1744	4882	0.071896764	2	Endothelial cells	Nontumor
+Primary_human_CACATTTAGAAGATTC	5333	31279	0.046938449	0	Basal tumor cells	Tumor
+Primary_human_CACATTTAGAAGGCCT	6215	35037	0.048222698	0	Basal tumor cells	Tumor
+Primary_human_CACATTTAGTACGATA	5334	27984	0.032911664	0	Basal tumor cells	Tumor
+Primary_human_CACATTTGTAGATTAG	1936	6183	0.027993528	2	Endothelial cells	Nontumor
+Primary_human_CACATTTGTCACTTCC	5494	29941	0.016067611	0	Basal tumor cells	Tumor
+Primary_human_CACATTTTCCTCATTA	2482	7665	0.035518412	5	Muscle cells	Nontumor
+Primary_human_CACCACTAGAGGTACC	697	1411	0.01987225	1	Tcell	Nontumor
+Primary_human_CACCACTGTTCACGGC	1713	4772	0.030182352	2	Endothelial cells	Nontumor
+Primary_human_CACCACTTCCTAAGTG	2308	6137	0.000651784	0	Basal tumor cells	Tumor
+Primary_human_CACCACTTCGTGGTCG	902	2969	0.022911051	8	Unknown1	Nontumor
+Primary_human_CACCAGGAGTCATCCA	2128	6605	0.027104785	2	Endothelial cells	Nontumor
+Primary_human_CACCAGGGTCATGCAT	3266	15937	0.023803542	3	Macrophages	Nontumor
+Primary_human_CACCAGGTCTTGCCGT	2411	9884	0.038251366	7	Fibroblasts	Nontumor
+Primary_human_CACCTTGAGCTAGTGG	1971	4908	0.01792991	2	Endothelial cells	Nontumor
+Primary_human_CACCTTGAGTCTCCTC	2487	7274	0.068078669	4	Fibroblasts	Nontumor
+Primary_human_CACCTTGAGTGGACGT	4511	25475	0.028695925	3	Macrophages	Nontumor
+Primary_human_CACCTTGCATGGGACA	903	1811	0.028729282	1	Tcell	Nontumor
+Primary_human_CACCTTGGTTTAAGCC	523	1009	0.075396825	2	Endothelial cells	Nontumor
+Primary_human_CACTCCAAGTCCAGGA	2071	5478	0.035238269	6	Urothelial cells	Nontumor
+Primary_human_CACTCCAAGTGTCTCA	2463	9140	0.027796017	7	Fibroblasts	Nontumor
+Primary_human_CACTCCACACGAAACG	6240	41050	0.061706741	0	Basal tumor cells	Tumor
+Primary_human_CACTCCACAGATGAGC	1901	4644	0.021102498	4	Fibroblasts	Nontumor
+Primary_human_CACTCCAGTTCAGCGC	3457	15647	0.007414036	0	Basal tumor cells	Tumor
+Primary_human_CACTCCATCATGGTCA	2443	6776	0.000442739	0	Basal tumor cells	Tumor
+Primary_human_CAGAATCCATCATCCC	3512	11912	0.025957661	7	Fibroblasts	Nontumor
+Primary_human_CAGAATCTCAACCATG	4323	20495	0.019618369	4	Fibroblasts	Nontumor
+Primary_human_CAGAATCTCATTCACT	679	1627	0.035033805	1	Tcell	Nontumor
+Primary_human_CAGAGAGAGCCTTGAT	2169	8648	0.024517174	3	Macrophages	Nontumor
+Primary_human_CAGAGAGCAGACACTT	706	1556	0.041131105	1	Tcell	Nontumor
+Primary_human_CAGAGAGCAGGCAGTA	1621	3912	0.062915601	2	Endothelial cells	Nontumor
+Primary_human_CAGAGAGGTATGGTTC	3242	11917	0.022576584	4	Fibroblasts	Nontumor
+Primary_human_CAGATCAAGACCACGA	1199	2854	0.023125438	5	Muscle cells	Nontumor
+Primary_human_CAGATCAAGGAGTTGC	1709	4416	0.051177536	2	Endothelial cells	Nontumor
+Primary_human_CAGATCAAGTGTCCAT	2178	7952	0.031702101	3	Macrophages	Nontumor
+Primary_human_CAGATCACAATCTGCA	1389	3824	0.041067225	3	Macrophages	Nontumor
+Primary_human_CAGATCATCAATCACG	4114	22011	0.020991413	7	Fibroblasts	Nontumor
+Primary_human_CAGATCATCATAACCG	1804	5218	0.058834803	2	Endothelial cells	Nontumor
+Primary_human_CAGATCATCGTATCAG	3970	22686	0.032269441	3	Macrophages	Nontumor
+Primary_human_CAGCAGCCAAGCCGCT	909	1921	0.019791667	9	Unknown2	Nontumor
+Primary_human_CAGCAGCCAGACAAGC	1776	5862	0.031900375	3	Macrophages	Nontumor
+Primary_human_CAGCAGCGTGTATGGG	5464	36134	0.032216103	0	Basal tumor cells	Tumor
+Primary_human_CAGCAGCTCAGAAATG	6129	46972	0.036513445	0	Basal tumor cells	Tumor
+Primary_human_CAGCATACAATGACCT	2129	6917	0.000722857	0	Basal tumor cells	Tumor
+Primary_human_CAGCATAGTCAGTGGA	2106	6078	0.053194993	5	Muscle cells	Nontumor
+Primary_human_CAGCATATCGATAGAA	1978	5179	0.036500579	5	Muscle cells	Nontumor
+Primary_human_CAGCCGAAGTGAATTG	3252	15069	0.028406451	3	Macrophages	Nontumor
+Primary_human_CAGCCGAAGTGCGATG	1597	4318	0.043075498	3	Macrophages	Nontumor
+Primary_human_CAGCCGAGTACAAGTA	646	1264	0.000791139	7	Fibroblasts	Nontumor
+Primary_human_CAGCGACAGTTATCGC	4049	15753	0.028	4	Fibroblasts	Nontumor
+Primary_human_CAGCTAACAGGGTTAG	5251	29796	0.045216516	0	Basal tumor cells	Tumor
+Primary_human_CAGCTAAGTATATCCG	5772	38600	0.020805804	0	Basal tumor cells	Tumor
+Primary_human_CAGCTAATCCCTGACT	3115	16255	0.02018089	3	Macrophages	Nontumor
+Primary_human_CAGCTGGAGAACAATC	1475	3663	0.032768979	5	Muscle cells	Nontumor
+Primary_human_CAGCTGGAGTGTACCT	1580	4066	0.057304476	2	Endothelial cells	Nontumor
+Primary_human_CAGCTGGGTCCCGACA	1119	3189	0.025094103	1	Tcell	Nontumor
+Primary_human_CAGCTGGGTTCCGGCA	1975	6267	0.038793103	2	Endothelial cells	Nontumor
+Primary_human_CAGCTGGTCAGAGGTG	1899	7429	0.019523361	8	Unknown1	Nontumor
+Primary_human_CAGCTGGTCAGCTCTC	2167	8722	0.021332722	3	Macrophages	Nontumor
+Primary_human_CAGCTGGTCTTCTGGC	5381	32753	0.026659745	0	Basal tumor cells	Tumor
+Primary_human_CAGGTGCCACGGACAA	1043	3666	0.036036036	8	Unknown1	Nontumor
+Primary_human_CAGGTGCCACTCGACG	1072	3825	0.02039749	1	Tcell	Nontumor
+Primary_human_CAGGTGCTCAGTCAGT	1454	4402	0.052942513	2	Endothelial cells	Nontumor
+Primary_human_CAGTAACAGGATGGTC	3129	12022	0.018301306	4	Fibroblasts	Nontumor
+Primary_human_CAGTAACAGTGGACGT	5154	28656	0.026038394	0	Basal tumor cells	Tumor
+Primary_human_CAGTAACAGTTGAGAT	3187	11853	0.024388186	4	Fibroblasts	Nontumor
+Primary_human_CAGTAACCAGTCGTGC	1190	2749	0.012008734	1	Tcell	Nontumor
+Primary_human_CAGTAACGTCAAACTC	707	2002	0.032483758	1	Tcell	Nontumor
+Primary_human_CAGTAACGTTTGGCGC	5271	34976	0.030853254	0	Basal tumor cells	Tumor
+Primary_human_CAGTAACTCCTGCCAT	2057	5326	0.038122066	2	Endothelial cells	Nontumor
+Primary_human_CAGTCCTAGTCCAGGA	2114	6315	0.095343681	4	Fibroblasts	Nontumor
+Primary_human_CAGTCCTCACAAGTAA	722	1808	0.017718715	1	Tcell	Nontumor
+Primary_human_CAGTCCTTCAGCATGT	2620	10390	0.024744849	3	Macrophages	Nontumor
+Primary_human_CAGTCCTTCGTGGTCG	2028	6689	0.051128719	3	Macrophages	Nontumor
+Primary_human_CATATGGCAATGCCAT	2210	5962	0.042770882	4	Fibroblasts	Nontumor
+Primary_human_CATATGGCAGGCAGTA	1034	2652	0.045265937	5	Muscle cells	Nontumor
+Primary_human_CATATGGCATTGGGCC	2820	9149	0.020002186	4	Fibroblasts	Nontumor
+Primary_human_CATATGGGTTAGAACA	1046	3204	0.028151392	8	Unknown1	Nontumor
+Primary_human_CATATTCAGGCGTACA	2575	10154	0.024332578	3	Macrophages	Nontumor
+Primary_human_CATATTCAGGGATCTG	1533	3915	0.040878896	5	Muscle cells	Nontumor
+Primary_human_CATATTCCACATCCAA	2353	9884	0.031268974	2	Endothelial cells	Nontumor
+Primary_human_CATATTCCATATACGC	4060	16387	0.027223341	0	Basal tumor cells	Tumor
+Primary_human_CATATTCCATCAGTAC	1102	3166	0.050852811	1	Tcell	Nontumor
+Primary_human_CATATTCGTATATGGA	3283	14098	0.019794253	4	Fibroblasts	Nontumor
+Primary_human_CATATTCGTCACAAGG	1003	2833	0.079421108	5	Muscle cells	Nontumor
+Primary_human_CATCAGAAGCGTAGTG	5574	40045	0.045328538	0	Basal tumor cells	Tumor
+Primary_human_CATCAGAAGTTACGGG	1827	5046	0.032903865	2	Endothelial cells	Nontumor
+Primary_human_CATCAGAGTACCGTTA	1051	3514	0.039851978	8	Unknown1	Nontumor
+Primary_human_CATCCACCATACAGCT	4187	20234	0.027780524	0	Basal tumor cells	Tumor
+Primary_human_CATCCACGTAGCGTCC	3662	15528	0.015653182	4	Fibroblasts	Nontumor
+Primary_human_CATCCACGTCGCATCG	1034	2716	0.033529845	1	Tcell	Nontumor
+Primary_human_CATCCACGTGTTCGAT	2872	11826	0.01759134	2	Endothelial cells	Nontumor
+Primary_human_CATCGAAAGGCGACAT	5762	26489	0.068383491	0	Basal tumor cells	Tumor
+Primary_human_CATCGAAAGTCATGCT	1846	4429	0.02257846	2	Endothelial cells	Nontumor
+Primary_human_CATCGAAAGTTCCACA	2345	6671	0.028789924	5	Muscle cells	Nontumor
+Primary_human_CATCGAACAAAGCGGT	1468	4520	0.030544489	3	Macrophages	Nontumor
+Primary_human_CATCGAACATTCTCAT	797	2435	0.015195072	1	Tcell	Nontumor
+Primary_human_CATCGAAGTTAAGAAC	1007	2778	0.022318215	1	Tcell	Nontumor
+Primary_human_CATCGGGAGTCTCCTC	7367	75405	0.032176347	0	Basal tumor cells	Tumor
+Primary_human_CATCGGGCATTCCTCG	2026	5901	0.021190032	2	Endothelial cells	Nontumor
+Primary_human_CATCGGGGTACCAGTT	1563	5313	0.036709337	3	Macrophages	Nontumor
+Primary_human_CATCGGGGTTCACCTC	1450	3857	0.02542153	1	Tcell	Nontumor
+Primary_human_CATCGGGGTTCCACTC	6809	65351	0.021195519	0	Basal tumor cells	Tumor
+Primary_human_CATCGGGGTTCGTTGA	2194	8355	0.052789083	3	Macrophages	Nontumor
+Primary_human_CATGACAAGACGCAAC	4116	17609	0.01919691	4	Fibroblasts	Nontumor
+Primary_human_CATGACAAGAGGTTAT	2549	8939	0.033564556	3	Macrophages	Nontumor
+Primary_human_CATGACAAGTTATCGC	1028	2476	0.008481422	9	Unknown2	Nontumor
+Primary_human_CATGACAGTCTCCCTA	2854	13068	0.024261442	3	Macrophages	Nontumor
+Primary_human_CATGACAGTTGAGTTC	2328	10384	0.025520031	2	Endothelial cells	Nontumor
+Primary_human_CATGACATCCAGGGCT	2535	6892	0.026999565	7	Fibroblasts	Nontumor
+Primary_human_CATGACATCCCTCTTT	2683	8282	0.028267698	2	Endothelial cells	Nontumor
+Primary_human_CATGACATCCCTTGTG	800	2236	0.029530201	8	Unknown1	Nontumor
+Primary_human_CATGACATCTTGTATC	6436	34701	0.04554758	0	Basal tumor cells	Tumor
+Primary_human_CATGCCTAGCCCAATT	2044	5568	0.000179662	0	Basal tumor cells	Tumor
+Primary_human_CATGCCTCACGAGAGT	884	2658	0.026731928	8	Unknown1	Nontumor
+Primary_human_CATGCCTGTACTTGAC	2108	6471	0.024269593	2	Endothelial cells	Nontumor
+Primary_human_CATGCCTGTCACTGGC	1698	4625	0.045621622	5	Muscle cells	Nontumor
+Primary_human_CATGCCTGTCTTCTCG	1166	3360	0.056564454	3	Macrophages	Nontumor
+Primary_human_CATGCCTTCGTAGATC	3696	16270	0.047144877	3	Macrophages	Nontumor
+Primary_human_CATGGCGAGGGCTTGA	4287	19549	0.021844784	4	Fibroblasts	Nontumor
+Primary_human_CATGGCGGTTGAACTC	1852	6288	0.027835216	3	Macrophages	Nontumor
+Primary_human_CATGGCGTCGTACGGC	2144	6753	0.030069619	2	Endothelial cells	Nontumor
+Primary_human_CATTATCAGACTCGGA	645	1737	0.021313364	1	Tcell	Nontumor
+Primary_human_CATTATCGTTGATTCG	2278	6285	0.023396467	2	Endothelial cells	Nontumor
+Primary_human_CATTATCTCCGAGCCA	3247	14108	0.021622005	3	Macrophages	Nontumor
+Primary_human_CATTCGCAGTTACGGG	3003	10096	0.011791518	4	Fibroblasts	Nontumor
+Primary_human_CATTCGCGTAAATGTG	729	2150	0.013488372	1	Tcell	Nontumor
+Primary_human_CATTCGCTCACTTCAT	2980	9204	0.023907846	4	Fibroblasts	Nontumor
+Primary_human_CATTCGCTCAGGTAAA	1995	6779	0.019619413	3	Macrophages	Nontumor
+Primary_human_CCAATCCAGAGTACAT	1179	3588	0.010315026	1	Tcell	Nontumor
+Primary_human_CCAATCCAGCCTTGAT	2827	12012	0.02706529	3	Macrophages	Nontumor
+Primary_human_CCAATCCCATTAGGCT	563	1135	0.000881057	2	Endothelial cells	Nontumor
+Primary_human_CCAATCCGTCCGAACC	2032	6237	0.07425822	2	Endothelial cells	Nontumor
+Primary_human_CCAATCCGTCCGCTGA	2800	8898	0.014165261	4	Fibroblasts	Nontumor
+Primary_human_CCACCTAGTATCGCAT	4543	24216	0.016930955	4	Fibroblasts	Nontumor
+Primary_human_CCACCTATCATTATCC	2326	8572	0.028588098	2	Endothelial cells	Nontumor
+Primary_human_CCACGGAAGAGGTACC	3675	17240	0.006091194	0	Basal tumor cells	Tumor
+Primary_human_CCACGGACACAACGTT	4874	24229	0.07021382	6	Urothelial cells	Nontumor
+Primary_human_CCACGGACACCTATCC	3516	13467	0.014038476	4	Fibroblasts	Nontumor
+Primary_human_CCACGGAGTAGCGCAA	3030	9869	0.032431337	4	Fibroblasts	Nontumor
+Primary_human_CCACGGAGTTCACGGC	3917	17599	0.019495282	3	Macrophages	Nontumor
+Primary_human_CCACTACCAAGCCTAT	793	2139	0.011693171	1	Tcell	Nontumor
+Primary_human_CCACTACCACTAAGTC	1040	2434	0.019309778	1	Tcell	Nontumor
+Primary_human_CCACTACGTCGTGGCT	1632	4458	0.054982047	2	Endothelial cells	Nontumor
+Primary_human_CCACTACGTGGGTCAA	3078	13454	0.01918073	3	Macrophages	Nontumor
+Primary_human_CCACTACGTTCCTCCA	3965	16319	0.030826745	0	Basal tumor cells	Tumor
+Primary_human_CCACTACTCTGCCAGG	2401	9481	0.000421941	0	Basal tumor cells	Tumor
+Primary_human_CCAGCGATCACCGGGT	3379	16132	0.013763174	3	Macrophages	Nontumor
+Primary_human_CCAGCGATCGAATGCT	1337	3152	0.049175127	2	Endothelial cells	Nontumor
+Primary_human_CCATGTCGTCGCATCG	3293	11745	0.038838259	6	Urothelial cells	Nontumor
+Primary_human_CCATGTCTCGGCTTGG	4997	24808	0.072157052	0	Basal tumor cells	Tumor
+Primary_human_CCATGTCTCGTTTGCC	2979	20202	0.015692292	3	Macrophages	Nontumor
+Primary_human_CCATGTCTCTGCTGTC	3884	17534	0.015341622	0	Basal tumor cells	Tumor
+Primary_human_CCATTCGAGCGTGTCC	2290	8135	0.051014136	5	Muscle cells	Nontumor
+Primary_human_CCATTCGCACCAACCG	1007	2732	0.021229868	1	Tcell	Nontumor
+Primary_human_CCATTCGGTCATATGC	2690	8773	0.026105791	4	Fibroblasts	Nontumor
+Primary_human_CCCAATCAGCGTTGCC	1860	5151	0.053991066	2	Endothelial cells	Nontumor
+Primary_human_CCCAATCAGGTGCACA	799	2286	0.011373578	1	Tcell	Nontumor
+Primary_human_CCCAATCCAATCGAAA	4369	18698	0.05621824	0	Basal tumor cells	Tumor
+Primary_human_CCCAGTTAGTGCGTGA	3903	16439	0.017219349	4	Fibroblasts	Nontumor
+Primary_human_CCCAGTTGTCTGGAGA	627	1320	0.030326005	1	Tcell	Nontumor
+Primary_human_CCCATACAGAGTACCG	913	2681	0.032462687	1	Tcell	Nontumor
+Primary_human_CCCATACAGGACGAAA	2276	6829	0.026670574	7	Fibroblasts	Nontumor
+Primary_human_CCCATACTCATTTGGG	1167	3167	0.068519103	2	Endothelial cells	Nontumor
+Primary_human_CCCTCCTGTGATGATA	826	1678	0.026865672	1	Tcell	Nontumor
+Primary_human_CCCTCCTTCGGTCCGA	6843	61224	0.037196158	0	Basal tumor cells	Tumor
+Primary_human_CCGGGATCAATGTAAG	2061	5025	0.09375	6	Urothelial cells	Nontumor
+Primary_human_CCGGGATGTCACTTCC	1014	2917	0.040795338	1	Tcell	Nontumor
+Primary_human_CCGGGATGTCTCTTAT	2012	6943	0.000288143	0	Basal tumor cells	Tumor
+Primary_human_CCGGGATGTCTTGATG	5341	35722	0.035162374	0	Basal tumor cells	Tumor
+Primary_human_CCGGGATGTGCAACGA	892	3186	0.02165725	1	Tcell	Nontumor
+Primary_human_CCGGGATTCTGCGACG	998	3062	0.017308948	1	Tcell	Nontumor
+Primary_human_CCGGTAGGTAGCGCAA	5583	39504	0.032580629	0	Basal tumor cells	Tumor
+Primary_human_CCGGTAGGTCAGATAA	3469	14946	0.018803533	4	Fibroblasts	Nontumor
+Primary_human_CCGTACTAGACCCACC	2225	6752	0.05850985	6	Urothelial cells	Nontumor
+Primary_human_CCGTACTCAGACAGGT	2693	9588	0.02555544	2	Endothelial cells	Nontumor
+Primary_human_CCGTACTCAGCTGCAC	3601	14409	0.020896973	4	Fibroblasts	Nontumor
+Primary_human_CCGTACTCAGCTGTGC	6950	58806	0.044848464	0	Basal tumor cells	Tumor
+Primary_human_CCGTACTCATCTGGTA	1122	3240	0.075023155	2	Endothelial cells	Nontumor
+Primary_human_CCGTACTGTCAGCTAT	1177	2714	0.019166974	1	Tcell	Nontumor
+Primary_human_CCGTGGAAGACTGGGT	2285	7258	0.029768467	6	Urothelial cells	Nontumor
+Primary_human_CCGTGGAAGACTTTCG	1606	5714	0.019284712	3	Macrophages	Nontumor
+Primary_human_CCGTGGACACCACCAG	4352	22879	0.049442623	3	Macrophages	Nontumor
+Primary_human_CCGTGGACATGCCTAA	3566	16036	0.039106842	3	Macrophages	Nontumor
+Primary_human_CCGTGGAGTAGCAAAT	3854	18814	0.018821778	3	Macrophages	Nontumor
+Primary_human_CCGTGGAGTCTAGTGT	3489	17622	0.017197344	3	Macrophages	Nontumor
+Primary_human_CCGTGGAGTGCTCTTC	2091	6338	0.000631313	0	Basal tumor cells	Tumor
+Primary_human_CCGTGGATCATTGCCC	1653	4991	0.031669673	2	Endothelial cells	Nontumor
+Primary_human_CCGTTCAAGATCACGG	2055	5634	0.026815841	2	Endothelial cells	Nontumor
+Primary_human_CCGTTCACACCAACCG	2484	8683	0.014399263	7	Fibroblasts	Nontumor
+Primary_human_CCGTTCACAGTATCTG	750	1596	0.031328321	5	Muscle cells	Nontumor
+Primary_human_CCGTTCAGTACAGCAG	7482	77032	0.026925623	0	Basal tumor cells	Tumor
+Primary_human_CCGTTCAGTCTGGAGA	4399	20796	0.019911504	0	Basal tumor cells	Tumor
+Primary_human_CCGTTCATCAGTGTTG	1874	5093	0.024347143	5	Muscle cells	Nontumor
+Primary_human_CCTAAAGAGCTAAGAT	2482	8942	0.025735705	4	Fibroblasts	Nontumor
+Primary_human_CCTAAAGAGCTCAACT	1040	2690	0.004832714	2	Endothelial cells	Nontumor
+Primary_human_CCTAAAGCATGCTAGT	2811	11821	0.023265651	3	Macrophages	Nontumor
+Primary_human_CCTACACAGGGCTTCC	4296	23112	0.004890081	0	Basal tumor cells	Tumor
+Primary_human_CCTACACGTCCCGACA	1322	2791	0.010752688	2	Endothelial cells	Nontumor
+Primary_human_CCTACACTCGTTTAGG	2796	10933	0.028725643	4	Fibroblasts	Nontumor
+Primary_human_CCTACCAAGAAACGAG	1543	5211	0.033397313	3	Macrophages	Nontumor
+Primary_human_CCTACCAGTCCAACTA	896	2331	0.02832618	9	Unknown2	Nontumor
+Primary_human_CCTACCAGTGAGGCTA	785	1737	0.038572251	1	Tcell	Nontumor
+Primary_human_CCTACCATCCGAACGC	5189	26681	0.037785358	0	Basal tumor cells	Tumor
+Primary_human_CCTACCATCTAGAGTC	6293	45640	0.035127317	0	Basal tumor cells	Tumor
+Primary_human_CCTAGCTAGAGGACGG	1976	6139	0.018246986	5	Muscle cells	Nontumor
+Primary_human_CCTAGCTCAAGGGTCA	773	1828	0.018052516	1	Tcell	Nontumor
+Primary_human_CCTAGCTGTTCCGTCT	739	1870	0.022459893	1	Tcell	Nontumor
+Primary_human_CCTATTAAGGGTTCCC	3570	14174	0.014677863	4	Fibroblasts	Nontumor
+Primary_human_CCTATTATCAACGGCC	3779	12521	0.02924257	2	Endothelial cells	Nontumor
+Primary_human_CCTATTATCCCACTTG	3035	9700	0.032274696	3	Macrophages	Nontumor
+Primary_human_CCTCAGTAGCAATCTC	974	3017	0.027842227	8	Unknown1	Nontumor
+Primary_human_CCTCAGTAGTGCGTGA	2181	8469	0.025274595	3	Macrophages	Nontumor
+Primary_human_CCTCAGTTCCAATGGT	3216	13392	0.021883636	4	Fibroblasts	Nontumor
+Primary_human_CCTCAGTTCTGATTCT	1312	3105	0.036392915	5	Muscle cells	Nontumor
+Primary_human_CCTCTGACATCAGTAC	5247	27935	0.043472033	6	Urothelial cells	Nontumor
+Primary_human_CCTCTGAGTATCTGCA	1223	3238	0.027794935	3	Macrophages	Nontumor
+Primary_human_CCTCTGATCACCGGGT	2038	6594	0.028359114	5	Muscle cells	Nontumor
+Primary_human_CCTCTGATCCGTTGTC	1574	3868	0.093709552	4	Fibroblasts	Nontumor
+Primary_human_CCTTACGAGAAGGGTA	1713	4141	0.042028986	2	Endothelial cells	Nontumor
+Primary_human_CCTTACGAGGATGCGT	1469	4339	0.069633387	2	Endothelial cells	Nontumor
+Primary_human_CCTTACGGTTTAGCTG	858	2798	0.030400572	1	Tcell	Nontumor
+Primary_human_CCTTCCCAGCGCCTCA	3263	16201	0.030503242	7	Fibroblasts	Nontumor
+Primary_human_CCTTCCCTCAGTGCAT	4767	22058	0.027750068	0	Basal tumor cells	Tumor
+Primary_human_CCTTCGAAGCGCTTAT	4189	24563	0.015511766	3	Macrophages	Nontumor
+Primary_human_CCTTCGAAGTACTTGC	2046	5779	0.074805195	5	Muscle cells	Nontumor
+Primary_human_CCTTCGATCACGCGGT	1282	3289	0.008819951	1	Tcell	Nontumor
+Primary_human_CCTTTCTGTGCACCAC	3510	10453	0.045641565	0	Basal tumor cells	Tumor
+Primary_human_CCTTTCTGTTATCACG	7134	54162	0.03122634	0	Basal tumor cells	Tumor
+Primary_human_CCTTTCTTCGGCATCG	3379	13693	0.016289262	0	Basal tumor cells	Tumor
+Primary_human_CGAACATAGATACACA	3099	10095	0.015354136	4	Fibroblasts	Nontumor
+Primary_human_CGAACATAGCCCGAAA	3974	17617	0.018336645	4	Fibroblasts	Nontumor
+Primary_human_CGAACATAGTACGTAA	4060	17756	0.029347153	4	Fibroblasts	Nontumor
+Primary_human_CGAACATCAAGCCTAT	5791	35961	0.03543121	0	Basal tumor cells	Tumor
+Primary_human_CGAACATCAGGAATGC	1836	4739	0.023005488	5	Muscle cells	Nontumor
+Primary_human_CGAACATCATGGATGG	2821	9742	0.032744816	4	Fibroblasts	Nontumor
+Primary_human_CGAACATGTATATGGA	910	3117	0.03946102	8	Unknown1	Nontumor
+Primary_human_CGAACATGTGTTCGAT	4186	20300	0.03788364	0	Basal tumor cells	Tumor
+Primary_human_CGAATGTGTTCCGTCT	5838	35551	0.015415776	0	Basal tumor cells	Tumor
+Primary_human_CGACCTTAGTACTTGC	2165	5947	0.065623423	6	Urothelial cells	Nontumor
+Primary_human_CGACCTTCAGATCGGA	2563	7688	0.018340271	2	Endothelial cells	Nontumor
+Primary_human_CGACCTTGTTATGCGT	2731	9158	0.021729635	5	Muscle cells	Nontumor
+Primary_human_CGACCTTTCCCTAACC	3770	12361	0.030918656	2	Endothelial cells	Nontumor
+Primary_human_CGACCTTTCGCATGGC	2119	7705	0.023497339	2	Endothelial cells	Nontumor
+Primary_human_CGACTTCAGATATACG	766	1889	0.027041357	9	Unknown2	Nontumor
+Primary_human_CGACTTCAGTCATGCT	5559	30925	0.028037383	0	Basal tumor cells	Tumor
+Primary_human_CGACTTCGTTATCCGA	2075	8192	0.021614361	3	Macrophages	Nontumor
+Primary_human_CGACTTCTCACATACG	4612	16693	0.03757416	0	Basal tumor cells	Tumor
+Primary_human_CGACTTCTCCGGCACA	3284	11848	0.026342452	4	Fibroblasts	Nontumor
+Primary_human_CGAGAAGAGAGGGCTT	6242	44592	0.045854271	6	Urothelial cells	Nontumor
+Primary_human_CGAGAAGGTCCGAATT	6954	58689	0.042754413	0	Basal tumor cells	Tumor
+Primary_human_CGAGAAGGTCCGTGAC	3144	10042	0.029789778	2	Endothelial cells	Nontumor
+Primary_human_CGAGAAGGTGCAGTAG	782	1474	0	5	Muscle cells	Nontumor
+Primary_human_CGAGAAGTCACGCGGT	2351	7606	0.079047744	3	Macrophages	Nontumor
+Primary_human_CGAGCACAGGCGCTCT	834	2097	0.05009542	1	Tcell	Nontumor
+Primary_human_CGAGCACCAAGTCTGT	2108	7159	0.01494831	7	Fibroblasts	Nontumor
+Primary_human_CGAGCCAAGCGTTGCC	4624	22934	0.052895517	0	Basal tumor cells	Tumor
+Primary_human_CGAGCCAAGGTACTCT	872	2894	0.089149965	3	Macrophages	Nontumor
+Primary_human_CGAGCCAAGTGGAGTC	1119	2288	0.07298951	5	Muscle cells	Nontumor
+Primary_human_CGAGCCAGTATAAACG	3212	10621	0.025329567	0	Basal tumor cells	Tumor
+Primary_human_CGAGCCATCCTATGTT	3395	12750	0.029734819	4	Fibroblasts	Nontumor
+Primary_human_CGATCGGAGTATGACA	3299	11805	0.023640061	4	Fibroblasts	Nontumor
+Primary_human_CGATCGGCACCAGCAC	1246	3113	0.033108325	2	Endothelial cells	Nontumor
+Primary_human_CGATGGCAGATATGCA	2116	5673	0.052900723	7	Fibroblasts	Nontumor
+Primary_human_CGATGGCCAACAACCT	2336	7048	0.047267566	2	Endothelial cells	Nontumor
+Primary_human_CGATGGCTCTGAAAGA	4809	29036	0.013985532	0	Basal tumor cells	Tumor
+Primary_human_CGATGTAAGAGGACGG	1383	3902	0.062035376	2	Endothelial cells	Nontumor
+Primary_human_CGATGTAGTAATCACC	2270	5853	0.031954887	0	Basal tumor cells	Tumor
+Primary_human_CGATGTAGTCCGAACC	2026	5863	0.039576936	7	Fibroblasts	Nontumor
+Primary_human_CGATGTATCGGATGTT	3340	13841	0.032446885	3	Macrophages	Nontumor
+Primary_human_CGATTGAAGTACGATA	2931	11840	0.006673425	7	Fibroblasts	Nontumor
+Primary_human_CGATTGACAATAAGCA	883	2318	0.037100949	1	Tcell	Nontumor
+Primary_human_CGATTGACATCCGGGT	1919	5548	0.02055165	2	Endothelial cells	Nontumor
+Primary_human_CGATTGACATTCGACA	3915	14458	0.01633105	4	Fibroblasts	Nontumor
+Primary_human_CGATTGAGTAACGTTC	1312	3181	0.023592325	1	Tcell	Nontumor
+Primary_human_CGCCAAGAGAAGGTTT	2026	7674	0.029193275	3	Macrophages	Nontumor
+Primary_human_CGCCAAGAGATACACA	1940	7203	0.05625	2	Endothelial cells	Nontumor
+Primary_human_CGCCAAGAGCCACTAT	1154	4175	0.011268281	3	Macrophages	Nontumor
+Primary_human_CGCCAAGTCCACTCCA	2050	5935	0.041112047	5	Muscle cells	Nontumor
+Primary_human_CGCGGTAAGAGGTAGA	2816	9734	0.051166136	2	Endothelial cells	Nontumor
+Primary_human_CGCGGTAAGCACGCCT	969	2308	0.015164645	1	Tcell	Nontumor
+Primary_human_CGCGGTACAGGGTATG	3534	13754	0.0368	2	Endothelial cells	Nontumor
+Primary_human_CGCGGTACAGGGTTAG	2151	9376	0.023151606	3	Macrophages	Nontumor
+Primary_human_CGCGGTAGTCAATGTC	907	2179	0.005052825	2	Endothelial cells	Nontumor
+Primary_human_CGCGGTAGTGGTACAG	7070	65030	0.023560894	0	Basal tumor cells	Tumor
+Primary_human_CGCGGTAGTGTTCGAT	3385	15476	0.02101112	3	Macrophages	Nontumor
+Primary_human_CGCGGTATCTCCAGGG	2080	8509	0.022687199	3	Macrophages	Nontumor
+Primary_human_CGCGTTTAGACATAAC	3939	16276	0.025625269	4	Fibroblasts	Nontumor
+Primary_human_CGCGTTTAGTGGGTTG	860	1906	0.027806925	1	Tcell	Nontumor
+Primary_human_CGCGTTTCACACGCTG	656	1836	0.094277929	8	Unknown1	Nontumor
+Primary_human_CGCGTTTCACGGACAA	2121	5318	0.042309139	2	Endothelial cells	Nontumor
+Primary_human_CGCGTTTCAGAGTGTG	5231	26393	0.044068054	0	Basal tumor cells	Tumor
+Primary_human_CGCGTTTCATTGGTAC	1075	3086	0.040181465	3	Macrophages	Nontumor
+Primary_human_CGCGTTTTCTGGCGAC	897	2018	0.023797719	1	Tcell	Nontumor
+Primary_human_CGCTATCAGTCATCCA	615	1149	0.01740644	1	Tcell	Nontumor
+Primary_human_CGCTATCCACAAGACG	968	2829	0.033934252	1	Tcell	Nontumor
+Primary_human_CGCTATCTCCGCAGTG	5697	37955	0.030932996	0	Basal tumor cells	Tumor
+Primary_human_CGCTGGACACCAGGTC	874	3033	0.026706231	1	Tcell	Nontumor
+Primary_human_CGCTGGATCCAAACAC	2611	9906	0.025138819	3	Macrophages	Nontumor
+Primary_human_CGCTTCAAGACCGGAT	558	1431	0.001397624	5	Muscle cells	Nontumor
+Primary_human_CGCTTCAAGAGTTGGC	4691	21531	0.052580241	0	Basal tumor cells	Tumor
+Primary_human_CGCTTCAAGCGTAATA	2008	6199	0.045014521	3	Macrophages	Nontumor
+Primary_human_CGCTTCATCAGAGGTG	2376	7646	0.038456508	2	Endothelial cells	Nontumor
+Primary_human_CGGACACAGAAGAAGC	1769	5174	0.049883991	7	Fibroblasts	Nontumor
+Primary_human_CGGACACGTTCCATGA	4313	18821	0.039645002	4	Fibroblasts	Nontumor
+Primary_human_CGGACACTCCCAAGTA	1254	3208	0.043342688	5	Muscle cells	Nontumor
+Primary_human_CGGACGTAGGATCGCA	849	2371	0.01982286	1	Tcell	Nontumor
+Primary_human_CGGACGTAGGTGCAAC	1531	4110	0.040875912	2	Endothelial cells	Nontumor
+Primary_human_CGGACGTCACCTATCC	5266	25931	0.035951242	0	Basal tumor cells	Tumor
+Primary_human_CGGACGTCACGGCGTT	1742	5521	0.036044195	3	Macrophages	Nontumor
+Primary_human_CGGACGTCACTTCGAA	789	1783	0.022994952	1	Tcell	Nontumor
+Primary_human_CGGACGTGTGGTGTAG	6032	37071	0.043203713	0	Basal tumor cells	Tumor
+Primary_human_CGGACGTTCGAGAGCA	1531	3924	0.000509684	2	Endothelial cells	Nontumor
+Primary_human_CGGACGTTCGCGGATC	933	2498	0.013621795	9	Unknown2	Nontumor
+Primary_human_CGGAGCTAGCCGGTAA	1957	6129	0.035568608	3	Macrophages	Nontumor
+Primary_human_CGGAGCTAGCGATCCC	991	2416	0.029387417	1	Tcell	Nontumor
+Primary_human_CGGAGCTAGGCAGTCA	3366	14015	0.08165596	2	Endothelial cells	Nontumor
+Primary_human_CGGAGCTCAAACAACA	6925	54349	0.025026222	0	Basal tumor cells	Tumor
+Primary_human_CGGAGCTGTCCGAGTC	2607	10493	0.028884652	3	Macrophages	Nontumor
+Primary_human_CGGAGCTGTTCACGGC	3272	13651	0.030553927	6	Urothelial cells	Nontumor
+Primary_human_CGGAGCTTCATGGTCA	2380	9039	0.000221263	0	Basal tumor cells	Tumor
+Primary_human_CGGAGTCAGGAACTGC	810	2271	0.036547776	1	Tcell	Nontumor
+Primary_human_CGGAGTCCAGATTGCT	3408	11648	0.086631751	0	Basal tumor cells	Tumor
+Primary_human_CGGAGTCCATGCGCAC	787	2668	0.03092006	1	Tcell	Nontumor
+Primary_human_CGGAGTCCATGGTTGT	576	1221	0.023770492	1	Tcell	Nontumor
+Primary_human_CGGAGTCGTTTAAGCC	1334	3229	0.059461133	2	Endothelial cells	Nontumor
+Primary_human_CGGAGTCTCCAAATGC	6322	34679	0.056707722	6	Urothelial cells	Nontumor
+Primary_human_CGGAGTCTCTGTTTGT	2672	10700	0.02542769	2	Endothelial cells	Nontumor
+Primary_human_CGGCTAGAGTCCATAC	1237	2609	0.054043695	1	Tcell	Nontumor
+Primary_human_CGGCTAGCAACGCACC	3820	15710	0.021578612	4	Fibroblasts	Nontumor
+Primary_human_CGGCTAGGTGAGGCTA	4539	21606	0.051988334	0	Basal tumor cells	Tumor
+Primary_human_CGGCTAGGTGTTTGTG	5272	29966	0.030770258	0	Basal tumor cells	Tumor
+Primary_human_CGGCTAGTCCAAACTG	1304	3061	0.043137255	2	Endothelial cells	Nontumor
+Primary_human_CGGGTCAGTGTCCTCT	6788	69968	0.026843527	0	Basal tumor cells	Tumor
+Primary_human_CGGGTCATCCAAACTG	614	1871	0.054516301	8	Unknown1	Nontumor
+Primary_human_CGGTTAACAACAACCT	2753	8894	0.027555955	5	Muscle cells	Nontumor
+Primary_human_CGGTTAAGTAAGTGGC	1543	3693	0.053614947	5	Muscle cells	Nontumor
+Primary_human_CGGTTAATCCATTCTA	3114	10044	0.017040359	2	Endothelial cells	Nontumor
+Primary_human_CGTAGCGCATCCGCGA	5990	39545	0.012012544	0	Basal tumor cells	Tumor
+Primary_human_CGTAGCGCATGGGACA	901	2709	0.052456594	8	Unknown1	Nontumor
+Primary_human_CGTAGCGGTCCCGACA	3578	13242	0.069496903	2	Endothelial cells	Nontumor
+Primary_human_CGTAGGCAGCACAGGT	6569	54829	0.035040677	0	Basal tumor cells	Tumor
+Primary_human_CGTAGGCAGTAGTGCG	2453	9706	0.022977846	3	Macrophages	Nontumor
+Primary_human_CGTAGGCCACACCGAC	835	2392	0.021338912	1	Tcell	Nontumor
+Primary_human_CGTAGGCCAGGGCATA	1196	3441	0.040116279	1	Tcell	Nontumor
+Primary_human_CGTAGGCGTACGCACC	713	1803	0.01885746	1	Tcell	Nontumor
+Primary_human_CGTAGGCGTCGGATCC	1482	3223	0.024201055	7	Fibroblasts	Nontumor
+Primary_human_CGTCACTAGTGTGGCA	1910	5006	0.02776668	2	Endothelial cells	Nontumor
+Primary_human_CGTCACTCACTTAAGC	2966	9532	0.022872731	4	Fibroblasts	Nontumor
+Primary_human_CGTCACTTCACTTACT	2120	7639	0.050183438	5	Muscle cells	Nontumor
+Primary_human_CGTCAGGCACGACGAA	941	2111	0.013270142	1	Tcell	Nontumor
+Primary_human_CGTCAGGGTATAAACG	5189	27086	0.038471479	0	Basal tumor cells	Tumor
+Primary_human_CGTCAGGGTCCCTTGT	5273	35002	0.041685714	0	Basal tumor cells	Tumor
+Primary_human_CGTCAGGGTGGCAAAC	1283	4387	0.052199681	3	Macrophages	Nontumor
+Primary_human_CGTCCATAGCTGATAA	3823	17685	0.030201912	4	Fibroblasts	Nontumor
+Primary_human_CGTCCATCAAGCGAGT	5358	26617	0.044076203	0	Basal tumor cells	Tumor
+Primary_human_CGTCCATGTAGGGACT	5669	32077	0.036170876	6	Urothelial cells	Nontumor
+Primary_human_CGTCCATGTCCGCTGA	717	2008	0.038863976	8	Unknown1	Nontumor
+Primary_human_CGTCCATGTGCATCTA	4424	24793	0.043122227	0	Basal tumor cells	Tumor
+Primary_human_CGTCCATGTTCATGGT	3572	14867	0.049175917	6	Urothelial cells	Nontumor
+Primary_human_CGTCTACCAGATGGGT	653	1662	0.061973526	1	Tcell	Nontumor
+Primary_human_CGTCTACTCAGAGCTT	778	2357	0.025042445	1	Tcell	Nontumor
+Primary_human_CGTGAGCAGAACTCGG	2519	7942	0.069530168	6	Urothelial cells	Nontumor
+Primary_human_CGTGAGCAGCTCTCGG	924	3785	0.027219873	1	Tcell	Nontumor
+Primary_human_CGTGTAAAGCAGGTCA	2724	14109	0.021688284	3	Macrophages	Nontumor
+Primary_human_CGTGTAAAGTCGTTTG	1520	3562	0.018809657	5	Muscle cells	Nontumor
+Primary_human_CGTGTAACAAACCCAT	2036	6080	0.022540309	5	Muscle cells	Nontumor
+Primary_human_CGTGTAAGTGCAGTAG	2227	6666	0.0060006	0	Basal tumor cells	Tumor
+Primary_human_CGTGTAAGTTGAACTC	2866	10135	0.021018354	4	Fibroblasts	Nontumor
+Primary_human_CGTGTAATCTTGAGAC	547	1177	0.022939677	1	Tcell	Nontumor
+Primary_human_CGTGTCTAGGTTACCT	630	1471	0.050985724	1	Tcell	Nontumor
+Primary_human_CGTGTCTAGTCACGCC	2389	6969	0.016214665	2	Endothelial cells	Nontumor
+Primary_human_CGTGTCTAGTGGACGT	2005	8842	0.029198732	3	Macrophages	Nontumor
+Primary_human_CGTGTCTCATCGTCGG	588	1147	0.022667829	1	Tcell	Nontumor
+Primary_human_CGTGTCTGTACGAAAT	4079	18177	0.04088258	0	Basal tumor cells	Tumor
+Primary_human_CGTGTCTGTACTCGCG	3344	12143	0.024217463	4	Fibroblasts	Nontumor
+Primary_human_CGTGTCTGTTAGGGTG	2795	10431	0.020141953	4	Fibroblasts	Nontumor
+Primary_human_CGTTAGAAGCCATCGC	4922	22227	0.055213068	0	Basal tumor cells	Tumor
+Primary_human_CGTTAGAAGTACTTGC	717	1687	0.033214709	1	Tcell	Nontumor
+Primary_human_CGTTAGACAAACGTGG	1824	5466	0.023609078	3	Macrophages	Nontumor
+Primary_human_CGTTAGACAAGGTGTG	1010	2311	0.012981393	1	Tcell	Nontumor
+Primary_human_CGTTAGACACACGCTG	2782	8012	0.018354351	2	Endothelial cells	Nontumor
+Primary_human_CGTTAGACAGTTCCCT	3929	13152	0.038628241	0	Basal tumor cells	Tumor
+Primary_human_CGTTAGACATCTCGCT	2675	7874	0.020198171	2	Endothelial cells	Nontumor
+Primary_human_CGTTAGAGTAGCTCCG	2621	8194	0.01941629	2	Endothelial cells	Nontumor
+Primary_human_CGTTAGAGTAGGACAC	1539	3787	0.030631106	2	Endothelial cells	Nontumor
+Primary_human_CGTTAGATCCCTAACC	1461	3492	0.023488972	1	Tcell	Nontumor
+Primary_human_CGTTAGATCGAGAGCA	6216	55290	0.024273337	0	Basal tumor cells	Tumor
+Primary_human_CGTTAGATCGGCCGAT	1017	2939	0.010214505	3	Macrophages	Nontumor
+Primary_human_CGTTCTGCAAGCTGTT	5119	24710	0.059056871	0	Basal tumor cells	Tumor
+Primary_human_CGTTCTGCAATAGCGG	6853	48934	0.065711483	0	Basal tumor cells	Tumor
+Primary_human_CGTTCTGTCCTTTCGG	1221	3364	0.06395003	3	Macrophages	Nontumor
+Primary_human_CGTTGGGCAGACAAAT	5366	36279	0.038484865	0	Basal tumor cells	Tumor
+Primary_human_CGTTGGGCAGACACTT	1943	5412	0.036776936	2	Endothelial cells	Nontumor
+Primary_human_CGTTGGGGTCTTGATG	2031	5194	0.049672699	7	Fibroblasts	Nontumor
+Primary_human_CGTTGGGGTTAGATGA	931	3047	0.031178208	1	Tcell	Nontumor
+Primary_human_CGTTGGGTCTGAGTGT	2500	6594	0.059001972	2	Endothelial cells	Nontumor
+Primary_human_CTAACTTAGATCGATA	1577	4062	0.012063023	5	Muscle cells	Nontumor
+Primary_human_CTAACTTGTTGTCGCG	3449	11735	0.029241262	4	Fibroblasts	Nontumor
+Primary_human_CTAAGACAGGTAGCCA	2453	7506	0.055970149	6	Urothelial cells	Nontumor
+Primary_human_CTAAGACCACAACGTT	3771	14394	0.020083391	4	Fibroblasts	Nontumor
+Primary_human_CTAAGACCAGTATCTG	3700	16941	0.029403082	3	Macrophages	Nontumor
+Primary_human_CTAAGACCAGTGACAG	3219	10064	0.025740409	4	Fibroblasts	Nontumor
+Primary_human_CTAAGACGTCTCGTTC	4937	23154	0.049630685	0	Basal tumor cells	Tumor
+Primary_human_CTAATGGAGAACTCGG	6881	56316	0.034882688	0	Basal tumor cells	Tumor
+Primary_human_CTAATGGCACCAGGCT	5656	27044	0.058662524	0	Basal tumor cells	Tumor
+Primary_human_CTAATGGCAGGTGCCT	939	2811	0.020640569	1	Tcell	Nontumor
+Primary_human_CTAATGGGTACCTACA	1418	3233	0.017022594	1	Tcell	Nontumor
+Primary_human_CTAATGGGTAGCGCAA	853	1804	0.001108647	5	Muscle cells	Nontumor
+Primary_human_CTAATGGTCCGCGTTT	7834	96630	0.021507157	0	Basal tumor cells	Tumor
+Primary_human_CTAATGGTCTGGTGTA	944	2089	0.012446146	9	Unknown2	Nontumor
+Primary_human_CTACACCAGACCACGA	4767	22423	0.054016682	0	Basal tumor cells	Tumor
+Primary_human_CTACACCCATTTCAGG	1170	3396	0.029455081	1	Tcell	Nontumor
+Primary_human_CTACACCGTTCCCTTG	3484	16947	0.027913839	3	Macrophages	Nontumor
+Primary_human_CTACATTAGACATAAC	4840	22986	0.014054477	0	Basal tumor cells	Tumor
+Primary_human_CTACATTCAGATCCAT	2379	8855	0.039543554	4	Fibroblasts	Nontumor
+Primary_human_CTACATTTCTACTCAT	1782	5225	0.023745691	2	Endothelial cells	Nontumor
+Primary_human_CTACCCAAGGACACCA	581	1361	0.028676471	1	Tcell	Nontumor
+Primary_human_CTACCCAAGGCTACGA	6997	56634	0.033499329	0	Basal tumor cells	Tumor
+Primary_human_CTACCCACAAACGTGG	4149	22808	0.020696308	0	Basal tumor cells	Tumor
+Primary_human_CTACCCACACGTAAGG	2271	8351	0.026000479	3	Macrophages	Nontumor
+Primary_human_CTACCCAGTGAACCTT	2086	6571	0.02617562	3	Macrophages	Nontumor
+Primary_human_CTACCCAGTGTGACCC	1827	5717	0.047585724	5	Muscle cells	Nontumor
+Primary_human_CTACCCATCCGCAAGC	1868	7530	0.017399389	3	Macrophages	Nontumor
+Primary_human_CTACGTCAGATGCCTT	4800	21810	0.038380411	0	Basal tumor cells	Tumor
+Primary_human_CTACGTCTCCGCTGTT	2061	6170	0.024489134	6	Urothelial cells	Nontumor
+Primary_human_CTAGAGTAGCCACGCT	5099	26490	0.048476611	0	Basal tumor cells	Tumor
+Primary_human_CTAGAGTAGGTTCCTA	601	1120	0.069642857	5	Muscle cells	Nontumor
+Primary_human_CTAGAGTGTCTCCACT	2109	6487	0.022821897	2	Endothelial cells	Nontumor
+Primary_human_CTAGAGTTCTTGTACT	3041	10981	0.015209472	4	Fibroblasts	Nontumor
+Primary_human_CTAGCCTCAATGACCT	1875	4973	0.021529175	5	Muscle cells	Nontumor
+Primary_human_CTAGCCTCAGAGTGTG	1708	6970	0.026984355	3	Macrophages	Nontumor
+Primary_human_CTAGCCTGTAAACACA	2504	7688	0.023289097	7	Fibroblasts	Nontumor
+Primary_human_CTAGCCTGTAAGGGAA	3492	12589	0.049177723	0	Basal tumor cells	Tumor
+Primary_human_CTAGCCTGTAATCGTC	6040	48532	0.023800692	0	Basal tumor cells	Tumor
+Primary_human_CTAGCCTGTCTGCCAG	1013	2353	0.027624309	1	Tcell	Nontumor
+Primary_human_CTAGTGAAGAACAATC	2887	11423	0.038882564	3	Macrophages	Nontumor
+Primary_human_CTAGTGAAGCCACCTG	862	2234	0.026410027	1	Tcell	Nontumor
+Primary_human_CTAGTGAAGCCATCGC	5976	34288	0.033134024	0	Basal tumor cells	Tumor
+Primary_human_CTAGTGATCGACAGCC	6221	44321	0.050951102	0	Basal tumor cells	Tumor
+Primary_human_CTAGTGATCGTAGATC	3341	14298	0.033575825	3	Macrophages	Nontumor
+Primary_human_CTCACACAGATCCGAG	1962	5111	0.018590998	2	Endothelial cells	Nontumor
+Primary_human_CTCACACTCCTATTCA	1420	3506	0.068739304	2	Endothelial cells	Nontumor
+Primary_human_CTCACACTCGCGTAGC	3213	11707	0.013326499	4	Fibroblasts	Nontumor
+Primary_human_CTCAGAACACTGTTAG	5673	29392	0.020519975	0	Basal tumor cells	Tumor
+Primary_human_CTCAGAATCATAGCAC	2990	9780	0.046031097	4	Fibroblasts	Nontumor
+Primary_human_CTCATTAAGGCGACAT	818	2198	0.031406463	1	Tcell	Nontumor
+Primary_human_CTCATTACAGGAATGC	2097	6736	0.062954714	5	Muscle cells	Nontumor
+Primary_human_CTCATTAGTACCATCA	724	1761	0.014196479	9	Unknown2	Nontumor
+Primary_human_CTCATTAGTTCCTCCA	2744	11474	0.042970452	3	Macrophages	Nontumor
+Primary_human_CTCATTAGTTCTGAAC	1437	3552	0.058309859	2	Endothelial cells	Nontumor
+Primary_human_CTCCTAGAGGATGTAT	3696	14271	0.034480342	4	Fibroblasts	Nontumor
+Primary_human_CTCCTAGCACCACCAG	3211	13524	0.032832951	3	Macrophages	Nontumor
+Primary_human_CTCCTAGCACTAAGTC	1823	5023	0.024900398	5	Muscle cells	Nontumor
+Primary_human_CTCCTAGGTGGCTCCA	2051	5376	0.037595384	7	Fibroblasts	Nontumor
+Primary_human_CTCCTAGGTGTAATGA	703	1812	0.070127002	1	Tcell	Nontumor
+Primary_human_CTCCTAGTCGCAAACT	4177	22131	0.029831857	7	Fibroblasts	Nontumor
+Primary_human_CTCCTAGTCTTCATGT	6421	39151	0.026362847	0	Basal tumor cells	Tumor
+Primary_human_CTCGAAAAGTCCATAC	2109	7125	0.03635598	2	Endothelial cells	Nontumor
+Primary_human_CTCGAGGCATGAGCGA	2070	6643	0.023336344	5	Muscle cells	Nontumor
+Primary_human_CTCGAGGGTCACTTCC	1001	3115	0.023113965	1	Tcell	Nontumor
+Primary_human_CTCGAGGTCGACAGCC	1578	4041	0.038356842	5	Muscle cells	Nontumor
+Primary_human_CTCGGAGAGAGTGACC	1819	6888	0.029036005	3	Macrophages	Nontumor
+Primary_human_CTCGGAGCAAGCGAGT	4916	25495	0.082715323	6	Urothelial cells	Nontumor
+Primary_human_CTCGGAGCACCGTTGG	625	941	0.021253985	1	Tcell	Nontumor
+Primary_human_CTCGGAGGTATAATGG	1302	3005	0.014309484	1	Tcell	Nontumor
+Primary_human_CTCGGAGGTGGTGTAG	4324	19860	0.058382027	6	Urothelial cells	Nontumor
+Primary_human_CTCGGAGTCATCGGAT	2611	9372	0.053137004	4	Fibroblasts	Nontumor
+Primary_human_CTCGGGAAGCGCTCCA	2860	10401	0.026247476	4	Fibroblasts	Nontumor
+Primary_human_CTCGGGAGTTATCCGA	1479	4180	0.051208423	2	Endothelial cells	Nontumor
+Primary_human_CTCGTACAGAGTAATC	1220	3780	0.016146109	5	Muscle cells	Nontumor
+Primary_human_CTCGTACCAAAGCGGT	568	1364	0.023477623	9	Unknown2	Nontumor
+Primary_human_CTCGTACCAGGCGATA	2470	7280	0.060464477	6	Urothelial cells	Nontumor
+Primary_human_CTCGTCAGTACCGCTG	1049	3142	0.033099936	1	Tcell	Nontumor
+Primary_human_CTCGTCATCTTGCATT	2853	10827	0.016355572	7	Fibroblasts	Nontumor
+Primary_human_CTCTAATAGCCCTAAT	1102	2432	0.021390374	5	Muscle cells	Nontumor
+Primary_human_CTCTAATGTAACGCGA	1567	4549	0.049043325	2	Endothelial cells	Nontumor
+Primary_human_CTCTAATGTGAAAGAG	949	3185	0.040188383	3	Macrophages	Nontumor
+Primary_human_CTCTAATTCGTCGTTC	1404	3790	0.06810982	3	Macrophages	Nontumor
+Primary_human_CTCTACGAGCTAACTC	3631	15898	0.030449827	3	Macrophages	Nontumor
+Primary_human_CTCTACGAGTGGTAAT	5585	32046	0.047168633	6	Urothelial cells	Nontumor
+Primary_human_CTCTACGCAGCAGTTT	2412	7906	0.025303644	6	Urothelial cells	Nontumor
+Primary_human_CTCTACGGTGTAACGG	5936	35931	0.030366288	0	Basal tumor cells	Tumor
+Primary_human_CTCTACGTCAGGCAAG	948	2714	0.025055269	1	Tcell	Nontumor
+Primary_human_CTCTGGTAGCCACCTG	5376	30017	0.057612209	0	Basal tumor cells	Tumor
+Primary_human_CTCTGGTAGCTGTTCA	900	2414	0.018227009	1	Tcell	Nontumor
+Primary_human_CTCTGGTGTAGCGCAA	835	2509	0.052232855	8	Unknown1	Nontumor
+Primary_human_CTCTGGTGTAGCTAAA	4832	22580	0.034545374	0	Basal tumor cells	Tumor
+Primary_human_CTCTGGTTCTCAAGTG	1077	3721	0.019887127	1	Tcell	Nontumor
+Primary_human_CTCTGGTTCTTGCCGT	1789	4589	0.020483766	2	Endothelial cells	Nontumor
+Primary_human_CTGAAACAGTGTACCT	2688	8392	0.043747765	2	Endothelial cells	Nontumor
+Primary_human_CTGAAACGTACGCACC	2942	10290	0.042087869	2	Endothelial cells	Nontumor
+Primary_human_CTGAAACGTGAGGGTT	900	2126	0.025399812	1	Tcell	Nontumor
+Primary_human_CTGAAACTCAACACTG	3625	12151	0.024032922	2	Endothelial cells	Nontumor
+Primary_human_CTGAAGTCAGCTGTTA	6532	49657	0.0280547	0	Basal tumor cells	Tumor
+Primary_human_CTGAAGTGTGCACCAC	755	1886	0.028632025	1	Tcell	Nontumor
+Primary_human_CTGAAGTTCATCGATG	856	2429	0.024711697	1	Tcell	Nontumor
+Primary_human_CTGAAGTTCCGTAGGC	4077	19164	0.056471816	6	Urothelial cells	Nontumor
+Primary_human_CTGAAGTTCTTCCTTC	1756	5413	0.022357724	3	Macrophages	Nontumor
+Primary_human_CTGATAGAGCCACTAT	1614	4635	0.035174795	2	Endothelial cells	Nontumor
+Primary_human_CTGATAGAGTGGAGTC	2902	8631	0.023174971	4	Fibroblasts	Nontumor
+Primary_human_CTGATAGCATCCCATC	4590	24089	0.042971021	0	Basal tumor cells	Tumor
+Primary_human_CTGATCCAGTGCTGCC	2843	8757	0.0256996	2	Endothelial cells	Nontumor
+Primary_human_CTGATCCGTAAGCACG	901	2196	0.065148064	2	Endothelial cells	Nontumor
+Primary_human_CTGATCCTCTGGTGTA	2715	8879	0.021518702	5	Muscle cells	Nontumor
+Primary_human_CTGCCTAAGCGACGTA	3230	11623	0.01927545	4	Fibroblasts	Nontumor
+Primary_human_CTGCCTAGTACTCTCC	6626	42909	0.057601753	0	Basal tumor cells	Tumor
+Primary_human_CTGCCTAGTCCCTACT	2780	9916	0.091285051	6	Urothelial cells	Nontumor
+Primary_human_CTGCCTAGTCTTCAAG	855	2190	0.016453382	1	Tcell	Nontumor
+Primary_human_CTGCCTAGTGCTAGCC	5262	32549	0.050271948	0	Basal tumor cells	Tumor
+Primary_human_CTGCCTATCAAACCAC	762	1644	0.031040779	5	Muscle cells	Nontumor
+Primary_human_CTGCCTATCAGCTCGG	781	1718	0.027357392	1	Tcell	Nontumor
+Primary_human_CTGCGGACAAAGCGGT	5112	19008	0.032889544	0	Basal tumor cells	Tumor
+Primary_human_CTGCGGACAGATCGGA	1439	3416	0.032513181	5	Muscle cells	Nontumor
+Primary_human_CTGCGGAGTAGCTAAA	2374	8694	0.036823936	2	Endothelial cells	Nontumor
+Primary_human_CTGCGGAGTCTGCGGT	4078	17778	0.017157966	4	Fibroblasts	Nontumor
+Primary_human_CTGCGGAGTTGACGTT	1160	2681	0.001119403	2	Endothelial cells	Nontumor
+Primary_human_CTGCGGATCATGTAGC	2530	9222	0.020935025	7	Fibroblasts	Nontumor
+Primary_human_CTGCGGATCCCGACTT	1076	2540	0.001968504	1	Tcell	Nontumor
+Primary_human_CTGCGGATCGGCGGTT	870	2277	0.034255599	1	Tcell	Nontumor
+Primary_human_CTGCTGTAGAGCTATA	4012	16403	0.016158537	4	Fibroblasts	Nontumor
+Primary_human_CTGCTGTGTACCGTTA	2301	9533	0.030948384	3	Macrophages	Nontumor
+Primary_human_CTGCTGTTCCAACCAA	4390	20850	0.032760936	0	Basal tumor cells	Tumor
+Primary_human_CTGCTGTTCCGAATGT	795	2188	0.035240275	1	Tcell	Nontumor
+Primary_human_CTGCTGTTCGTACCGG	1947	5726	0.051353712	2	Endothelial cells	Nontumor
+Primary_human_CTGGTCTCAGGGTTAG	4529	18846	0.055776681	6	Urothelial cells	Nontumor
+Primary_human_CTGGTCTGTCATGCAT	773	2264	0.046439628	8	Unknown1	Nontumor
+Primary_human_CTGTGCTAGGGAGTAA	963	2331	0.001287001	1	Tcell	Nontumor
+Primary_human_CTGTGCTAGTGAATTG	1051	2594	0.035466461	1	Tcell	Nontumor
+Primary_human_CTGTGCTAGTGACTCT	5642	32725	0.03291766	0	Basal tumor cells	Tumor
+Primary_human_CTGTGCTCACCATGTA	6102	44449	0.021085557	0	Basal tumor cells	Tumor
+Primary_human_CTGTGCTGTAGCACGA	678	1678	0.014302741	1	Tcell	Nontumor
+Primary_human_CTGTTTACACGGCTAC	905	2278	0.014925373	1	Tcell	Nontumor
+Primary_human_CTGTTTAGTGCTAGCC	2827	10847	0.047482943	2	Endothelial cells	Nontumor
+Primary_human_CTGTTTATCCAGAGGA	1653	4887	0.048720573	2	Endothelial cells	Nontumor
+Primary_human_CTGTTTATCGAATCCA	3574	14441	0.03234296	2	Endothelial cells	Nontumor
+Primary_human_CTTAACTGTGCCTGTG	1936	3855	0.026466009	2	Endothelial cells	Nontumor
+Primary_human_CTTAACTGTTGGTGGA	4629	30338	0.018790176	0	Basal tumor cells	Tumor
+Primary_human_CTTAACTTCGAGCCCA	5042	25777	0.045392823	0	Basal tumor cells	Tumor
+Primary_human_CTTAACTTCTGACCTC	1023	2150	0.054418605	1	Tcell	Nontumor
+Primary_human_CTTACCGAGATGCCAG	2448	9226	0.020815265	3	Macrophages	Nontumor
+Primary_human_CTTACCGAGCGTGTCC	2068	5999	0.04854045	2	Endothelial cells	Nontumor
+Primary_human_CTTACCGAGCTTATCG	6862	56350	0.030386397	0	Basal tumor cells	Tumor
+Primary_human_CTTACCGCAGCCTATA	2496	8772	0.022369322	7	Fibroblasts	Nontumor
+Primary_human_CTTAGGAAGTGATCGG	724	2187	0.032464563	1	Tcell	Nontumor
+Primary_human_CTTAGGATCCAACCAA	1096	3486	0.015512784	1	Tcell	Nontumor
+Primary_human_CTTCTCTCAGCGTAAG	1876	5986	0.019719251	2	Endothelial cells	Nontumor
+Primary_human_CTTCTCTCATAGACTC	5801	35437	0.035079302	0	Basal tumor cells	Tumor
+Primary_human_CTTCTCTGTAGCTTGT	1647	4166	0.052125871	4	Fibroblasts	Nontumor
+Primary_human_CTTCTCTGTCGGCACT	2012	4952	0.027261712	5	Muscle cells	Nontumor
+Primary_human_CTTCTCTGTTAAAGTG	578	1218	0.026272578	9	Unknown2	Nontumor
+Primary_human_CTTCTCTTCGGCTACG	888	3016	0.032172471	8	Unknown1	Nontumor
+Primary_human_CTTCTCTTCGTTTATC	4293	14552	0.028041237	0	Basal tumor cells	Tumor
+Primary_human_CTTGGCTAGCTTCGCG	1505	3826	0.024058577	2	Endothelial cells	Nontumor
+Primary_human_CTTTGCGGTATAAACG	1586	3637	0.017051705	2	Endothelial cells	Nontumor
+Primary_human_GAAACTCCACGAAATA	3513	13045	0.016639828	4	Fibroblasts	Nontumor
+Primary_human_GAAACTCGTCTAGTGT	1666	5371	0.078413112	3	Macrophages	Nontumor
+Primary_human_GAAATGACATTGTGCA	1421	2976	0.017137097	2	Endothelial cells	Nontumor
+Primary_human_GAAATGATCACTCTTA	1084	3147	0.037201908	8	Unknown1	Nontumor
+Primary_human_GAACATCAGGAGTTTA	3910	16508	0.018480368	4	Fibroblasts	Nontumor
+Primary_human_GAACATCTCTGTCAAG	2405	7333	0.033551555	3	Macrophages	Nontumor
+Primary_human_GAACCTAAGCGGATCA	987	2305	0.043817787	5	Muscle cells	Nontumor
+Primary_human_GAACCTACAGTCGTGC	2286	6317	0.025015833	5	Muscle cells	Nontumor
+Primary_human_GAACCTATCCAAAGTC	1374	3669	0.04825518	2	Endothelial cells	Nontumor
+Primary_human_GAACGGAAGACTAGGC	846	1512	0.041005291	4	Fibroblasts	Nontumor
+Primary_human_GAACGGAAGTCTCGGC	763	2000	0.011	9	Unknown2	Nontumor
+Primary_human_GAACGGACAGACGCTC	5836	37290	0.034863763	0	Basal tumor cells	Tumor
+Primary_human_GAACGGATCCAGTAGT	2459	7871	0.024393343	2	Endothelial cells	Nontumor
+Primary_human_GAAGCAGCACCTCGTT	3801	14643	0.039486269	6	Urothelial cells	Nontumor
+Primary_human_GAAGCAGCACGAAATA	1407	3403	0.02292769	1	Tcell	Nontumor
+Primary_human_GAAGCAGGTTGAGTTC	3750	18011	0.040876481	7	Fibroblasts	Nontumor
+Primary_human_GAATAAGCAACTTGAC	1657	5214	0.047390637	5	Muscle cells	Nontumor
+Primary_human_GAATAAGCACGACGAA	2542	9129	0.025303976	2	Endothelial cells	Nontumor
+Primary_human_GAATAAGGTCGTCTTC	987	2447	0.030253475	1	Tcell	Nontumor
+Primary_human_GAATAAGGTGATGTCT	2425	8599	0.038398883	5	Muscle cells	Nontumor
+Primary_human_GAATAAGTCCACGAAT	5303	26847	0.056217868	0	Basal tumor cells	Tumor
+Primary_human_GAATGAAAGTTGTAGA	1121	3121	0.02627363	1	Tcell	Nontumor
+Primary_human_GAATGAACAGCTGTAT	3677	20757	0.02626506	3	Macrophages	Nontumor
+Primary_human_GAATGAATCGCAGGCT	737	2024	0.030647553	1	Tcell	Nontumor
+Primary_human_GACAGAGAGCAATCTC	5858	34502	0.02641039	0	Basal tumor cells	Tumor
+Primary_human_GACAGAGAGCCACCTG	2243	9681	0.02810498	3	Macrophages	Nontumor
+Primary_human_GACAGAGCAAGTCTGT	595	1544	0.029792746	1	Tcell	Nontumor
+Primary_human_GACAGAGCAGACAAAT	3528	18382	0.041741497	3	Macrophages	Nontumor
+Primary_human_GACAGAGCATTCACTT	2828	9645	0.059329945	2	Endothelial cells	Nontumor
+Primary_human_GACAGAGCATTGTGCA	2483	8946	0.035558537	3	Macrophages	Nontumor
+Primary_human_GACAGAGGTACAGACG	3031	10738	0.025149031	4	Fibroblasts	Nontumor
+Primary_human_GACCAATCAGCGTAAG	843	2099	0.020009528	1	Tcell	Nontumor
+Primary_human_GACCAATTCTCCAGGG	3118	15951	0.026340546	3	Macrophages	Nontumor
+Primary_human_GACCTGGGTAAACACA	1637	6144	0.029794855	8	Unknown1	Nontumor
+Primary_human_GACCTGGGTACCGGCT	560	1156	0.000865052	4	Fibroblasts	Nontumor
+Primary_human_GACGCGTAGTAGATGT	2299	8595	0.013033865	6	Urothelial cells	Tumor
+Primary_human_GACGGCTAGACGACGT	5485	30162	0.039456233	0	Basal tumor cells	Tumor
+Primary_human_GACGGCTAGGGTCTCC	3672	14713	0.057375935	4	Fibroblasts	Nontumor
+Primary_human_GACGGCTAGGTCGGAT	6387	45220	0.047373659	0	Basal tumor cells	Tumor
+Primary_human_GACGGCTCACAACGTT	5364	30898	0.019616729	0	Basal tumor cells	Tumor
+Primary_human_GACGGCTCATGCTGGC	4162	16955	0.043652666	0	Basal tumor cells	Tumor
+Primary_human_GACGTGCAGGACTGGT	1703	5272	0.020493359	5	Muscle cells	Nontumor
+Primary_human_GACGTGCCACCAGGCT	1896	4841	0.04214876	5	Muscle cells	Nontumor
+Primary_human_GACGTGCCACGGCGTT	2303	6158	0.02810723	5	Muscle cells	Nontumor
+Primary_human_GACGTGCGTACAGACG	3125	16331	0.031906424	3	Macrophages	Nontumor
+Primary_human_GACGTGCGTGCAACTT	2453	7551	0.038013245	5	Muscle cells	Nontumor
+Primary_human_GACGTGCTCAGGATCT	4549	20216	0.098451492	0	Basal tumor cells	Tumor
+Primary_human_GACGTTAAGCGTTCCG	1827	5419	0.043743079	2	Endothelial cells	Nontumor
+Primary_human_GACGTTAAGCTCCTTC	6195	41380	0.068472954	0	Basal tumor cells	Tumor
+Primary_human_GACGTTAAGTGGCACA	1712	5857	0.049530316	2	Endothelial cells	Nontumor
+Primary_human_GACGTTAGTATAGGTA	4335	19076	0.025537493	4	Fibroblasts	Nontumor
+Primary_human_GACGTTAGTCGAATCT	5104	24957	0.057020356	0	Basal tumor cells	Tumor
+Primary_human_GACGTTAGTGCACCAC	1608	4792	0.02776618	3	Macrophages	Nontumor
+Primary_human_GACGTTAGTTGATTCG	856	2808	0.028133903	1	Tcell	Nontumor
+Primary_human_GACGTTATCCAGAGGA	1895	4732	0.03043754	7	Fibroblasts	Nontumor
+Primary_human_GACTAACAGCTACCGC	916	2366	0.023255814	1	Tcell	Nontumor
+Primary_human_GACTAACAGTGGTCCC	2806	8953	0.045916657	5	Muscle cells	Nontumor
+Primary_human_GACTAACGTCTGATTG	1083	2329	0.04600172	5	Muscle cells	Nontumor
+Primary_human_GACTAACGTTCCACGG	1232	3890	0.001542416	3	Macrophages	Nontumor
+Primary_human_GACTAACTCAGGTAAA	813	1655	0.079854809	2	Endothelial cells	Nontumor
+Primary_human_GACTGCGCACATAACC	2568	9669	0.029076987	2	Endothelial cells	Nontumor
+Primary_human_GACTGCGGTACCATCA	1538	4397	0.03502388	3	Macrophages	Nontumor
+Primary_human_GACTGCGGTAGGGACT	2364	9624	0.040627598	3	Macrophages	Nontumor
+Primary_human_GAGCAGAAGCCTCGTG	3415	12627	0.025273332	4	Fibroblasts	Nontumor
+Primary_human_GAGCAGACAATCAGAA	569	945	0.017989418	4	Fibroblasts	Nontumor
+Primary_human_GAGCAGAGTTCCATGA	1883	5291	0.042525043	3	Macrophages	Nontumor
+Primary_human_GAGCAGATCAATAAGG	3312	13769	0.020775824	4	Fibroblasts	Nontumor
+Primary_human_GAGCAGATCAGTGTTG	1180	3392	0.010908019	7	Fibroblasts	Nontumor
+Primary_human_GAGGTGAGTAAGAGGA	704	1986	0.023162135	1	Tcell	Nontumor
+Primary_human_GAGGTGAGTCTAACGT	769	2251	0.022656597	1	Tcell	Nontumor
+Primary_human_GAGGTGATCCTTGGTC	595	975	0.009240246	5	Muscle cells	Nontumor
+Primary_human_GAGGTGATCGCTTGTC	4063	21857	0.024024161	4	Fibroblasts	Nontumor
+Primary_human_GAGTCCGAGGAATCGC	2062	7055	0.026938891	2	Endothelial cells	Nontumor
+Primary_human_GAGTCCGAGGCATGTG	4936	24289	0.03912202	0	Basal tumor cells	Tumor
+Primary_human_GAGTCCGAGGCCGAAT	1750	5231	0.032887189	2	Endothelial cells	Nontumor
+Primary_human_GAGTCCGAGGGAGTAA	1540	3869	0.04600672	2	Endothelial cells	Nontumor
+Primary_human_GAGTCCGAGGTAGCCA	2909	10138	0.043606946	2	Endothelial cells	Nontumor
+Primary_human_GAGTCCGCAAGAAAGG	1948	4657	0.054338488	4	Fibroblasts	Nontumor
+Primary_human_GAGTCCGCAGCCACCA	3335	12621	0.001267829	0	Basal tumor cells	Tumor
+Primary_human_GAGTCCGGTAGCCTAT	614	1439	0.004864489	1	Tcell	Nontumor
+Primary_human_GAGTCCGTCAAACGGG	5267	30532	0.064851226	6	Urothelial cells	Nontumor
+Primary_human_GAGTCCGTCAACACTG	1670	4708	0.023152082	5	Muscle cells	Nontumor
+Primary_human_GAGTCCGTCCAAACAC	6994	58413	0.045163499	0	Basal tumor cells	Tumor
+Primary_human_GAGTCCGTCCGTAGGC	974	2487	0.032582462	1	Tcell	Nontumor
+Primary_human_GATCAGTGTGGCCCTA	2215	5028	0.022926635	5	Muscle cells	Nontumor
+Primary_human_GATCGATGTTGCGCAC	3300	11376	0.016877637	4	Fibroblasts	Nontumor
+Primary_human_GATCGATTCAAAGACA	4895	26486	0.033228864	0	Basal tumor cells	Tumor
+Primary_human_GATCGCGCATTGGCGC	1094	3434	0.01398194	1	Tcell	Nontumor
+Primary_human_GATCGCGGTATAGGGC	1074	3119	0.080474511	2	Endothelial cells	Nontumor
+Primary_human_GATCGCGGTGTTCGAT	6913	54234	0.042246768	0	Basal tumor cells	Tumor
+Primary_human_GATCGCGTCCGAATGT	3922	16062	0.057222914	0	Basal tumor cells	Tumor
+Primary_human_GATCGTAAGATCCCAT	7392	65881	0.036052584	0	Basal tumor cells	Tumor
+Primary_human_GATCGTAAGATCTGAA	1398	3389	0.037474181	5	Muscle cells	Nontumor
+Primary_human_GATCGTAAGCCACGTC	782	1773	0.01523702	1	Tcell	Nontumor
+Primary_human_GATCGTAAGTGGTAGC	6255	37179	0.057000672	0	Basal tumor cells	Tumor
+Primary_human_GATCGTACAACTGCTA	2926	9711	0.047481718	2	Endothelial cells	Nontumor
+Primary_human_GATCGTACACTCAGGC	7576	71096	0.021774908	0	Basal tumor cells	Tumor
+Primary_human_GATCGTACAGACAAGC	2899	10668	0.044150731	6	Urothelial cells	Nontumor
+Primary_human_GATCGTAGTAGCTGCC	1802	5211	0.044521205	2	Endothelial cells	Nontumor
+Primary_human_GATCGTAGTTAGTGGG	7275	72349	0.031946806	0	Basal tumor cells	Tumor
+Primary_human_GATCGTATCCGCGGTA	1035	2756	0.019956459	1	Tcell	Nontumor
+Primary_human_GATCTAGAGTGTACGG	869	1800	0.035	1	Tcell	Nontumor
+Primary_human_GATCTAGCAAGGTGTG	881	2566	0.049122807	1	Tcell	Nontumor
+Primary_human_GATCTAGCACACGCTG	6167	41085	0.036000292	0	Basal tumor cells	Tumor
+Primary_human_GATCTAGGTTATTCTC	2050	5827	0.0322636	2	Endothelial cells	Nontumor
+Primary_human_GATGAAAAGCTCCCAG	3487	14004	0.016651183	7	Fibroblasts	Nontumor
+Primary_human_GATGAAAGTAGCCTCG	972	2841	0.025	1	Tcell	Nontumor
+Primary_human_GATGAAAGTTGTTTGG	878	1940	0.015463918	1	Tcell	Nontumor
+Primary_human_GATGAAATCAGCTGGC	4984	24504	0.015345686	0	Basal tumor cells	Tumor
+Primary_human_GATGAGGAGGAACTGC	1569	4823	0.042919345	5	Muscle cells	Nontumor
+Primary_human_GATGAGGGTACCGTTA	3297	13263	0.034311138	0	Basal tumor cells	Tumor
+Primary_human_GATGAGGGTTATCGGT	1493	4822	0.027581916	3	Macrophages	Nontumor
+Primary_human_GATGAGGTCGATGAGG	2575	9415	0.036757676	4	Fibroblasts	Nontumor
+Primary_human_GATGAGGTCGCCAAAT	1007	2215	0.01536376	1	Tcell	Nontumor
+Primary_human_GATGCTAAGGGAACGG	1983	5360	0.029669714	7	Fibroblasts	Nontumor
+Primary_human_GATGCTAGTAGTAGTA	6165	34511	0.098924669	0	Basal tumor cells	Tumor
+Primary_human_GATGCTATCGGACAAG	797	2201	0.037289677	1	Tcell	Nontumor
+Primary_human_GATTCAGAGCCCAGCT	2484	6907	0.041129616	7	Fibroblasts	Nontumor
+Primary_human_GATTCAGCATCACGAT	5499	36580	0.018455734	0	Basal tumor cells	Tumor
+Primary_human_GATTCAGCATCGTCGG	1457	3165	0.013906448	2	Endothelial cells	Nontumor
+Primary_human_GATTCAGGTCGTGGCT	1799	7348	0.009255478	3	Macrophages	Nontumor
+Primary_human_GATTCAGTCCAGGGCT	772	1640	0.022574741	1	Tcell	Nontumor
+Primary_human_GATTCAGTCTCTGTCG	867	1981	0.038383838	1	Tcell	Nontumor
+Primary_human_GCAAACTGTAGTGAAT	3676	14713	0.026922292	4	Fibroblasts	Nontumor
+Primary_human_GCAATCACACCCATTC	956	2315	0.025485961	1	Tcell	Nontumor
+Primary_human_GCAATCAGTGATGATA	4425	18844	0.06040981	0	Basal tumor cells	Tumor
+Primary_human_GCAATCAGTGCCTTGG	985	1848	0.035714286	5	Muscle cells	Nontumor
+Primary_human_GCAATCATCAGCCTAA	2444	9945	0.02645343	3	Macrophages	Nontumor
+Primary_human_GCAATCATCGAATGGG	2565	11117	0.030319388	3	Macrophages	Nontumor
+Primary_human_GCAATCATCGTGGACC	920	1912	0.026687598	1	Tcell	Nontumor
+Primary_human_GCAATCATCTCGATGA	1151	3117	0.060012837	2	Endothelial cells	Nontumor
+Primary_human_GCACATAAGATCCCAT	3540	12245	0.093931226	0	Basal tumor cells	Tumor
+Primary_human_GCACATAAGCGATGAC	977	3162	0.025624802	1	Tcell	Nontumor
+Primary_human_GCACATACAGACAAAT	1408	3547	0.023413258	1	Tcell	Nontumor
+Primary_human_GCACATAGTGCGAAAC	2518	7875	0.02592122	2	Endothelial cells	Nontumor
+Primary_human_GCACATATCAATACCG	4859	23221	0.02636113	0	Basal tumor cells	Tumor
+Primary_human_GCACTCTGTTATGCGT	860	1688	0.042061611	2	Endothelial cells	Nontumor
+Primary_human_GCAGCCAAGCGCTTAT	4676	25674	0.036931708	0	Basal tumor cells	Tumor
+Primary_human_GCAGCCAAGGCAGTCA	2107	6573	0.029823494	2	Endothelial cells	Nontumor
+Primary_human_GCAGCCAAGTATCGAA	1752	5126	0.029859485	5	Muscle cells	Nontumor
+Primary_human_GCAGCCACAACTGCGC	933	2269	0.026895944	1	Tcell	Nontumor
+Primary_human_GCAGCCACAGGCGATA	1410	3388	0.046394799	1	Tcell	Nontumor
+Primary_human_GCAGCCAGTCCTCCAT	2742	10272	0.024739457	3	Macrophages	Nontumor
+Primary_human_GCAGCCAGTCGCGTGT	1442	4386	0.040355677	2	Endothelial cells	Nontumor
+Primary_human_GCAGCCATCGCGGATC	2447	9417	0	0	Basal tumor cells	Tumor
+Primary_human_GCAGCCATCGGCGCAT	1953	4791	0.049091289	2	Endothelial cells	Nontumor
+Primary_human_GCAGCCATCTCGGACG	1591	4285	0.004435107	2	Endothelial cells	Nontumor
+Primary_human_GCAGTTAAGCTCCTTC	3770	14736	0.00828073	4	Fibroblasts	Nontumor
+Primary_human_GCAGTTAAGGCTAGAC	533	1119	0	2	Endothelial cells	Nontumor
+Primary_human_GCAGTTACACCTGGTG	5325	28889	0.02877125	0	Basal tumor cells	Tumor
+Primary_human_GCAGTTACAGTCTTCC	2306	5594	0.037725729	7	Fibroblasts	Nontumor
+Primary_human_GCAGTTATCATGCATG	964	2757	0.026478056	1	Tcell	Nontumor
+Primary_human_GCATACAAGAACTCGG	2246	8038	0.000497636	0	Basal tumor cells	Tumor
+Primary_human_GCATACACAGACAAAT	4997	19497	0.082790459	0	Basal tumor cells	Tumor
+Primary_human_GCATACAGTCGCTTCT	1294	3252	0.036	5	Muscle cells	Nontumor
+Primary_human_GCATACAGTCGTGGCT	823	1540	0.04288499	2	Endothelial cells	Nontumor
+Primary_human_GCATACAGTGCGGTAA	970	3346	0.043348281	1	Tcell	Nontumor
+Primary_human_GCATGATAGCCCAGCT	1049	2366	0.009721048	1	Tcell	Nontumor
+Primary_human_GCATGATGTGCACTTA	3016	14856	0.028677213	3	Macrophages	Nontumor
+Primary_human_GCATGATTCGGAAACG	855	2836	0.037023977	1	Tcell	Nontumor
+Primary_human_GCATGATTCGTAGGAG	1509	3329	0.023752255	5	Muscle cells	Nontumor
+Primary_human_GCATGCGGTCACCCAG	2237	6313	0.053715734	6	Urothelial cells	Nontumor
+Primary_human_GCATGCGTCTTTACGT	703	1711	0.030391584	1	Tcell	Nontumor
+Primary_human_GCATGTACACGAGGTA	3038	11783	0.024446142	4	Fibroblasts	Nontumor
+Primary_human_GCATGTATCTGTCAAG	956	2730	0.074358974	2	Endothelial cells	Nontumor
+Primary_human_GCCAAATAGGGCTTCC	1367	3456	0.050347222	7	Fibroblasts	Nontumor
+Primary_human_GCCAAATCAATGGAGC	3186	11158	0.027977044	4	Fibroblasts	Nontumor
+Primary_human_GCCAAATCATGTTCCC	2512	8944	0.024488427	2	Endothelial cells	Nontumor
+Primary_human_GCCAAATGTACCTACA	1045	3379	0.03612674	1	Tcell	Nontumor
+Primary_human_GCCAAATTCATACGGT	1717	4549	0.040237467	5	Muscle cells	Nontumor
+Primary_human_GCCTCTAAGTCAAGGC	895	2023	0.027681661	1	Tcell	Nontumor
+Primary_human_GCCTCTACACTCTGTC	1327	2978	0.027535259	2	Endothelial cells	Nontumor
+Primary_human_GCGACCAAGCTGCAAG	2528	8474	0.045438452	6	Urothelial cells	Nontumor
+Primary_human_GCGACCACAAGGTTCT	1019	2960	0.020945946	1	Tcell	Nontumor
+Primary_human_GCGACCACACGTGAGA	3483	15063	0.027951135	3	Macrophages	Nontumor
+Primary_human_GCGACCAGTCTAAACC	1581	4111	0.055217709	2	Endothelial cells	Nontumor
+Primary_human_GCGACCATCCACGACG	941	2909	0.024767802	1	Tcell	Nontumor
+Primary_human_GCGAGAACACGAAACG	3410	12231	0.016523517	4	Fibroblasts	Nontumor
+Primary_human_GCGAGAATCTGCTGTC	781	2722	0.02277737	1	Tcell	Nontumor
+Primary_human_GCGCAACAGGGCATGT	2075	6630	0.028808446	5	Muscle cells	Nontumor
+Primary_human_GCGCAACGTACAAGTA	1069	3332	0.042016807	1	Tcell	Nontumor
+Primary_human_GCGCAGTAGACCGGAT	1004	2442	0.037674038	1	Tcell	Nontumor
+Primary_human_GCGCAGTCAGTACACT	801	1792	0.000558036	4	Fibroblasts	Nontumor
+Primary_human_GCGCAGTGTAAGTTCC	6930	55141	0.02087641	0	Basal tumor cells	Tumor
+Primary_human_GCGCAGTGTGATGCCC	2319	9883	0.020242915	3	Macrophages	Nontumor
+Primary_human_GCGCAGTTCACCACCT	2080	6334	0.051492655	2	Endothelial cells	Nontumor
+Primary_human_GCGCCAAAGACCTAGG	1393	4117	0.0505345	5	Muscle cells	Nontumor
+Primary_human_GCGCCAAAGAGACGAA	6286	46507	0.02610865	0	Basal tumor cells	Tumor
+Primary_human_GCGCCAAAGGACACCA	1262	3036	0.012520593	1	Tcell	Nontumor
+Primary_human_GCGCCAAAGGACTGGT	4104	16282	0.054487376	6	Urothelial cells	Nontumor
+Primary_human_GCGCCAAGTAGTAGTA	906	1883	0.015940489	1	Tcell	Nontumor
+Primary_human_GCGCCAAGTCCAGTAT	714	1822	0.039517014	1	Tcell	Nontumor
+Primary_human_GCGCCAATCAGAGCTT	3786	14507	0.039578018	7	Fibroblasts	Nontumor
+Primary_human_GCGCGATAGCCTTGAT	2869	12166	0.003863543	3	Macrophages	Nontumor
+Primary_human_GCGCGATCAGCTGTTA	3741	15967	0.019044039	4	Fibroblasts	Nontumor
+Primary_human_GCGCGATCATTCCTCG	1732	4667	0.040943194	7	Fibroblasts	Nontumor
+Primary_human_GCGCGATTCAATAAGG	1927	5386	0.003528975	5	Muscle cells	Nontumor
+Primary_human_GCGCGATTCGATCCCT	2068	5413	0.03787179	6	Urothelial cells	Nontumor
+Primary_human_GCGGGTTGTCGTTGTA	1230	4261	0.03262145	8	Unknown1	Nontumor
+Primary_human_GCGGGTTGTTCCACAA	2683	8320	0.029330448	7	Fibroblasts	Nontumor
+Primary_human_GCTCCTAAGAACTGTA	1909	5604	0.038372301	2	Endothelial cells	Nontumor
+Primary_human_GCTCCTAAGCGTGAAC	4810	18020	0.078301887	0	Basal tumor cells	Tumor
+Primary_human_GCTCCTAAGCGTTTAC	1940	5313	0.019393711	2	Endothelial cells	Nontumor
+Primary_human_GCTCCTAGTACCTACA	3090	11403	0.043432482	6	Urothelial cells	Nontumor
+Primary_human_GCTCTGTAGCACGCCT	935	2732	0.018674478	1	Tcell	Nontumor
+Primary_human_GCTCTGTAGGTGACCA	1620	4181	0.088516746	2	Endothelial cells	Nontumor
+Primary_human_GCTCTGTCAATGGATA	510	1176	0.023829787	9	Unknown2	Nontumor
+Primary_human_GCTCTGTCAGTCACTA	1337	3062	0.011764706	1	Tcell	Nontumor
+Primary_human_GCTCTGTGTACGCTGC	743	2090	0.06270943	8	Unknown1	Nontumor
+Primary_human_GCTCTGTGTCCAGTGC	4108	22966	0.033443651	3	Macrophages	Nontumor
+Primary_human_GCTCTGTTCACAACGT	2261	8145	0.024066798	3	Macrophages	Nontumor
+Primary_human_GCTGCAGAGCGTAATA	5689	37044	0.046974974	0	Basal tumor cells	Tumor
+Primary_human_GCTGCAGAGGGTCTCC	6314	49018	0.036214882	0	Basal tumor cells	Tumor
+Primary_human_GCTGCAGAGGTGACCA	5249	30174	0.049552536	0	Basal tumor cells	Tumor
+Primary_human_GCTGCAGCAAGCGATG	2967	10437	0.022910276	2	Endothelial cells	Nontumor
+Primary_human_GCTGCAGCACGTGAGA	2106	6863	0.031190789	2	Endothelial cells	Nontumor
+Primary_human_GCTGCAGTCACTATTC	4907	20391	0.028396273	0	Basal tumor cells	Tumor
+Primary_human_GCTGCGAGTCTAAACC	3055	11958	0.034035792	4	Fibroblasts	Nontumor
+Primary_human_GCTGCGATCGTATCAG	3703	15054	0.080603362	6	Urothelial cells	Nontumor
+Primary_human_GCTGCTTAGCGTCTAT	1681	4127	0.028606061	5	Muscle cells	Nontumor
+Primary_human_GCTGCTTAGGTAAACT	814	2085	0.050888142	8	Unknown1	Nontumor
+Primary_human_GCTGCTTGTCTCTCTG	856	2535	0.025256511	1	Tcell	Nontumor
+Primary_human_GCTGCTTGTGTGACGA	723	1869	0.038523274	1	Tcell	Nontumor
+Primary_human_GCTGCTTTCCTCCTAG	618	1425	0.032303371	5	Muscle cells	Nontumor
+Primary_human_GCTGGGTAGCTGTCTA	836	2064	0.025218235	1	Tcell	Nontumor
+Primary_human_GCTGGGTCAATTGCTG	1648	4675	0.039794608	2	Endothelial cells	Nontumor
+Primary_human_GCTGGGTGTAAGTTCC	2137	7616	0.029817418	3	Macrophages	Nontumor
+Primary_human_GCTGGGTGTAGCTAAA	3286	13009	0.049061827	0	Basal tumor cells	Tumor
+Primary_human_GCTGGGTGTTGTCGCG	2900	12130	0.022519178	7	Fibroblasts	Nontumor
+Primary_human_GCTTCCACAGTCACTA	2990	10183	0.069751449	6	Urothelial cells	Nontumor
+Primary_human_GCTTCCATCAATCTCT	1803	6085	0.048808546	2	Endothelial cells	Nontumor
+Primary_human_GCTTGAAAGCACCGTC	5021	27507	0.03447022	0	Basal tumor cells	Tumor
+Primary_human_GCTTGAAAGGTTACCT	904	2160	0.045854562	1	Tcell	Nontumor
+Primary_human_GCTTGAAGTCTCCCTA	1007	3576	0.020705092	1	Tcell	Nontumor
+Primary_human_GCTTGAATCACCGGGT	3945	15935	0.085613859	0	Basal tumor cells	Tumor
+Primary_human_GCTTGAATCATAACCG	5987	28551	0.054403419	0	Basal tumor cells	Tumor
+Primary_human_GCTTGAATCTGAAAGA	2927	9498	0.021267635	5	Muscle cells	Nontumor
+Primary_human_GGAAAGCAGGACTGGT	982	2180	0.012385321	1	Tcell	Nontumor
+Primary_human_GGAAAGCCATTCGACA	1005	2385	0.013848091	1	Tcell	Nontumor
+Primary_human_GGAAAGCTCCACGTTC	5429	34005	0.036409623	0	Basal tumor cells	Tumor
+Primary_human_GGAAAGCTCGCGTTTC	1158	3149	0.035271687	5	Muscle cells	Nontumor
+Primary_human_GGAACTTAGGTGTGGT	6998	56012	0.034836175	0	Basal tumor cells	Tumor
+Primary_human_GGAACTTCAATGGAGC	3298	13704	0.085626688	6	Urothelial cells	Nontumor
+Primary_human_GGAACTTCATAAGACA	5170	29892	0.023654187	0	Basal tumor cells	Tumor
+Primary_human_GGAACTTGTTCTGTTT	3405	14707	0.019041142	2	Endothelial cells	Nontumor
+Primary_human_GGAACTTTCCGTACAA	2310	6301	0.027777778	2	Endothelial cells	Nontumor
+Primary_human_GGAACTTTCTCTTGAT	5942	30408	0.057327983	0	Basal tumor cells	Tumor
+Primary_human_GGAATAAAGTCAATAG	845	2425	0.033402062	1	Tcell	Nontumor
+Primary_human_GGAATAACATCAGTCA	939	2321	0.014218009	1	Tcell	Nontumor
+Primary_human_GGAATAACATCGTCGG	1342	2934	0.029993183	2	Endothelial cells	Nontumor
+Primary_human_GGAATAATCTACCAGA	961	2944	0.03533809	8	Unknown1	Nontumor
+Primary_human_GGACAAGAGCCAGTAG	895	1841	0.018488309	5	Muscle cells	Nontumor
+Primary_human_GGACAAGAGCTCCCAG	4257	20338	0.020506516	4	Fibroblasts	Nontumor
+Primary_human_GGACAAGCATCGGTTA	3595	13701	0.012261879	4	Fibroblasts	Nontumor
+Primary_human_GGACAAGCATTGCGGC	3814	25448	0.056555573	3	Macrophages	Nontumor
+Primary_human_GGACAAGGTAGAAGGA	1150	2523	0.025366627	1	Tcell	Nontumor
+Primary_human_GGACAAGGTTAAGATG	1309	3146	0.02735369	1	Tcell	Nontumor
+Primary_human_GGACAAGGTTGCGCAC	5924	39773	0.031936027	0	Basal tumor cells	Tumor
+Primary_human_GGACAAGTCCTATTCA	3221	11370	0.022431386	0	Basal tumor cells	Tumor
+Primary_human_GGACAGAGTCCGAAGA	1323	3468	0.05449827	2	Endothelial cells	Nontumor
+Primary_human_GGACAGAGTCCGTTAA	1322	3748	0.040021345	5	Muscle cells	Nontumor
+Primary_human_GGACAGATCAGAGCTT	2047	6974	0.021941775	2	Endothelial cells	Nontumor
+Primary_human_GGACAGATCATCTGTT	2213	8457	0.000709471	0	Basal tumor cells	Tumor
+Primary_human_GGACAGATCGCAAACT	640	1249	0	2	Endothelial cells	Nontumor
+Primary_human_GGACATTAGGTGTTAA	3111	13386	0.0206979	3	Macrophages	Nontumor
+Primary_human_GGACATTCAATAAGCA	5793	34002	0.029180762	0	Basal tumor cells	Tumor
+Primary_human_GGACATTCACGCGAAA	2163	9459	0.023472193	3	Macrophages	Nontumor
+Primary_human_GGACATTCAGTCAGAG	2151	6379	0.055520703	2	Endothelial cells	Nontumor
+Primary_human_GGACATTGTCGAAAGC	2843	12062	0.018074787	3	Macrophages	Nontumor
+Primary_human_GGACATTGTGTGCCTG	1029	2164	0.033733826	5	Muscle cells	Nontumor
+Primary_human_GGACATTTCAGGTAAA	1572	3907	0.046327105	2	Endothelial cells	Nontumor
+Primary_human_GGACATTTCGGAAACG	1840	4610	0.02888165	7	Fibroblasts	Nontumor
+Primary_human_GGACGTCAGTATCGAA	1820	5310	0.034476262	3	Macrophages	Nontumor
+Primary_human_GGACGTCAGTCGCCGT	1344	4385	0.014830025	3	Macrophages	Nontumor
+Primary_human_GGACGTCCACTCAGGC	968	2081	0.020182605	1	Tcell	Nontumor
+Primary_human_GGACGTCTCTTCGAGA	982	2353	0.019124522	1	Tcell	Nontumor
+Primary_human_GGAGCAACACCAGGCT	3396	12536	0.032077881	2	Endothelial cells	Nontumor
+Primary_human_GGAGCAAGTGGCGAAT	3085	15094	0.000132521	0	Basal tumor cells	Tumor
+Primary_human_GGATGTTCAGAGTGTG	2005	6558	0.000457457	0	Basal tumor cells	Tumor
+Primary_human_GGATGTTCAGCTGGCT	4148	16612	0.088134369	0	Basal tumor cells	Tumor
+Primary_human_GGATGTTTCTCAAACG	1663	3756	0.048455804	2	Endothelial cells	Nontumor
+Primary_human_GGATTACCAGGTGCCT	2204	6510	0.028417819	2	Endothelial cells	Nontumor
+Primary_human_GGATTACGTGCCTGCA	3798	17268	0.098186874	6	Urothelial cells	Nontumor
+Primary_human_GGATTACTCAGGTTCA	1203	4276	0.02948058	3	Macrophages	Nontumor
+Primary_human_GGATTACTCCTATGTT	792	1867	0.009651475	1	Tcell	Nontumor
+Primary_human_GGCAATTGTCACACGC	4136	16030	0.033385335	0	Basal tumor cells	Tumor
+Primary_human_GGCAATTTCGCAAGCC	4914	25036	0.062122968	0	Basal tumor cells	Tumor
+Primary_human_GGCCGATAGATGTAAC	1162	3104	0.024814695	5	Muscle cells	Nontumor
+Primary_human_GGCCGATAGCCATCGC	933	2189	0.020109689	1	Tcell	Nontumor
+Primary_human_GGCCGATGTTAAAGTG	2542	8167	0.071892223	6	Urothelial cells	Nontumor
+Primary_human_GGCCGATTCCCTTGTG	5207	22826	0.036194733	0	Basal tumor cells	Tumor
+Primary_human_GGCGACTAGTATGACA	1276	3329	0.030649038	5	Muscle cells	Nontumor
+Primary_human_GGCGACTCAATGGATA	6794	68319	0.030726216	0	Basal tumor cells	Tumor
+Primary_human_GGCGACTGTCCGTCAG	4638	28481	0.016186798	4	Fibroblasts	Nontumor
+Primary_human_GGCGACTGTCTTTCAT	2190	5856	0.028869149	2	Endothelial cells	Nontumor
+Primary_human_GGCGACTGTGGGTATG	549	996	0.041164659	1	Tcell	Nontumor
+Primary_human_GGCGACTTCAAACGGG	2245	5713	0.027490807	2	Endothelial cells	Nontumor
+Primary_human_GGCGACTTCTAACTGG	2471	10938	0.018564243	3	Macrophages	Nontumor
+Primary_human_GGCGTGTCAGATGAGC	3168	12815	0.027944735	0	Basal tumor cells	Tumor
+Primary_human_GGCGTGTGTCGTGGCT	899	1811	0.01878453	1	Tcell	Nontumor
+Primary_human_GGCTCGAGTCAACTGT	1567	4252	0.038823529	2	Endothelial cells	Nontumor
+Primary_human_GGCTCGAGTCCGAAGA	2170	6640	0.057078313	2	Endothelial cells	Nontumor
+Primary_human_GGCTCGATCGCAAGCC	1863	5649	0.024791925	3	Macrophages	Nontumor
+Primary_human_GGCTGGTAGAAAGTGG	2131	5945	0.040713324	5	Muscle cells	Nontumor
+Primary_human_GGCTGGTAGCCCAACC	713	1783	0.034772855	1	Tcell	Nontumor
+Primary_human_GGCTGGTAGCGTGTCC	1885	4877	0.043888433	2	Endothelial cells	Nontumor
+Primary_human_GGGAATGAGCTAAACA	764	1847	0.001625135	1	Tcell	Nontumor
+Primary_human_GGGAATGAGGGTCGAT	7350	64691	0.059672881	0	Basal tumor cells	Tumor
+Primary_human_GGGAATGCAGGGATTG	755	1527	0.033398821	3	Macrophages	Nontumor
+Primary_human_GGGAATGCATTGCGGC	5389	24779	0.055176589	0	Basal tumor cells	Tumor
+Primary_human_GGGAATGGTATGAATG	656	1459	0.001370802	3	Macrophages	Nontumor
+Primary_human_GGGAATGGTTCGTGAT	1182	3435	0.094641817	7	Fibroblasts	Nontumor
+Primary_human_GGGACCTAGTGTGGCA	4960	21066	0.036078804	0	Basal tumor cells	Tumor
+Primary_human_GGGAGATCAAGCCATT	1059	2544	0.008647799	1	Tcell	Nontumor
+Primary_human_GGGAGATCAGCTGTGC	2508	8839	0.01380559	5	Muscle cells	Nontumor
+Primary_human_GGGAGATTCCGCATCT	2988	8249	0.020012129	5	Muscle cells	Nontumor
+Primary_human_GGGAGATTCTTACCTA	2407	7846	0.036611813	6	Urothelial cells	Nontumor
+Primary_human_GGGATGACAATCTACG	5453	32782	0.039718129	0	Basal tumor cells	Tumor
+Primary_human_GGGATGACATACAGCT	3075	13125	0.034666667	2	Endothelial cells	Nontumor
+Primary_human_GGGATGATCTGCTGTC	2640	10077	0.031569542	3	Macrophages	Nontumor
+Primary_human_GGGCACTCACCATCCT	1016	2345	0.005546075	1	Tcell	Nontumor
+Primary_human_GGGCACTGTCTCTCTG	1600	4040	0.020549641	5	Muscle cells	Nontumor
+Primary_human_GGGCACTGTGGTCTCG	1579	4108	0.051119766	2	Endothelial cells	Nontumor
+Primary_human_GGGCATCCATTCTTAC	5805	42289	0.031807218	0	Basal tumor cells	Tumor
+Primary_human_GGGCATCGTCAGAAGC	5001	26859	0.02915441	0	Basal tumor cells	Tumor
+Primary_human_GGGCATCGTCGCATCG	3569	12596	0.021442186	4	Fibroblasts	Nontumor
+Primary_human_GGGCATCGTCTAGCGC	859	2247	0.024042743	1	Tcell	Nontumor
+Primary_human_GGGCATCTCAAACCGT	2755	8260	0.017675545	2	Endothelial cells	Nontumor
+Primary_human_GGGTCTGAGAGGTTGC	949	2354	0.019541206	1	Tcell	Nontumor
+Primary_human_GGGTCTGCAGACAAAT	2381	9029	0.032340237	3	Macrophages	Nontumor
+Primary_human_GGGTCTGCATTTCACT	6859	53867	0.033752924	0	Basal tumor cells	Tumor
+Primary_human_GGGTCTGGTCGCGGTT	911	2694	0.038233111	1	Tcell	Nontumor
+Primary_human_GGGTCTGTCTGTACGA	3124	13752	0.027638374	3	Macrophages	Nontumor
+Primary_human_GGGTTGCCACCCATTC	7412	68902	0.021150887	0	Basal tumor cells	Tumor
+Primary_human_GGGTTGCCACTCTGTC	2734	8890	0.030033746	4	Fibroblasts	Nontumor
+Primary_human_GGGTTGCGTAAGAGGA	2599	9297	0.030449753	3	Macrophages	Nontumor
+Primary_human_GGGTTGCGTCTGATTG	2062	6162	0.06705634	6	Urothelial cells	Nontumor
+Primary_human_GGGTTGCTCATTATCC	2181	6313	0.027086963	5	Muscle cells	Nontumor
+Primary_human_GGGTTGCTCTTTAGGG	985	2111	0.041212695	5	Muscle cells	Nontumor
+Primary_human_GGTATTGAGCCACTAT	3705	16257	0.020676923	3	Macrophages	Nontumor
+Primary_human_GGTATTGAGTCATGCT	5132	36345	0.020169501	0	Basal tumor cells	Tumor
+Primary_human_GGTATTGCACAACGTT	1844	6271	0.037976703	3	Macrophages	Nontumor
+Primary_human_GGTATTGCATGGTTGT	2443	8723	0.034506477	2	Endothelial cells	Nontumor
+Primary_human_GGTATTGGTGCACTTA	616	1237	0.000808407	6	Urothelial cells	Nontumor
+Primary_human_GGTGAAGCAATAGCGG	3003	11488	0.031086729	4	Fibroblasts	Nontumor
+Primary_human_GGTGAAGTCCTTTCGG	3604	12680	0.014522494	4	Fibroblasts	Nontumor
+Primary_human_GGTGAAGTCGGTGTCG	1000	2369	0.053186999	1	Tcell	Nontumor
+Primary_human_GGTGAAGTCTGATACG	1290	4446	0.026090868	1	Tcell	Nontumor
+Primary_human_GGTGCGTCAAAGAATC	1033	2458	0.026851098	1	Tcell	Nontumor
+Primary_human_GGTGCGTCAGTCCTTC	1504	3305	0.023298033	2	Endothelial cells	Nontumor
+Primary_human_GGTGCGTGTGTCCTCT	706	1473	0.017651052	1	Tcell	Nontumor
+Primary_human_GGTGCGTTCTGCGACG	5102	27842	0.018074021	0	Basal tumor cells	Tumor
+Primary_human_GGTGTTAAGGATGGAA	2117	7259	0.02991453	3	Macrophages	Nontumor
+Primary_human_GGTGTTACACAAGCCC	1361	3267	0.029690848	5	Muscle cells	Nontumor
+Primary_human_GGTGTTAGTAAATGTG	1073	3565	0.01486676	1	Tcell	Nontumor
+Primary_human_GGTGTTATCCAGGGCT	2310	6838	0.072014052	6	Urothelial cells	Nontumor
+Primary_human_GTAACGTCAAACCTAC	1949	8474	0.017701204	3	Macrophages	Nontumor
+Primary_human_GTAACGTGTAGCTGCC	819	1980	0.027791814	1	Tcell	Nontumor
+Primary_human_GTAACGTGTCAAACTC	894	2130	0.029121653	1	Tcell	Nontumor
+Primary_human_GTAACGTGTTATTCTC	3426	12931	0.023669554	4	Fibroblasts	Nontumor
+Primary_human_GTAACGTGTTCGCTAA	2611	9004	0.033325928	3	Macrophages	Nontumor
+Primary_human_GTAACGTTCTCGTTTA	750	1593	0.033919598	1	Tcell	Nontumor
+Primary_human_GTAACTGTCCCAACGG	5527	31852	0.04339907	0	Basal tumor cells	Tumor
+Primary_human_GTACGTAAGACGCAAC	3404	15258	0.025232665	2	Endothelial cells	Nontumor
+Primary_human_GTACGTAAGTAGCCGA	2019	5657	0.02847038	5	Muscle cells	Nontumor
+Primary_human_GTACTCCAGACTTTCG	1107	2499	0.02082499	1	Tcell	Nontumor
+Primary_human_GTACTCCAGCACAGGT	1833	5537	0.027451689	2	Endothelial cells	Nontumor
+Primary_human_GTACTCCGTAATCGTC	938	2080	0.031730769	1	Tcell	Nontumor
+Primary_human_GTACTCCTCACCTTAT	1598	3781	0.021434242	4	Fibroblasts	Nontumor
+Primary_human_GTACTCCTCCAGATCA	1344	4031	0.022084367	3	Macrophages	Nontumor
+Primary_human_GTACTCCTCCGCAAGC	4852	23189	0.043390123	0	Basal tumor cells	Tumor
+Primary_human_GTACTTTAGAAGGCCT	828	2215	0.053273138	1	Tcell	Nontumor
+Primary_human_GTACTTTAGCGTAATA	831	1957	0.035294118	1	Tcell	Nontumor
+Primary_human_GTACTTTAGGTAAACT	4411	23438	0.028803072	0	Basal tumor cells	Tumor
+Primary_human_GTACTTTGTGACCAAG	836	2438	0.029532404	8	Unknown1	Nontumor
+Primary_human_GTACTTTGTTAAAGAC	3208	11757	0.039387495	6	Urothelial cells	Nontumor
+Primary_human_GTACTTTTCGAACTGT	3594	15810	0.005313765	0	Basal tumor cells	Tumor
+Primary_human_GTAGGCCAGCTGGAAC	2622	6833	0.042166911	2	Endothelial cells	Nontumor
+Primary_human_GTAGGCCAGGAATCGC	1884	4340	0.02466006	2	Endothelial cells	Nontumor
+Primary_human_GTAGGCCCAATCCGAT	3735	12792	0.018766127	2	Endothelial cells	Nontumor
+Primary_human_GTAGGCCCACATCCAA	7827	99490	0.029654202	0	Basal tumor cells	Tumor
+Primary_human_GTAGGCCCACCTATCC	5495	30520	0.04391283	6	Urothelial cells	Nontumor
+Primary_human_GTAGGCCTCACTGGGC	1445	3640	0.036823303	2	Endothelial cells	Nontumor
+Primary_human_GTAGTCACAAGCGCTC	1121	2727	0.026779164	1	Tcell	Nontumor
+Primary_human_GTAGTCACAATACGCT	2567	8553	0.018477371	3	Macrophages	Nontumor
+Primary_human_GTAGTCACATGCTAGT	1183	2762	0.049981891	2	Endothelial cells	Nontumor
+Primary_human_GTAGTCAGTGTCCTCT	4414	19837	0.02515755	4	Fibroblasts	Nontumor
+Primary_human_GTATCTTAGGCGATAC	1530	4895	0.035561006	3	Macrophages	Nontumor
+Primary_human_GTATCTTAGGGATCTG	2963	9363	0.025745113	2	Endothelial cells	Nontumor
+Primary_human_GTATCTTAGTACTTGC	1532	4241	0.00495283	3	Macrophages	Nontumor
+Primary_human_GTATCTTAGTGCGTGA	557	1510	0.046357616	1	Tcell	Nontumor
+Primary_human_GTATCTTGTTCGCGAC	1019	2296	0.030052265	2	Endothelial cells	Nontumor
+Primary_human_GTATCTTTCCAAAGTC	2412	6585	0.071688943	2	Endothelial cells	Nontumor
+Primary_human_GTATTCTAGTACGACG	7294	52413	0.024556382	0	Basal tumor cells	Tumor
+Primary_human_GTATTCTCAGATCTGT	2235	6195	0.032127866	7	Fibroblasts	Nontumor
+Primary_human_GTATTCTCAGTATCTG	1569	5979	0.017904953	3	Macrophages	Nontumor
+Primary_human_GTATTCTTCCTCATTA	2464	7767	0.015840309	4	Fibroblasts	Nontumor
+Primary_human_GTCAAGTAGCACACAG	693	1482	0.033760972	1	Tcell	Nontumor
+Primary_human_GTCACAAAGGCGCTCT	1711	4429	0.031624125	5	Muscle cells	Nontumor
+Primary_human_GTCACAAGTAAGGATT	674	1161	0.055986219	2	Endothelial cells	Nontumor
+Primary_human_GTCACAAGTCTTGATG	1110	2768	0.028209765	5	Muscle cells	Nontumor
+Primary_human_GTCACAATCAACACTG	1501	3159	0.0370605	2	Endothelial cells	Nontumor
+Primary_human_GTCACGGAGGACTGGT	3196	13884	0.010372398	0	Basal tumor cells	Tumor
+Primary_human_GTCACGGCATCGACGC	1161	2895	0.02211472	1	Tcell	Nontumor
+Primary_human_GTCACGGGTTGACGTT	2998	11475	0.038706303	5	Muscle cells	Nontumor
+Primary_human_GTCACGGGTTGCGTTA	1715	4227	0.02578661	5	Muscle cells	Nontumor
+Primary_human_GTCACGGGTTTAGGAA	1654	4837	0.05294726	2	Endothelial cells	Nontumor
+Primary_human_GTCACGGTCGTTGCCT	4865	28105	0.04088386	0	Basal tumor cells	Tumor
+Primary_human_GTCATTTTCGACCAGC	1486	4303	0.033705253	2	Endothelial cells	Nontumor
+Primary_human_GTCCTCAAGCTAACAA	2112	6901	0.03580229	5	Muscle cells	Nontumor
+Primary_human_GTCCTCAAGCTTCGCG	6673	56590	0.022479456	0	Basal tumor cells	Tumor
+Primary_human_GTCCTCAGTCGAGATG	741	1911	0.01255887	1	Tcell	Nontumor
+Primary_human_GTCCTCATCCGTACAA	875	2669	0.015748031	1	Tcell	Nontumor
+Primary_human_GTCGGGTAGTGAACAT	627	1457	0.017857143	1	Tcell	Nontumor
+Primary_human_GTCGGGTAGTTGAGTA	734	1477	0.007452575	1	Tcell	Nontumor
+Primary_human_GTCGGGTCATCGTCGG	1323	2937	0.027588556	1	Tcell	Nontumor
+Primary_human_GTCGTAAAGTTTCCTT	1148	2323	0.015073213	2	Endothelial cells	Nontumor
+Primary_human_GTCGTAAGTCATCGGC	4619	18574	0.017016694	4	Fibroblasts	Nontumor
+Primary_human_GTCGTAATCAGATAAG	2082	5206	0.04418828	7	Fibroblasts	Nontumor
+Primary_human_GTCTCGTAGGATGCGT	5757	37628	0.048268346	0	Basal tumor cells	Tumor
+Primary_human_GTCTCGTCATTGAGCT	7354	57432	0.037202174	0	Basal tumor cells	Tumor
+Primary_human_GTCTCGTGTGCTGTAT	5299	29478	0.031789652	0	Basal tumor cells	Tumor
+Primary_human_GTCTCGTGTTGTACAC	2114	4936	0.051287249	7	Fibroblasts	Nontumor
+Primary_human_GTCTTCGAGCGTTCCG	3169	11232	0.019232482	4	Fibroblasts	Nontumor
+Primary_human_GTCTTCGGTAACGTTC	3381	12027	0.068939709	6	Urothelial cells	Nontumor
+Primary_human_GTCTTCGGTTGACGTT	609	1348	0.09347181	2	Endothelial cells	Nontumor
+Primary_human_GTCTTCGTCTCCAACC	2289	8055	0.022727273	3	Macrophages	Nontumor
+Primary_human_GTGAAGGAGCCCAACC	4213	21285	0.026972417	4	Fibroblasts	Nontumor
+Primary_human_GTGAAGGAGGCGACAT	4970	23256	0.071311828	0	Basal tumor cells	Tumor
+Primary_human_GTGAAGGGTAACGACG	5012	29676	0.035822606	0	Basal tumor cells	Tumor
+Primary_human_GTGAAGGTCATGTCCC	3121	10453	0.023834594	2	Endothelial cells	Nontumor
+Primary_human_GTGCAGCAGGAGTTTA	3155	9022	0.029499834	2	Endothelial cells	Nontumor
+Primary_human_GTGCAGCAGTTCGATC	868	2727	0.024944974	1	Tcell	Nontumor
+Primary_human_GTGCAGCGTCTGATCA	1541	3378	0.029925926	2	Endothelial cells	Nontumor
+Primary_human_GTGCAGCTCAAGGTAA	945	2901	0.018965517	1	Tcell	Nontumor
+Primary_human_GTGCAGCTCCATTCTA	2004	6166	0.019789132	5	Muscle cells	Nontumor
+Primary_human_GTGCAGCTCCCACTTG	1281	2796	0.021824687	1	Tcell	Nontumor
+Primary_human_GTGCATAAGAGGTTGC	1052	4539	0.034156016	8	Unknown1	Nontumor
+Primary_human_GTGCATACATGCCTTC	5241	30038	0.023670806	0	Basal tumor cells	Tumor
+Primary_human_GTGCTTCAGGTGACCA	2550	11336	0.000176445	0	Basal tumor cells	Tumor
+Primary_human_GTGCTTCAGTTAACGA	2166	7419	0.016309476	2	Endothelial cells	Nontumor
+Primary_human_GTGCTTCGTACCGAGA	807	2100	0.041448309	1	Tcell	Nontumor
+Primary_human_GTGCTTCGTCGGATCC	1010	2390	0.061532022	2	Endothelial cells	Nontumor
+Primary_human_GTGCTTCGTCTGCGGT	6939	57559	0.039563533	0	Basal tumor cells	Tumor
+Primary_human_GTGCTTCGTGATGATA	6244	43582	0.036351119	0	Basal tumor cells	Tumor
+Primary_human_GTGCTTCGTGCACCAC	2839	8503	0.03918108	0	Basal tumor cells	Tumor
+Primary_human_GTGCTTCGTGGTCCGT	2166	8006	0.026858214	2	Endothelial cells	Nontumor
+Primary_human_GTGCTTCTCAACCATG	4880	26003	0.044384615	6	Urothelial cells	Nontumor
+Primary_human_GTGCTTCTCACCTTAT	622	1740	0.028752156	1	Tcell	Nontumor
+Primary_human_GTGCTTCTCGGCATCG	1504	4268	0.06022967	2	Endothelial cells	Nontumor
+Primary_human_GTGGGTCAGACATAAC	4216	20667	0.022745971	0	Basal tumor cells	Tumor
+Primary_human_GTGGGTCAGTACACCT	1656	6277	0.025510204	3	Macrophages	Nontumor
+Primary_human_GTGGGTCCATTCGACA	3035	9578	0.017441253	2	Endothelial cells	Nontumor
+Primary_human_GTGGGTCGTAAGTAGT	2150	8824	0.025954891	3	Macrophages	Nontumor
+Primary_human_GTGTGCGAGTCGTTTG	1465	4228	0.020132639	8	Unknown1	Nontumor
+Primary_human_GTGTGCGAGTGCTGCC	1725	4972	0.056539235	5	Muscle cells	Nontumor
+Primary_human_GTGTGCGAGTTACCCA	3201	11869	0.04999157	0	Basal tumor cells	Nontumor
+Primary_human_GTGTGCGCAGATGGGT	2042	11693	0.023778975	3	Macrophages	Nontumor
+Primary_human_GTGTGCGCATTTCAGG	868	1742	0.044202067	2	Endothelial cells	Nontumor
+Primary_human_GTGTTAGCACATTAGC	4569	19038	0.04155503	0	Basal tumor cells	Tumor
+Primary_human_GTGTTAGTCTGGCGTG	3451	19810	0.020956421	3	Macrophages	Nontumor
+Primary_human_GTTAAGCAGTATGACA	819	1743	0.020103389	1	Tcell	Nontumor
+Primary_human_GTTAAGCCACCAACCG	2426	8155	0.004415011	5	Muscle cells	Nontumor
+Primary_human_GTTAAGCGTCGTCTTC	583	1521	0.03879027	1	Tcell	Nontumor
+Primary_human_GTTAAGCTCGAGGTAG	1072	2350	0.079676182	2	Endothelial cells	Nontumor
+Primary_human_GTTACAGAGACCTAGG	3678	16191	0.069323448	0	Basal tumor cells	Tumor
+Primary_human_GTTACAGAGTGCCAGA	1749	4922	0.036984353	2	Endothelial cells	Nontumor
+Primary_human_GTTACAGCAATGTTGC	1660	4735	0.029144667	2	Endothelial cells	Nontumor
+Primary_human_GTTACAGGTCTTCAAG	4211	18987	0.002370292	0	Basal tumor cells	Tumor
+Primary_human_GTTACAGTCAGCACAT	3130	15357	0.018559521	3	Macrophages	Nontumor
+Primary_human_GTTCATTTCCCTAACC	6446	42438	0.057689589	0	Basal tumor cells	Tumor
+Primary_human_GTTCGGGCATACGCCG	2336	8578	0.034752187	3	Macrophages	Nontumor
+Primary_human_GTTCGGGCATGCAACT	6709	68517	0.023513786	0	Basal tumor cells	Tumor
+Primary_human_GTTCGGGTCGGAATCT	661	1806	0.041574279	8	Unknown1	Nontumor
+Primary_human_GTTCTCGAGAATCTCC	1002	2537	0.018131652	1	Tcell	Nontumor
+Primary_human_GTTCTCGAGACCACGA	5829	41509	0.033297995	0	Basal tumor cells	Tumor
+Primary_human_GTTCTCGAGAGCTATA	1194	3564	0.035353535	1	Tcell	Nontumor
+Primary_human_GTTCTCGAGGGTCGAT	1469	4475	0.06213679	3	Macrophages	Nontumor
+Primary_human_GTTCTCGCAGCTGCAC	1257	2922	0.034919548	2	Endothelial cells	Nontumor
+Primary_human_GTTCTCGCATTCCTGC	1880	4634	0.036701209	5	Muscle cells	Nontumor
+Primary_human_GTTCTCGTCACATAGC	3745	18260	0.000383436	0	Basal tumor cells	Tumor
+Primary_human_GTTTCTAAGAGTGACC	906	2916	0.019547325	1	Tcell	Nontumor
+Primary_human_GTTTCTAAGATCACGG	6223	36746	0.039244503	0	Basal tumor cells	Tumor
+Primary_human_GTTTCTAAGTACGATA	4377	18305	0.057801573	0	Basal tumor cells	Tumor
+Primary_human_GTTTCTAAGTAGGTGC	1682	4859	0.044247788	2	Endothelial cells	Nontumor
+Primary_human_GTTTCTAGTAGCCTAT	5641	36943	0.03689967	0	Basal tumor cells	Tumor
+Primary_human_GTTTCTATCCCATTAT	817	1935	0.019648397	1	Tcell	Nontumor
+Primary_human_TAAACCGAGCCAACAG	6617	54378	0.029077466	0	Basal tumor cells	Tumor
+Primary_human_TAAACCGAGGTGACCA	2640	10235	0.030492572	3	Macrophages	Nontumor
+Primary_human_TAAACCGAGTGACATA	1061	2391	0.056879967	2	Endothelial cells	Nontumor
+Primary_human_TAAACCGGTCAATACC	1915	5757	0.021372719	5	Muscle cells	Nontumor
+Primary_human_TAAACCGGTCGCGTGT	1877	5884	0.056084296	2	Endothelial cells	Nontumor
+Primary_human_TAAACCGGTCTGGTCG	1689	4655	0.045776918	2	Endothelial cells	Nontumor
+Primary_human_TAAACCGGTGTGACCC	807	2119	0.01982067	1	Tcell	Nontumor
+Primary_human_TAAACCGTCAAAGACA	4623	21411	0.03783809	0	Basal tumor cells	Tumor
+Primary_human_TAAACCGTCACATACG	4542	20075	0.029998007	0	Basal tumor cells	Tumor
+Primary_human_TAAACCGTCTAACTCT	1786	5874	0.035598706	2	Endothelial cells	Nontumor
+Primary_human_TAAGAGACACCAGGCT	6209	43704	0.024829512	0	Basal tumor cells	Tumor
+Primary_human_TAAGAGAGTCTCATCC	1072	2563	0.029262583	1	Tcell	Nontumor
+Primary_human_TAAGAGATCAACACAC	2065	7496	0.03175874	2	Endothelial cells	Nontumor
+Primary_human_TAAGCGTAGCTACCTA	2295	6881	0.025734225	2	Endothelial cells	Nontumor
+Primary_human_TAAGCGTAGGCCCTTG	965	2986	0.027470687	1	Tcell	Nontumor
+Primary_human_TAAGCGTTCTGTCAAG	951	1948	0.027720739	1	Tcell	Nontumor
+Primary_human_TAAGTGCCAGATCCAT	7238	61952	0.035142945	0	Basal tumor cells	Tumor
+Primary_human_TAAGTGCCATGTTCCC	1392	4356	0.029168581	3	Macrophages	Nontumor
+Primary_human_TACACGAAGCATGGCA	6606	50558	0.028016303	6	Urothelial cells	Nontumor
+Primary_human_TACACGACACCCATGG	1153	2840	0.007760141	1	Tcell	Nontumor
+Primary_human_TACAGTGCAATGGAAT	873	2394	0.015873016	1	Tcell	Nontumor
+Primary_human_TACAGTGCATGGAATA	1658	4843	0.034090909	5	Muscle cells	Nontumor
+Primary_human_TACAGTGGTCCGTGAC	950	2590	0.022393822	1	Tcell	Nontumor
+Primary_human_TACAGTGGTGCCTTGG	3711	15688	0.022375215	4	Fibroblasts	Nontumor
+Primary_human_TACAGTGTCCTTGGTC	4170	17048	0.027750073	0	Basal tumor cells	Tumor
+Primary_human_TACCTATCAAGCCGCT	4938	26545	0.040354182	0	Basal tumor cells	Tumor
+Primary_human_TACCTATCAGATGAGC	2239	6211	0.032689211	7	Fibroblasts	Nontumor
+Primary_human_TACCTATGTAACGACG	2328	7832	0.024514811	3	Macrophages	Nontumor
+Primary_human_TACCTATGTACGACCC	589	950	0.001052632	2	Endothelial cells	Nontumor
+Primary_human_TACCTATGTGCAGTAG	1916	5028	0.039379475	2	Endothelial cells	Nontumor
+Primary_human_TACCTTAAGTGCGTGA	5698	38633	0.031220068	0	Basal tumor cells	Tumor
+Primary_human_TACCTTACAGGATCGA	1030	2577	0.030267753	1	Tcell	Nontumor
+Primary_human_TACCTTACATCGGACC	3036	14802	0.034254442	3	Macrophages	Nontumor
+Primary_human_TACGGATAGCCTATGT	757	1483	0.009446694	1	Tcell	Nontumor
+Primary_human_TACGGATAGGGAAACA	4267	18811	0.024088057	0	Basal tumor cells	Tumor
+Primary_human_TACGGATCAAAGTCAA	2863	9365	0.023814609	4	Fibroblasts	Nontumor
+Primary_human_TACGGATGTAATCACC	1152	2702	0.06	2	Endothelial cells	Nontumor
+Primary_human_TACGGATGTGTTTGTG	3723	16834	0.021506654	4	Fibroblasts	Nontumor
+Primary_human_TACGGGCAGCATGGCA	2916	9991	0.04114526	6	Urothelial cells	Nontumor
+Primary_human_TACGGGCAGCTGTTCA	824	2590	0.028571429	1	Tcell	Nontumor
+Primary_human_TACGGGCAGGCTAGAC	1081	2586	0.025135344	1	Tcell	Nontumor
+Primary_human_TACGGGCAGTCCTCCT	1838	5364	0.013427825	5	Muscle cells	Nontumor
+Primary_human_TACGGGCCATACGCTA	562	1349	0.076352854	8	Unknown1	Nontumor
+Primary_human_TACGGGCTCTTTCCTC	3488	13382	0.043341802	0	Basal tumor cells	Tumor
+Primary_human_TACGGTAAGGATCGCA	5455	30162	0.042374005	0	Basal tumor cells	Tumor
+Primary_human_TACGGTAAGTACGTTC	3910	15084	0.043691573	0	Basal tumor cells	Tumor
+Primary_human_TACGGTAAGTGAACAT	1392	3670	0.035169029	5	Muscle cells	Nontumor
+Primary_human_TACGGTAAGTGATCGG	6928	60638	0.036418216	0	Basal tumor cells	Tumor
+Primary_human_TACGGTACATATGGTC	2282	8089	0.023002721	3	Macrophages	Nontumor
+Primary_human_TACGGTACATCCTTGC	1968	7743	0.025061362	3	Macrophages	Nontumor
+Primary_human_TACGGTAGTAAGTGTA	2550	11155	0.025374339	3	Macrophages	Nontumor
+Primary_human_TACGGTAGTCTTCGTC	2900	10905	0.017429594	4	Fibroblasts	Nontumor
+Primary_human_TACGGTATCCCTAACC	2323	6555	0.017549214	7	Fibroblasts	Nontumor
+Primary_human_TACGGTATCCTCAATT	3784	13340	0.015973003	4	Fibroblasts	Nontumor
+Primary_human_TACTCATAGTGTGGCA	3809	15522	0.023518041	4	Fibroblasts	Nontumor
+Primary_human_TACTCATGTCTTGCGG	901	2042	0.023050515	1	Tcell	Nontumor
+Primary_human_TACTCATTCTGTTTGT	2365	9931	0.044909878	3	Macrophages	Nontumor
+Primary_human_TACTCGCAGCGCTCCA	2185	7486	0.032870123	2	Endothelial cells	Nontumor
+Primary_human_TACTCGCCATTTGCTT	3581	15145	0.029980849	2	Endothelial cells	Nontumor
+Primary_human_TACTCGCGTACATCCA	4141	21641	0.024355301	0	Basal tumor cells	Tumor
+Primary_human_TACTCGCTCATGTGGT	1478	4176	0.064415709	2	Endothelial cells	Nontumor
+Primary_human_TACTCGCTCGCGCCAA	2100	6354	0.014006925	2	Endothelial cells	Nontumor
+Primary_human_TACTTACAGCTAAACA	2978	10287	0.041131855	4	Fibroblasts	Nontumor
+Primary_human_TACTTACAGGCGACAT	4140	15701	0.040015292	0	Basal tumor cells	Tumor
+Primary_human_TACTTACCACGGCCAT	1713	3901	0.043344447	5	Muscle cells	Nontumor
+Primary_human_TACTTACTCTCACATT	2083	5756	0.027628149	5	Muscle cells	Nontumor
+Primary_human_TACTTGTAGCCGGTAA	2840	11387	0.017573148	3	Macrophages	Nontumor
+Primary_human_TACTTGTAGCTGCCCA	5502	32167	0.045211443	0	Basal tumor cells	Tumor
+Primary_human_TACTTGTAGTTGTAGA	1773	7919	0.032967033	3	Macrophages	Nontumor
+Primary_human_TACTTGTCATATACCG	3494	17943	0.025478062	3	Macrophages	Nontumor
+Primary_human_TACTTGTTCACCGTAA	733	2127	0.020216267	9	Unknown2	Nontumor
+Primary_human_TAGACCAAGCAGCGTA	584	1406	0.024182077	9	Unknown2	Nontumor
+Primary_human_TAGACCACAAGCGCTC	3661	15829	0.04543731	6	Urothelial cells	Nontumor
+Primary_human_TAGACCATCTTCATGT	1703	5213	0.030117015	2	Endothelial cells	Nontumor
+Primary_human_TAGAGCTAGGCGACAT	656	1430	0.013286713	9	Unknown2	Nontumor
+Primary_human_TAGAGCTGTCTAGAGG	839	1693	0.024822695	1	Tcell	Nontumor
+Primary_human_TAGAGCTGTCTGGAGA	867	2354	0.019541206	1	Tcell	Nontumor
+Primary_human_TAGAGCTGTTCAGGCC	1564	4385	0.019164956	7	Fibroblasts	Nontumor
+Primary_human_TAGAGCTTCGCCGTGA	2985	9441	0.078080305	6	Urothelial cells	Nontumor
+Primary_human_TAGCCGGAGCTGCAAG	944	3522	0.042045455	8	Unknown1	Nontumor
+Primary_human_TAGCCGGAGTCAAGCG	4023	15838	0.025449953	4	Fibroblasts	Nontumor
+Primary_human_TAGCCGGTCTATCCCG	2386	9349	0.030812025	2	Endothelial cells	Nontumor
+Primary_human_TAGGCATCACAGTCGC	1057	2594	0.092978395	3	Macrophages	Nontumor
+Primary_human_TAGGCATCAGTGACAG	2296	7910	0.049943103	2	Endothelial cells	Nontumor
+Primary_human_TAGGCATCATCATCCC	2487	7758	0.040989946	6	Urothelial cells	Nontumor
+Primary_human_TAGGCATCATTGGCGC	2154	6756	0.047541469	2	Endothelial cells	Nontumor
+Primary_human_TAGGCATTCCATGAGT	3457	15013	0.024114042	3	Macrophages	Nontumor
+Primary_human_TAGTGGTTCGCTAGCG	1279	2922	0.008558713	1	Tcell	Nontumor
+Primary_human_TAGTGGTTCTCGTATT	878	2226	0.018418688	1	Tcell	Nontumor
+Primary_human_TAGTTGGAGAGCCCAA	4287	19957	0.044853162	0	Basal tumor cells	Tumor
+Primary_human_TAGTTGGAGCCGTCGT	3124	12770	0.027645078	4	Fibroblasts	Nontumor
+Primary_human_TAGTTGGAGGGAGTAA	3680	16718	0.036498534	2	Endothelial cells	Nontumor
+Primary_human_TAGTTGGAGTCTCGGC	604	1385	0.014440433	1	Tcell	Nontumor
+Primary_human_TAGTTGGCATATACCG	3825	15081	0.073550869	0	Basal tumor cells	Tumor
+Primary_human_TAGTTGGGTCTCTTTA	1801	4719	0.05763933	5	Muscle cells	Nontumor
+Primary_human_TAGTTGGTCATGTCTT	852	1900	0.030526316	1	Tcell	Nontumor
+Primary_human_TAGTTGGTCCAAAGTC	2686	12082	0.044118864	2	Endothelial cells	Nontumor
+Primary_human_TAGTTGGTCCTCTAGC	1087	2991	0.024072217	1	Tcell	Nontumor
+Primary_human_TATCAGGGTGACGCCT	605	1269	0.07249803	2	Endothelial cells	Nontumor
+Primary_human_TATCAGGGTTTCGCTC	5069	26599	0.040347447	0	Basal tumor cells	Tumor
+Primary_human_TATCAGGTCCTGTAGA	5402	28000	0.039438431	0	Basal tumor cells	Tumor
+Primary_human_TATCAGGTCTGTCCGT	588	1242	0.024174053	1	Tcell	Nontumor
+Primary_human_TATCTCAAGAGCAATT	4882	19750	0.094596648	0	Basal tumor cells	Tumor
+Primary_human_TATCTCAAGATCTGCT	4658	22641	0.030833112	0	Basal tumor cells	Tumor
+Primary_human_TATCTCAGTCCAACTA	5650	39244	0.057222236	0	Basal tumor cells	Tumor
+Primary_human_TATCTCATCGCGTAGC	989	2412	0.018257261	3	Macrophages	Nontumor
+Primary_human_TATGCCCCAAGCCTAT	1468	3491	0.084813754	1	Tcell	Nontumor
+Primary_human_TATGCCCGTAGCGATG	1380	3385	0.040472674	5	Muscle cells	Nontumor
+Primary_human_TATGCCCTCAGCGATT	2697	8067	0.029014259	7	Fibroblasts	Nontumor
+Primary_human_TATGCCCTCCGAATGT	1301	3035	0.01252472	1	Tcell	Nontumor
+Primary_human_TATTACCAGAATTCCC	2711	10311	0.027446416	3	Macrophages	Nontumor
+Primary_human_TATTACCCACACTGCG	2332	6306	0.017134698	7	Fibroblasts	Nontumor
+Primary_human_TATTACCCAGACAAAT	2910	10209	0.096423322	6	Urothelial cells	Nontumor
+Primary_human_TATTACCCATTGGCGC	894	2393	0.034280936	3	Macrophages	Nontumor
+Primary_human_TATTACCGTCTTTCAT	5844	39291	0.023289554	0	Basal tumor cells	Tumor
+Primary_human_TATTACCTCCTATGTT	2428	8144	0.019774011	5	Muscle cells	Nontumor
+Primary_human_TCAACGAAGTCGATAA	5029	26767	0.048049619	0	Basal tumor cells	Tumor
+Primary_human_TCAACGACAAGTTAAG	4807	29657	0.025597788	3	Macrophages	Nontumor
+Primary_human_TCAACGAGTAGCACGA	2775	8514	0.015518458	6	Urothelial cells	Nontumor
+Primary_human_TCAACGAGTCCAGTTA	1067	2502	0.029988005	1	Tcell	Nontumor
+Primary_human_TCAACGAGTCTTTCAT	4400	19848	0.027616792	0	Basal tumor cells	Tumor
+Primary_human_TCAATCTAGACTGGGT	1844	4460	0.054733064	2	Endothelial cells	Nontumor
+Primary_human_TCAATCTAGGCAAAGA	2213	6691	0.031838565	2	Endothelial cells	Nontumor
+Primary_human_TCAATCTAGGCCCGTT	1530	5344	0.03481842	3	Macrophages	Nontumor
+Primary_human_TCAATCTCAAACTGCT	1120	3917	0.019913199	1	Tcell	Nontumor
+Primary_human_TCACAAGAGGACCACA	7000	63438	0.031736772	0	Basal tumor cells	Tumor
+Primary_human_TCACGAACAAGACACG	1097	2910	0.024415406	1	Tcell	Nontumor
+Primary_human_TCACGAATCAATACCG	4470	23077	0.025877763	4	Fibroblasts	Nontumor
+Primary_human_TCAGATGAGAAGGTGA	3342	12768	0.084142902	0	Basal tumor cells	Tumor
+Primary_human_TCAGATGAGAATTCCC	2034	5821	0.035732692	2	Endothelial cells	Nontumor
+Primary_human_TCAGATGAGCCACTAT	2877	15589	0.023809524	3	Macrophages	Nontumor
+Primary_human_TCAGATGTCGTCTGCT	1441	4038	0.026263627	3	Macrophages	Nontumor
+Primary_human_TCAGATGTCTGAGGGA	2055	5144	0.030933852	5	Muscle cells	Nontumor
+Primary_human_TCAGCAAGTTGAGGTG	696	1742	0.03272101	1	Tcell	Nontumor
+Primary_human_TCAGCTCAGTCGAGTG	2500	6662	0.020570571	7	Fibroblasts	Nontumor
+Primary_human_TCAGCTCCACTGCCAG	4142	22423	0.037958874	0	Basal tumor cells	Tumor
+Primary_human_TCAGCTCCATCTACGA	3629	14928	0.0357095	2	Endothelial cells	Nontumor
+Primary_human_TCAGGATAGCCAACAG	950	2368	0.016469595	1	Tcell	Nontumor
+Primary_human_TCAGGATAGCGATCCC	5224	34049	0.027138955	0	Basal tumor cells	Tumor
+Primary_human_TCAGGATCAAAGAATC	1736	4439	0.044389365	2	Endothelial cells	Nontumor
+Primary_human_TCAGGATCAACACGCC	4940	26659	0.049521666	0	Basal tumor cells	Tumor
+Primary_human_TCAGGATCAGCCAGAA	3754	12523	0.025159744	2	Endothelial cells	Nontumor
+Primary_human_TCAGGATCATACGCTA	2926	9048	0.039014147	4	Fibroblasts	Nontumor
+Primary_human_TCAGGATGTCTCAACA	3183	12404	0.018877057	4	Fibroblasts	Nontumor
+Primary_human_TCAGGATTCCGTAGTA	1808	3897	0.058023107	2	Endothelial cells	Nontumor
+Primary_human_TCAGGTAAGAAGGGTA	2896	13252	0.043015621	2	Endothelial cells	Nontumor
+Primary_human_TCAGGTAAGCGTAATA	1480	4336	0.040590406	2	Endothelial cells	Nontumor
+Primary_human_TCAGGTACAGCTCGAC	2655	7341	0.000408664	0	Basal tumor cells	Tumor
+Primary_human_TCAGGTACATCGGGTC	6397	51057	0.03570799	0	Basal tumor cells	Tumor
+Primary_human_TCAGGTAGTTACAGAA	7021	65230	0.026523166	0	Basal tumor cells	Tumor
+Primary_human_TCAGGTAGTTCGTGAT	1246	2810	0.020284698	1	Tcell	Nontumor
+Primary_human_TCAGGTATCCTGCCAT	3569	11826	0.020724074	4	Fibroblasts	Nontumor
+Primary_human_TCAGGTATCTCGATGA	2989	13275	0.021477016	3	Macrophages	Nontumor
+Primary_human_TCATTACAGAAGCCCA	7622	81660	0.023219644	0	Basal tumor cells	Tumor
+Primary_human_TCATTACCAGTTCATG	6496	50579	0.047160484	0	Basal tumor cells	Tumor
+Primary_human_TCATTACGTCTAGTGT	1412	4174	0.035474593	7	Fibroblasts	Nontumor
+Primary_human_TCATTTGAGAGACTTA	1334	2969	0.036712698	2	Endothelial cells	Nontumor
+Primary_human_TCATTTGAGAGTAATC	2783	7312	0.061258051	5	Muscle cells	Nontumor
+Primary_human_TCATTTGGTATGCTTG	6477	49787	0.039477649	0	Basal tumor cells	Tumor
+Primary_human_TCATTTGGTCTTGCGG	5868	40610	0.031768704	0	Basal tumor cells	Tumor
+Primary_human_TCATTTGGTTCGAATC	3268	10648	0.023860968	3	Macrophages	Nontumor
+Primary_human_TCATTTGTCCTAGTGA	762	2131	0.043212776	1	Tcell	Nontumor
+Primary_human_TCCACACCATGCTAGT	1241	3137	0.017213899	3	Macrophages	Nontumor
+Primary_human_TCCACACGTACAGTTC	2385	8104	0.037887202	5	Muscle cells	Nontumor
+Primary_human_TCCACACGTGAGGGTT	3360	14846	0.045870942	2	Endothelial cells	Nontumor
+Primary_human_TCCCGATAGAAGGTGA	871	1567	0.033184429	7	Fibroblasts	Nontumor
+Primary_human_TCCCGATCAGACAAAT	1399	4433	0.000902323	3	Macrophages	Nontumor
+Primary_human_TCCCGATCATGCCTAA	4187	17523	0.067857551	0	Basal tumor cells	Tumor
+Primary_human_TCCCGATGTAGAGTGC	4386	20687	0.022529491	0	Basal tumor cells	Tumor
+Primary_human_TCCCGATGTCTTCGTC	2544	7748	0.032666236	5	Muscle cells	Nontumor
+Primary_human_TCCCGATGTGATGATA	3438	13987	0.018089518	2	Endothelial cells	Nontumor
+Primary_human_TCCCGATTCATGCAAC	2095	8176	0.036457059	3	Macrophages	Nontumor
+Primary_human_TCCCGATTCTTGACGA	1800	4672	0.035744863	2	Endothelial cells	Nontumor
+Primary_human_TCGAGGCAGCTAACAA	1612	5732	0.048001396	3	Macrophages	Nontumor
+Primary_human_TCGAGGCCAGTAAGCG	1791	4713	0.032922685	5	Muscle cells	Nontumor
+Primary_human_TCGAGGCCAGTGACAG	3329	15133	0.022141441	3	Macrophages	Nontumor
+Primary_human_TCGAGGCTCAAGCCTA	3602	14594	0.023781783	4	Fibroblasts	Nontumor
+Primary_human_TCGAGGCTCAGCGACC	3404	12653	0.024502055	4	Fibroblasts	Nontumor
+Primary_human_TCGCGAGAGATCTGCT	1825	6156	0.045823854	2	Endothelial cells	Nontumor
+Primary_human_TCGCGAGCACAGCGTC	5141	24594	0.038758744	0	Basal tumor cells	Tumor
+Primary_human_TCGCGAGCATGTTCCC	1065	3411	0.029610085	1	Tcell	Nontumor
+Primary_human_TCGCGAGGTGAGGGAG	4667	23640	0.036466706	0	Basal tumor cells	Tumor
+Primary_human_TCGCGTTGTAAGCACG	580	1626	0.025830258	1	Tcell	Nontumor
+Primary_human_TCGCGTTGTTACGACT	3600	16498	0.012609117	3	Macrophages	Nontumor
+Primary_human_TCGCGTTGTTTGTTTC	4718	23585	0.055774696	0	Basal tumor cells	Tumor
+Primary_human_TCGGGACAGGCCGAAT	4974	25075	0.037335461	0	Basal tumor cells	Tumor
+Primary_human_TCGGGACCATGAAGTA	2481	8908	0.039442634	5	Muscle cells	Nontumor
+Primary_human_TCGGGACGTAGCTTGT	5453	34521	0.024627687	0	Basal tumor cells	Tumor
+Primary_human_TCGGGACGTGACTACT	1561	4127	0.030288345	2	Endothelial cells	Nontumor
+Primary_human_TCGGGACGTGATAAGT	1313	3978	0.05304173	2	Endothelial cells	Nontumor
+Primary_human_TCGGGACTCTAGAGTC	2924	13209	0.030133253	2	Endothelial cells	Nontumor
+Primary_human_TCGGTAACAAGCCGTC	7130	62366	0.043969789	0	Basal tumor cells	Tumor
+Primary_human_TCGGTAACACGTTGGC	671	1672	0.034688995	1	Tcell	Nontumor
+Primary_human_TCGGTAACATACAGCT	5297	25669	0.022055099	4	Fibroblasts	Nontumor
+Primary_human_TCGGTAAGTGTTGAGG	1113	2785	0.0337765	7	Fibroblasts	Nontumor
+Primary_human_TCGGTAATCCTGCCAT	634	1626	0.022755228	1	Tcell	Nontumor
+Primary_human_TCGTACCAGATCACGG	1357	3212	0.035502959	5	Muscle cells	Nontumor
+Primary_human_TCGTACCAGCTTCGCG	2544	11008	0.035629885	3	Macrophages	Nontumor
+Primary_human_TCGTACCTCCGAACGC	2065	5904	0.029810298	5	Muscle cells	Nontumor
+Primary_human_TCGTAGACAGGTCTCG	1565	3696	0.038461538	2	Endothelial cells	Nontumor
+Primary_human_TCGTAGACAGTCTTCC	4451	25378	0.081100252	0	Basal tumor cells	Tumor
+Primary_human_TCGTAGAGTAGCGATG	872	2187	0.016933638	1	Tcell	Nontumor
+Primary_human_TCGTAGAGTATATCCG	3109	11457	0.02540819	4	Fibroblasts	Nontumor
+Primary_human_TCGTAGAGTTTAGGAA	825	1992	0.020090407	9	Unknown2	Nontumor
+Primary_human_TCGTAGATCACTCCTG	3619	14603	0.020616438	4	Fibroblasts	Nontumor
+Primary_human_TCTATTGAGGACCACA	1726	5795	0.036244391	2	Endothelial cells	Nontumor
+Primary_human_TCTATTGAGGTGATTA	4826	20909	0.078557076	0	Basal tumor cells	Tumor
+Primary_human_TCTATTGCACTACAGT	2379	7697	0.021049896	2	Endothelial cells	Nontumor
+Primary_human_TCTATTGGTTATCGGT	741	1781	0.080853453	2	Endothelial cells	Nontumor
+Primary_human_TCTATTGTCAGGTAAA	4731	21603	0.089364264	0	Basal tumor cells	Tumor
+Primary_human_TCTCATAAGTGCAAGC	891	2373	0.018120523	1	Tcell	Nontumor
+Primary_human_TCTCATAGTAAATGTG	892	3163	0.029411765	1	Tcell	Nontumor
+Primary_human_TCTCATAGTAGAGGAA	3425	13394	0.029578727	4	Fibroblasts	Nontumor
+Primary_human_TCTCATAGTCTAAAGA	793	2694	0.025993316	1	Tcell	Nontumor
+Primary_human_TCTCATATCAGTGCAT	879	2339	0.01497006	9	Unknown2	Nontumor
+Primary_human_TCTCATATCCTGCAGG	5399	27244	0.07506791	0	Basal tumor cells	Tumor
+Primary_human_TCTCTAAAGGAGTCTG	2772	9609	0.016546987	2	Endothelial cells	Nontumor
+Primary_human_TCTCTAACAACAACCT	1886	5260	0.021486975	2	Endothelial cells	Nontumor
+Primary_human_TCTCTAACATTAGGCT	4833	22924	0.033993716	6	Urothelial cells	Nontumor
+Primary_human_TCTCTAAGTAAACACA	589	1189	0.02358888	9	Unknown2	Nontumor
+Primary_human_TCTGAGAAGATGAGAG	863	2188	0.020109689	1	Tcell	Nontumor
+Primary_human_TCTGAGACACTCTGTC	4911	25092	0.027023795	0	Basal tumor cells	Tumor
+Primary_human_TCTGAGAGTCTCATCC	3829	16720	0.027993779	4	Fibroblasts	Nontumor
+Primary_human_TCTGAGATCGGAATCT	4062	17322	0.053245553	6	Urothelial cells	Nontumor
+Primary_human_TCTGGAACACCATGTA	1756	4319	0.032654006	2	Endothelial cells	Nontumor
+Primary_human_TCTGGAAGTCCAAGTT	1151	2489	0.021293692	1	Tcell	Nontumor
+Primary_human_TCTGGAAGTTCCATGA	1867	5684	0.029913778	3	Macrophages	Nontumor
+Primary_human_TCTTCGGAGGGAGTAA	3828	17235	0.053108132	6	Urothelial cells	Nontumor
+Primary_human_TCTTCGGAGGTGCTTT	1009	2201	0.019082235	5	Muscle cells	Nontumor
+Primary_human_TCTTCGGGTACTCAAC	6556	53450	0.027689947	0	Basal tumor cells	Tumor
+Primary_human_TCTTCGGGTCCTGCTT	1881	4534	0.023378915	7	Fibroblasts	Nontumor
+Primary_human_TCTTCGGTCACTGGGC	1846	4930	0.043619395	7	Fibroblasts	Nontumor
+Primary_human_TCTTCGGTCCCATTAT	1831	5298	0.013406344	3	Macrophages	Nontumor
+Primary_human_TCTTTCCCAACACCCG	993	2152	0.058577406	2	Endothelial cells	Nontumor
+Primary_human_TCTTTCCCATGTTCCC	1124	2681	0.032462687	1	Tcell	Nontumor
+Primary_human_TCTTTCCGTATATGGA	4625	22309	0.030843719	0	Basal tumor cells	Tumor
+Primary_human_TCTTTCCTCTACTCAT	3208	12047	0.02781468	7	Fibroblasts	Nontumor
+Primary_human_TGAAAGAAGATCCCAT	1837	5087	0.048161982	2	Endothelial cells	Nontumor
+Primary_human_TGAAAGACATGATCCA	4435	21186	0.052820392	0	Basal tumor cells	Tumor
+Primary_human_TGAAAGAGTAAATGAC	1745	4506	0.037530535	7	Fibroblasts	Nontumor
+Primary_human_TGAAAGATCTGGTATG	747	2250	0.063139173	8	Unknown1	Nontumor
+Primary_human_TGACAACCACTATCTT	1706	5935	0.038934772	3	Macrophages	Nontumor
+Primary_human_TGACGGCAGACTAGGC	6689	47665	0.042757637	0	Basal tumor cells	Tumor
+Primary_human_TGACGGCGTTCAACCA	1550	5239	0.006872852	3	Macrophages	Nontumor
+Primary_human_TGACTAGAGGGTGTGT	877	2779	0.049298309	8	Unknown1	Nontumor
+Primary_human_TGACTAGCATGACGGA	2171	7133	0.030430515	6	Urothelial cells	Nontumor
+Primary_human_TGACTAGGTGAGCGAT	3766	14505	0.038753275	2	Endothelial cells	Nontumor
+Primary_human_TGACTAGGTTCCCGAG	1426	4066	0.02508608	1	Tcell	Nontumor
+Primary_human_TGACTAGTCCTAGTGA	2422	9171	0.032068063	3	Macrophages	Nontumor
+Primary_human_TGACTTTAGAGGTACC	4472	21883	0.019749474	0	Basal tumor cells	Tumor
+Primary_human_TGACTTTGTAGCCTCG	4463	21140	0.057768736	0	Basal tumor cells	Tumor
+Primary_human_TGACTTTGTAGCGTGA	1212	2680	0.060820896	2	Endothelial cells	Nontumor
+Primary_human_TGACTTTGTATAAACG	771	1954	0.029682702	1	Tcell	Nontumor
+Primary_human_TGACTTTTCAAACGGG	1399	3550	0.020287405	5	Muscle cells	Nontumor
+Primary_human_TGACTTTTCTGTTGAG	1479	4178	0.031115366	5	Muscle cells	Nontumor
+Primary_human_TGAGAGGCACCACGTG	2221	5958	0.037124139	5	Muscle cells	Nontumor
+Primary_human_TGAGCATAGGGCTCTC	3445	13585	0.050287145	0	Basal tumor cells	Tumor
+Primary_human_TGAGCATCACTAGTAC	2460	9164	0.056210434	2	Endothelial cells	Nontumor
+Primary_human_TGAGCATTCCATTCTA	1794	4206	0.024964337	5	Muscle cells	Nontumor
+Primary_human_TGAGCATTCCGATATG	4355	17516	0.029641898	0	Basal tumor cells	Tumor
+Primary_human_TGAGCATTCGGATGTT	919	1981	0.032306916	3	Macrophages	Nontumor
+Primary_human_TGAGCCGAGTTAAGTG	1089	2666	0.031156156	1	Tcell	Nontumor
+Primary_human_TGAGCCGGTATAGTAG	898	2210	0.030316742	1	Tcell	Nontumor
+Primary_human_TGAGCCGGTTACAGAA	1980	8023	0.019194815	3	Macrophages	Nontumor
+Primary_human_TGAGGGAAGAGCTTCT	1054	2386	0.045683152	2	Endothelial cells	Nontumor
+Primary_human_TGAGGGAAGGGATACC	3579	19787	0.025070764	3	Macrophages	Nontumor
+Primary_human_TGAGGGACACAGTCGC	1774	7721	0.030177438	3	Macrophages	Nontumor
+Primary_human_TGAGGGATCGACGGAA	3131	14295	0.018961657	3	Macrophages	Nontumor
+Primary_human_TGATTTCCAGTCGTGC	1082	2972	0.017496635	1	Tcell	Nontumor
+Primary_human_TGATTTCGTAGTAGTA	1181	3826	0.03373431	3	Macrophages	Nontumor
+Primary_human_TGATTTCGTCTAAACC	1546	4262	0.034021586	2	Endothelial cells	Nontumor
+Primary_human_TGATTTCGTTCCGGCA	2008	5055	0.04115552	7	Fibroblasts	Nontumor
+Primary_human_TGATTTCTCACGCGGT	6990	62146	0.041182529	0	Basal tumor cells	Tumor
+Primary_human_TGATTTCTCTTACCGC	1315	3065	0.009464752	1	Tcell	Nontumor
+Primary_human_TGCCAAACACATTCGA	1134	4062	0.018709995	1	Tcell	Nontumor
+Primary_human_TGCCAAATCAGTGCAT	595	1404	0.013542409	9	Unknown2	Nontumor
+Primary_human_TGCCCATGTAAATGAC	1201	2977	0.016806723	1	Tcell	Nontumor
+Primary_human_TGCCCATGTCATTAGC	526	863	0.002317497	4	Fibroblasts	Nontumor
+Primary_human_TGCCCATGTGGGTATG	997	3309	0.0356711	1	Tcell	Nontumor
+Primary_human_TGCCCATGTTACTGAC	2804	13523	0.019451224	3	Macrophages	Nontumor
+Primary_human_TGCCCATTCAAACCAC	1153	2855	0.010865755	1	Tcell	Nontumor
+Primary_human_TGCCCATTCTGCTGTC	5575	33711	0.023142654	0	Basal tumor cells	Tumor
+Primary_human_TGCCCTACAATAGCGG	564	1274	0.037706206	1	Tcell	Nontumor
+Primary_human_TGCCCTATCGCACTCT	1014	3017	0.028524046	8	Unknown1	Nontumor
+Primary_human_TGCCCTATCTTACCGC	5787	34306	0.041076322	0	Basal tumor cells	Tumor
+Primary_human_TGCGCAGGTGCCTTGG	3721	20691	0.020307514	3	Macrophages	Nontumor
+Primary_human_TGCGGGTAGGTGGGTT	3027	9371	0.03961136	7	Fibroblasts	Nontumor
+Primary_human_TGCGGGTAGTGTTAGA	961	2288	0.016608392	3	Macrophages	Nontumor
+Primary_human_TGCGGGTCAATGGAGC	4824	27064	0.04789003	0	Basal tumor cells	Tumor
+Primary_human_TGCGGGTCACAAGACG	2501	8150	0.040741195	6	Urothelial cells	Nontumor
+Primary_human_TGCGGGTCAGATGGGT	1115	2943	0.014960898	1	Tcell	Nontumor
+Primary_human_TGCGGGTGTAAGTGTA	870	2778	0.05259366	1	Tcell	Nontumor
+Primary_human_TGCGGGTGTCAGATAA	1599	4695	0.030670927	3	Macrophages	Nontumor
+Primary_human_TGCGGGTGTTAGATGA	1604	3456	0.012735166	2	Endothelial cells	Nontumor
+Primary_human_TGCGTGGAGTACGCCC	1066	2646	0.057823129	5	Muscle cells	Nontumor
+Primary_human_TGCGTGGCAATGGATA	1028	2172	0.067219153	2	Endothelial cells	Nontumor
+Primary_human_TGCGTGGCACCCAGTG	3650	15645	0.033565629	3	Macrophages	Nontumor
+Primary_human_TGCGTGGCACTCAGGC	2290	6247	0.017470749	2	Endothelial cells	Nontumor
+Primary_human_TGCGTGGCAGATAATG	1103	3847	0.024700988	1	Tcell	Nontumor
+Primary_human_TGCGTGGGTGACGCCT	1761	5071	0.018540434	5	Muscle cells	Nontumor
+Primary_human_TGCGTGGTCGGAGGTA	2745	8205	0.028035105	7	Fibroblasts	Nontumor
+Primary_human_TGCTACCAGGAGTTGC	1864	4958	0.021993543	5	Muscle cells	Nontumor
+Primary_human_TGCTACCAGGATATAC	2084	8393	0.026695269	3	Macrophages	Nontumor
+Primary_human_TGCTACCAGTCAAGCG	1729	4399	0.055467152	2	Endothelial cells	Nontumor
+Primary_human_TGCTACCCAATAAGCA	3461	13190	0.04330022	0	Basal tumor cells	Tumor
+Primary_human_TGCTACCCACAGGTTT	537	1142	0.029798422	9	Unknown2	Nontumor
+Primary_human_TGCTACCCAGCCTATA	3632	15855	0.030907027	2	Endothelial cells	Nontumor
+Primary_human_TGCTACCTCCTCCTAG	1127	2745	0.021857923	1	Tcell	Nontumor
+Primary_human_TGCTGCTGTACCGGCT	3589	14239	0.024237741	2	Endothelial cells	Nontumor
+Primary_human_TGCTGCTGTTATCGGT	2063	7066	0.03707897	3	Macrophages	Nontumor
+Primary_human_TGGACGCAGCAATATG	1605	4816	0.072051495	2	Endothelial cells	Nontumor
+Primary_human_TGGACGCAGCCTATGT	1694	4161	0.020908435	2	Endothelial cells	Nontumor
+Primary_human_TGGACGCCAGTATAAG	867	2187	0.020128088	1	Tcell	Nontumor
+Primary_human_TGGACGCCAGTGACAG	3460	12331	0.01297648	0	Basal tumor cells	Tumor
+Primary_human_TGGACGCTCAGCACAT	1429	3908	0.049385875	2	Endothelial cells	Nontumor
+Primary_human_TGGACGCTCGCATGGC	936	2443	0.022122081	1	Tcell	Nontumor
+Primary_human_TGGCCAGAGGAGCGTT	5485	35318	0.02384256	0	Basal tumor cells	Tumor
+Primary_human_TGGCCAGCATTTCACT	3045	10058	0.017212218	4	Fibroblasts	Nontumor
+Primary_human_TGGCCAGGTCTAGCGC	1902	6649	0.032786885	3	Macrophages	Nontumor
+Primary_human_TGGCGCAAGAAACCGC	872	2074	0.072806172	2	Endothelial cells	Nontumor
+Primary_human_TGGCGCAAGGGATCTG	2564	7627	0.022572178	4	Fibroblasts	Nontumor
+Primary_human_TGGCGCATCAATACCG	6209	44644	0.034902997	0	Basal tumor cells	Tumor
+Primary_human_TGGCGCATCTTCAACT	690	1812	0.027609056	9	Unknown2	Nontumor
+Primary_human_TGGCTGGAGAATGTGT	2117	5714	0.022763089	7	Fibroblasts	Nontumor
+Primary_human_TGGCTGGAGATAGTCA	2038	6419	0.042380804	3	Macrophages	Nontumor
+Primary_human_TGGCTGGAGCTAAACA	4889	23817	0.029726666	4	Fibroblasts	Nontumor
+Primary_human_TGGCTGGCAAGGTTCT	1013	2589	0.022797527	1	Tcell	Nontumor
+Primary_human_TGGCTGGCATGCAATC	3059	11774	0.021323592	4	Fibroblasts	Nontumor
+Primary_human_TGGGAAGAGAGGTAGA	3643	18579	0.024064603	3	Macrophages	Nontumor
+Primary_human_TGGGAAGAGGCGACAT	1835	5288	0.022881997	5	Muscle cells	Nontumor
+Primary_human_TGGGAAGCATCACAAC	1207	2853	0.013679411	1	Tcell	Nontumor
+Primary_human_TGGGAAGGTAAGGATT	983	2796	0.029695886	1	Tcell	Nontumor
+Primary_human_TGGGAAGTCTGCTGCT	1919	5046	0.04222002	4	Fibroblasts	Nontumor
+Primary_human_TGGGCGTAGCTGCGAA	1461	3750	0.01040555	5	Muscle cells	Nontumor
+Primary_human_TGGGCGTCAACTGCTA	2348	8490	0.000117786	0	Basal tumor cells	Tumor
+Primary_human_TGGGCGTCATACGCCG	951	3210	0.026488002	8	Unknown1	Nontumor
+Primary_human_TGGGCGTGTCAGAATA	2448	7554	0.024231992	5	Muscle cells	Nontumor
+Primary_human_TGGTTAGAGCTGGAAC	958	2719	0.035688006	1	Tcell	Nontumor
+Primary_human_TGGTTAGAGTGTTGAA	867	2028	0.064627528	2	Endothelial cells	Nontumor
+Primary_human_TGGTTAGGTGTTTGTG	4474	19976	0.023130069	4	Fibroblasts	Nontumor
+Primary_human_TGGTTAGGTTCCACTC	713	1661	0.025888019	1	Tcell	Nontumor
+Primary_human_TGGTTAGTCAAACCAC	5946	37766	0.074129986	0	Basal tumor cells	Tumor
+Primary_human_TGGTTAGTCAGTGTTG	3864	16210	0.020175222	4	Fibroblasts	Nontumor
+Primary_human_TGGTTCCCAAGAGTCG	1623	4121	0.028148508	2	Endothelial cells	Nontumor
+Primary_human_TGGTTCCCAAGCCCAC	2395	6409	0.036204744	2	Endothelial cells	Nontumor
+Primary_human_TGGTTCCCAAGTTGTC	2169	9663	0.024632581	3	Macrophages	Nontumor
+Primary_human_TGGTTCCGTACTCGCG	2676	13071	0.024789594	3	Macrophages	Nontumor
+Primary_human_TGGTTCCGTACTCTCC	771	1816	0.011563877	1	Tcell	Nontumor
+Primary_human_TGGTTCCGTCTTGTCC	3054	10083	0.028169014	4	Fibroblasts	Nontumor
+Primary_human_TGGTTCCGTGATAAGT	2436	6373	0.06873823	0	Basal tumor cells	Tumor
+Primary_human_TGGTTCCTCGCGTTTC	1279	3228	0.023853779	1	Tcell	Nontumor
+Primary_human_TGTATTCAGCTTTGGT	529	1050	0.031458532	1	Tcell	Nontumor
+Primary_human_TGTATTCAGGTAAACT	2046	6808	0.032021152	2	Endothelial cells	Nontumor
+Primary_human_TGTATTCAGTGATCGG	7225	78366	0.023137395	0	Basal tumor cells	Tumor
+Primary_human_TGTATTCAGTGTTAGA	2009	5571	0.021364452	5	Muscle cells	Nontumor
+Primary_human_TGTATTCCAAGGGTCA	3175	12169	0.037804076	4	Fibroblasts	Nontumor
+Primary_human_TGTATTCGTCATTAGC	2283	6981	0.021630139	2	Endothelial cells	Nontumor
+Primary_human_TGTATTCGTCTCTTTA	4807	22610	0.039591259	0	Basal tumor cells	Tumor
+Primary_human_TGTATTCGTGTCCTCT	1038	3630	0.043526171	3	Macrophages	Nontumor
+Primary_human_TGTATTCTCTGCAGTA	730	1592	0.038969202	1	Tcell	Nontumor
+Primary_human_TGTCCCAAGGCGCTCT	874	2695	0.023014105	1	Tcell	Nontumor
+Primary_human_TGTCCCACAATAGCAA	1418	4010	0.025692193	3	Macrophages	Nontumor
+Primary_human_TGTCCCACAGGTCCAC	2919	11211	0.009814418	2	Endothelial cells	Nontumor
+Primary_human_TGTCCCACATGGGAAC	6974	52375	0.04689887	0	Basal tumor cells	Tumor
+Primary_human_TGTCCCATCGCCTGAG	554	1086	0.021178637	5	Muscle cells	Nontumor
+Primary_human_TGTCCCATCTCCTATA	521	1475	0.046779661	1	Tcell	Nontumor
+Primary_human_TGTGGTAAGATCCCGC	782	1759	0.018771331	1	Tcell	Nontumor
+Primary_human_TGTGGTAAGCCAGAAC	2562	8010	0.030094905	5	Muscle cells	Nontumor
+Primary_human_TGTGGTAGTCAATACC	3361	13984	0.025820757	3	Macrophages	Nontumor
+Primary_human_TGTGGTAGTCATTAGC	1957	7256	0.02783903	3	Macrophages	Nontumor
+Primary_human_TGTGGTATCACCGTAA	1139	2861	0.004893394	1	Tcell	Nontumor
+Primary_human_TGTGGTATCCAAGTAC	782	2320	0.015948276	1	Tcell	Nontumor
+Primary_human_TGTGTTTAGTGACTCT	4883	21494	0.045883941	0	Basal tumor cells	Tumor
+Primary_human_TGTGTTTCAGTGACAG	1407	4306	0.075493612	2	Endothelial cells	Nontumor
+Primary_human_TGTGTTTCATTCTCAT	922	3510	0.045882018	1	Tcell	Nontumor
+Primary_human_TGTGTTTTCAGAAATG	1588	3546	0.022002821	2	Endothelial cells	Nontumor
+Primary_human_TGTTCCGCACGGCGTT	3136	11363	0.021212921	4	Fibroblasts	Nontumor
+Primary_human_TGTTCCGCACTAAGTC	3034	9963	0.066472537	6	Urothelial cells	Nontumor
+Primary_human_TTAACTCAGCCGATTT	621	1156	0.000865052	2	Endothelial cells	Nontumor
+Primary_human_TTAACTCCAGGCGATA	2629	7132	0.000280466	0	Basal tumor cells	Tumor
+Primary_human_TTAACTCGTGTGAAAT	629	1503	0.001996008	1	Tcell	Nontumor
+Primary_human_TTAGGCAAGAATTCCC	751	2010	0.032852165	1	Tcell	Nontumor
+Primary_human_TTAGGCAAGCCACGTC	2496	8881	0.042121861	3	Macrophages	Nontumor
+Primary_human_TTAGTTCAGTCGCCGT	825	1847	0.028153763	9	Unknown2	Nontumor
+Primary_human_TTAGTTCCAAGAGTCG	1399	3649	0.059468347	2	Endothelial cells	Nontumor
+Primary_human_TTAGTTCCACATCTTT	5295	18957	0.08799789	0	Basal tumor cells	Tumor
+Primary_human_TTAGTTCGTGTTTGGT	2374	8746	0.000800366	0	Basal tumor cells	Tumor
+Primary_human_TTAGTTCGTTATCACG	1482	4588	0.05057772	2	Endothelial cells	Nontumor
+Primary_human_TTATGCTCATATGGTC	1509	4415	0.022197055	7	Fibroblasts	Nontumor
+Primary_human_TTATGCTCATCAGTCA	2514	8222	0.041357499	5	Muscle cells	Nontumor
+Primary_human_TTATGCTGTTGTTTGG	1086	2479	0.033077854	1	Tcell	Nontumor
+Primary_human_TTATGCTTCTGGCGTG	1023	2196	0	5	Muscle cells	Nontumor
+Primary_human_TTCCCAGCATCGGGTC	2811	17271	0.009788023	3	Macrophages	Nontumor
+Primary_human_TTCCCAGGTGTAACGG	1812	6836	0.022674078	3	Macrophages	Nontumor
+Primary_human_TTCCCAGTCGTTTAGG	2180	5391	0.03116305	7	Fibroblasts	Nontumor
+Primary_human_TTCGAAGAGCACAGGT	4999	22767	0.028157259	0	Basal tumor cells	Tumor
+Primary_human_TTCGAAGAGGCATTGG	2648	8897	0.017879231	4	Fibroblasts	Nontumor
+Primary_human_TTCGAAGGTCATCGGC	3257	11228	0.019155381	7	Fibroblasts	Nontumor
+Primary_human_TTCGAAGGTGCCTGTG	934	2961	0.026004728	1	Tcell	Nontumor
+Primary_human_TTCGAAGTCATGGTCA	4799	23538	0.016741735	0	Basal tumor cells	Tumor
+Primary_human_TTCGAAGTCTCAAGTG	2159	6950	0.023600518	2	Endothelial cells	Nontumor
+Primary_human_TTCGAAGTCTTTCCTC	4431	23625	0.028868947	0	Basal tumor cells	Tumor
+Primary_human_TTCGGTCAGCTGAACG	2817	7739	0.080651415	0	Basal tumor cells	Tumor
+Primary_human_TTCGGTCCACCGAATT	2104	5534	0.030566106	5	Muscle cells	Nontumor
+Primary_human_TTCGGTCCATCCCATC	1504	3683	0.018473241	2	Endothelial cells	Nontumor
+Primary_human_TTCTACAAGGAGTCTG	931	2371	0.029113924	1	Tcell	Nontumor
+Primary_human_TTCTACACATGTTGAC	2644	8292	0.01495778	4	Fibroblasts	Nontumor
+Primary_human_TTCTACAGTAGCAAAT	1667	4392	0.020040993	5	Muscle cells	Nontumor
+Primary_human_TTCTACAGTAGCGATG	4238	19327	0.040103493	0	Basal tumor cells	Tumor
+Primary_human_TTCTCAATCTCCCTGA	1826	4662	0.018021884	2	Endothelial cells	Nontumor
+Primary_human_TTCTCAATCTGAAAGA	4794	19908	0.053149804	0	Basal tumor cells	Tumor
+Primary_human_TTCTCCTGTAAACACA	1866	5613	0.029044904	2	Endothelial cells	Nontumor
+Primary_human_TTCTCCTTCCTAAGTG	762	1531	0.058785108	3	Macrophages	Nontumor
+Primary_human_TTCTTAGAGCCGTCGT	871	2010	0.027363184	1	Tcell	Nontumor
+Primary_human_TTCTTAGAGGATTCGG	7365	67866	0.031048304	0	Basal tumor cells	Tumor
+Primary_human_TTCTTAGCACAGAGGT	2961	9867	0.026459854	2	Endothelial cells	Nontumor
+Primary_human_TTCTTAGCATGACATC	4439	18718	0.02195982	4	Fibroblasts	Nontumor
+Primary_human_TTCTTAGTCAAGAAGT	2335	5507	0.033605813	2	Endothelial cells	Nontumor
+Primary_human_TTCTTAGTCCGCAGTG	3123	10894	0.02377892	4	Fibroblasts	Nontumor
+Primary_human_TTCTTAGTCTACTCAT	5607	28088	0.028486985	0	Basal tumor cells	Tumor
+Primary_human_TTCTTAGTCTCGAGTA	6385	40345	0.025509445	0	Basal tumor cells	Tumor
+Primary_human_TTGAACGAGTACGCCC	752	2004	0.021956088	1	Tcell	Nontumor
+Primary_human_TTGAACGCATTACCTT	7253	60386	0.029164803	0	Basal tumor cells	Tumor
+Primary_human_TTGAACGGTATAATGG	1660	4629	0.044069994	2	Endothelial cells	Nontumor
+Primary_human_TTGAACGGTGAAGGCT	1533	4651	0.022179156	8	Unknown1	Nontumor
+Primary_human_TTGAACGGTTCCGGCA	4699	26441	0.052836611	0	Basal tumor cells	Tumor
+Primary_human_TTGAACGTCCAAACAC	2403	7581	0.027975719	5	Muscle cells	Nontumor
+Primary_human_TTGAACGTCCGAATGT	930	2410	0.014937759	3	Macrophages	Nontumor
+Primary_human_TTGAACGTCTGTCCGT	774	2261	0.016806723	1	Tcell	Nontumor
+Primary_human_TTGACTTAGATGGCGT	608	1034	0.013565891	2	Endothelial cells	Nontumor
+Primary_human_TTGACTTAGCGCCTCA	1157	2703	0.011106997	1	Tcell	Nontumor
+Primary_human_TTGACTTCAACTGGCC	2300	6149	0.084891852	0	Basal tumor cells	Tumor
+Primary_human_TTGACTTCACAGCCCA	2262	9579	0.00041758	0	Basal tumor cells	Tumor
+Primary_human_TTGACTTCATGGTTGT	1979	5614	0.028510335	5	Muscle cells	Nontumor
+Primary_human_TTGACTTGTCAAGCGA	1888	5289	0.050690373	6	Urothelial cells	Nontumor
+Primary_human_TTGACTTGTCATATGC	934	2545	0.01572327	1	Tcell	Nontumor
+Primary_human_TTGACTTGTCGCATCG	4848	21900	0.048040917	0	Basal tumor cells	Tumor
+Primary_human_TTGACTTTCATTGCCC	941	2656	0.049717514	1	Tcell	Nontumor
+Primary_human_TTGACTTTCGCCAGCA	2485	7718	0.037334716	6	Urothelial cells	Nontumor
+Primary_human_TTGACTTTCGTTGACA	694	1465	0.036177474	1	Tcell	Nontumor
+Primary_human_TTGCCGTCACCGATAT	601	1686	0.03620178	1	Tcell	Nontumor
+Primary_human_TTGCCGTCAGTGAGTG	1715	3717	0.075349839	2	Endothelial cells	Nontumor
+Primary_human_TTGCCGTGTCGATTGT	6218	43038	0.031717632	0	Basal tumor cells	Tumor
+Primary_human_TTGCGTCAGATGTTAG	2511	7382	0.033739837	5	Muscle cells	Nontumor
+Primary_human_TTGGAACCAAGTAGTA	5692	37547	0.038274071	0	Basal tumor cells	Tumor
+Primary_human_TTGGAACGTCAGAAGC	817	2108	0.017552182	5	Muscle cells	Nontumor
+Primary_human_TTGGAACGTCCTGCTT	1676	4369	0.04532967	2	Endothelial cells	Nontumor
+Primary_human_TTGGAACGTGCTTCTC	1034	3186	0.020087884	1	Tcell	Nontumor
+Primary_human_TTGGCAAAGAAGAAGC	618	2167	0.039686202	8	Unknown1	Nontumor
+Primary_human_TTGGCAAAGTGGCACA	808	2194	0.048769371	1	Tcell	Nontumor
+Primary_human_TTGGCAACAGACAAGC	3986	16632	0.024834636	4	Fibroblasts	Nontumor
+Primary_human_TTGGCAACAGTAGAGC	2027	5461	0.015564915	5	Muscle cells	Nontumor
+Primary_human_TTGGCAAGTGCCTGCA	1223	2871	0.018460467	1	Tcell	Nontumor
+Primary_human_TTGGCAAGTTCCACGG	1778	5707	0.018603019	8	Unknown1	Nontumor
+Primary_human_TTGTAGGAGGCTAGCA	2286	6309	0.031076582	7	Fibroblasts	Nontumor
+Primary_human_TTGTAGGCACCTGGTG	946	2491	0.012846246	1	Tcell	Nontumor
+Primary_human_TTGTAGGGTTGTGGCC	983	2588	0.019713954	9	Unknown2	Nontumor
+Primary_human_TTGTAGGTCGGTTCGG	4401	17233	0.060352832	0	Basal tumor cells	Tumor
+Primary_human_TTTACTGGTCCGTTAA	4717	25413	0.072845336	0	Basal tumor cells	Tumor
+Primary_human_TTTATGCAGCTCTCGG	619	1400	0.072142857	5	Muscle cells	Nontumor
+Primary_human_TTTATGCCAGTCACTA	1181	3190	0.065830721	3	Macrophages	Nontumor
+Primary_human_TTTATGCCATGGTTGT	2346	8706	0.015395221	3	Macrophages	Nontumor
+Primary_human_TTTATGCTCCATTCTA	4641	21250	0.028523016	0	Basal tumor cells	Tumor
+Primary_human_TTTCCTCAGAAACCAT	948	2575	0.03223301	1	Tcell	Nontumor
+Primary_human_TTTCCTCAGCTCCTCT	4832	22718	0.028746258	0	Basal tumor cells	Tumor
+Primary_human_TTTCCTCCAAATTGCC	851	2009	0.033366534	1	Tcell	Nontumor
+Primary_human_TTTGCGCAGGTAGCCA	5441	32079	0.048501294	6	Urothelial cells	Nontumor
+Primary_human_TTTGCGCGTACCGTAT	5722	33493	0.037024872	0	Basal tumor cells	Tumor
+Primary_human_TTTGCGCGTGATGTGG	1094	3243	0.016656385	1	Tcell	Nontumor
+Primary_human_TTTGCGCTCTAGAGTC	3818	13116	0.007322096	0	Basal tumor cells	Tumor
+Primary_human_TTTGGTTCATGTTCCC	3841	14380	0.01391014	4	Fibroblasts	Nontumor
+Primary_human_TTTGGTTGTATATGGA	1190	2705	0.030683919	5	Muscle cells	Nontumor
+Primary_human_TTTGGTTGTCGCGGTT	3958	15426	0.039232216	0	Basal tumor cells	Tumor
+Primary_human_TTTGGTTGTCGCTTTC	2712	8441	0.01955208	4	Fibroblasts	Nontumor
+Primary_human_TTTGGTTTCTCGGACG	2056	6015	0.026276401	5	Muscle cells	Nontumor
+Primary_human_TTTGTCAAGTGGTAGC	2540	6432	0.046656299	2	Endothelial cells	Nontumor
+Primary_human_TTTGTCAAGTTGTAGA	952	2204	0.014972777	1	Tcell	Nontumor
+Primary_human_TTTGTCACATTTCAGG	666	1501	0.020652898	9	Unknown2	Nontumor
